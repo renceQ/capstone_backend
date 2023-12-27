@@ -1,0 +1,80 @@
+CRITICAL - 2023-12-06 12:15:00 --> Undefined array key "edit_category_id"
+in APPPATH\Controllers\MainController.php on line 38.
+ 1 APPPATH\Controllers\MainController.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "edit_category_id"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateItem('87')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-06 12:15:31 --> Undefined array key "edit_category_id"
+in APPPATH\Controllers\MainController.php on line 38.
+ 1 APPPATH\Controllers\MainController.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "edit_category_id"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateItem('87')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-06 12:23:53 --> Undefined variable $requiredFields
+in APPPATH\Controllers\MainController.php on line 41.
+ 1 APPPATH\Controllers\MainController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $requiredFields', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateItem('87')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-06 12:24:50 --> Undefined array key "edit_category_id"
+in APPPATH\Controllers\MainController.php on line 48.
+ 1 APPPATH\Controllers\MainController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "edit_category_id"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateItem('88')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-06 12:26:13 --> Undefined array key "edit_category_id"
+in APPPATH\Controllers\MainController.php on line 38.
+ 1 APPPATH\Controllers\MainController.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "edit_category_id"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateItem('87')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-06 12:26:15 --> Undefined array key "edit_category_id"
+in APPPATH\Controllers\MainController.php on line 38.
+ 1 APPPATH\Controllers\MainController.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "edit_category_id"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateItem('87')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-06 17:48:49 --> Attempt to assign property "category_id" on array
+in APPPATH\Controllers\MainController.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateItem('103')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-06 17:48:54 --> Attempt to assign property "category_id" on array
+in APPPATH\Controllers\MainController.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateItem('103')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-06 17:48:55 --> Attempt to assign property "category_id" on array
+in APPPATH\Controllers\MainController.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateItem('103')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-06 17:49:03 --> Attempt to assign property "category_id" on array
+in APPPATH\Controllers\MainController.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateItem('103')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-06 18:56:57 --> Undefined property: stdClass::$category_id
+in APPPATH\Controllers\MainController.php on line 40.
+ 1 APPPATH\Controllers\MainController.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$category_id', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 40)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateItem('105')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-06 18:56:59 --> Undefined property: stdClass::$category_id
+in APPPATH\Controllers\MainController.php on line 40.
+ 1 APPPATH\Controllers\MainController.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$category_id', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 40)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateItem('105')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()

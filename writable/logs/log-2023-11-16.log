@@ -1,0 +1,1190 @@
+CRITICAL - 2023-11-16 02:03:30 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:03:30 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:03:30 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:03:31 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:21:25 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH\Controllers\MainController.php on line 4.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-16 02:21:25 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH\Controllers\MainController.php on line 4.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-16 02:21:25 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH\Controllers\MainController.php on line 4.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-16 02:22:00 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH\Controllers\MainController.php on line 4.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-16 02:23:37 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 78.
+ 1 APPPATH\Controllers\MainController.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 78)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:23:38 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 78.
+ 1 APPPATH\Controllers\MainController.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 78)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:23:40 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 78.
+ 1 APPPATH\Controllers\MainController.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 78)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:35:02 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:35:04 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:35:04 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:39:38 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:39:39 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:41:39 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:41:40 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:41:40 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:41:40 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:41:40 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:41:40 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:41:41 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:41:41 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:41:41 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:41:41 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:41:42 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:41:43 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:42:14 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:42:15 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:42:35 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 75.
+ 1 APPPATH\Controllers\MainController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:52:05 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 APPPATH\Controllers\MainController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:52:06 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 APPPATH\Controllers\MainController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:52:06 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 APPPATH\Controllers\MainController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:52:27 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 APPPATH\Controllers\MainController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:52:28 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 APPPATH\Controllers\MainController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:52:28 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 APPPATH\Controllers\MainController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:52:29 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 APPPATH\Controllers\MainController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:52:29 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 APPPATH\Controllers\MainController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:52:32 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 APPPATH\Controllers\MainController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:52:32 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 APPPATH\Controllers\MainController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:52:33 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 APPPATH\Controllers\MainController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:52:34 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 APPPATH\Controllers\MainController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:52:34 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 21.
+ 1 APPPATH\Controllers\MainController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:55:53 --> Attempt to read property "trackcode" on null
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "trackcode" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:55:53 --> Attempt to read property "trackcode" on null
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "trackcode" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:55:53 --> Attempt to read property "trackcode" on null
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "trackcode" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:55:54 --> Attempt to read property "trackcode" on null
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "trackcode" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:55:54 --> Attempt to read property "trackcode" on null
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "trackcode" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:55:54 --> Attempt to read property "trackcode" on null
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "trackcode" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:55:55 --> Attempt to read property "trackcode" on null
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "trackcode" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:55:56 --> Attempt to read property "trackcode" on null
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "trackcode" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 02:55:56 --> Attempt to read property "trackcode" on null
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "trackcode" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:02:15 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:02:16 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:02:17 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:02:17 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:02:17 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:02:18 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:02:22 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:02:22 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:02:22 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:06:09 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:06:10 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:06:10 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:06:10 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:06:10 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:06:11 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:06:11 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:06:11 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:06:11 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:06:14 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:06:14 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:06:14 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:09:02 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:09:02 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:09:03 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:09:03 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:09:03 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:09:03 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:09:25 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:09:26 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:09:26 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:09:26 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:09:26 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:16:55 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:16:56 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:16:56 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:16:56 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:16:57 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:16:57 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:16:58 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:16:59 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:16:59 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:16:59 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:20:16 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:28:16 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 51.
+ 1 APPPATH\Controllers\MainController.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:28:17 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 51.
+ 1 APPPATH\Controllers\MainController.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:28:17 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 51.
+ 1 APPPATH\Controllers\MainController.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:28:17 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 51.
+ 1 APPPATH\Controllers\MainController.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:28:17 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 51.
+ 1 APPPATH\Controllers\MainController.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:28:17 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 51.
+ 1 APPPATH\Controllers\MainController.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:28:18 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 51.
+ 1 APPPATH\Controllers\MainController.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:28:18 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 51.
+ 1 APPPATH\Controllers\MainController.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:28:18 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 51.
+ 1 APPPATH\Controllers\MainController.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:28:18 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 51.
+ 1 APPPATH\Controllers\MainController.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:28:18 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 51.
+ 1 APPPATH\Controllers\MainController.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:28:18 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 51.
+ 1 APPPATH\Controllers\MainController.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:28:19 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 51.
+ 1 APPPATH\Controllers\MainController.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:28:19 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 51.
+ 1 APPPATH\Controllers\MainController.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:28:19 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 51.
+ 1 APPPATH\Controllers\MainController.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 03:28:19 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 51.
+ 1 APPPATH\Controllers\MainController.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:21:27 --> syntax error, unexpected variable "$cat"
+in APPPATH\Controllers\MainController.php on line 114.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:21:35 --> syntax error, unexpected variable "$cat"
+in APPPATH\Controllers\MainController.php on line 114.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:21:46 --> syntax error, unexpected variable "$cat"
+in APPPATH\Controllers\MainController.php on line 114.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:23:45 --> syntax error, unexpected variable "$cat"
+in APPPATH\Controllers\MainController.php on line 114.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:23:47 --> syntax error, unexpected variable "$cat"
+in APPPATH\Controllers\MainController.php on line 114.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:23:53 --> syntax error, unexpected variable "$cat"
+in APPPATH\Controllers\MainController.php on line 114.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:23:54 --> syntax error, unexpected variable "$cat"
+in APPPATH\Controllers\MainController.php on line 114.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:25:18 --> syntax error, unexpected variable "$cat"
+in APPPATH\Controllers\MainController.php on line 114.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:25:22 --> syntax error, unexpected variable "$cat"
+in APPPATH\Controllers\MainController.php on line 114.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:25:37 --> syntax error, unexpected variable "$cat"
+in APPPATH\Controllers\MainController.php on line 114.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:25:44 --> syntax error, unexpected variable "$cat"
+in APPPATH\Controllers\MainController.php on line 114.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:28:33 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\MainController.php on line 110.
+ 1 APPPATH\Controllers\MainController.php(110): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 110)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecat()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:37:20 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:37:22 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:37:43 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:37:45 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:47:04 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:47:41 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:49:00 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:49:00 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:54:05 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:54:06 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:54:15 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:57:53 --> Undefined property: stdClass::$trackcode
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$trackcode', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 06:58:03 --> Undefined property: stdClass::$trackcode
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$trackcode', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:01:39 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:01:40 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:05:43 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:05:44 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:05:54 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:05:55 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:05:55 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:05:55 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:05:55 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:05:56 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:16:35 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:16:36 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:18:48 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:18:49 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:18:50 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:34:06 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:38:03 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:38:41 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecate()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 07:42:23 --> Call to undefined method App\Models\CategoryModel::savecate
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(114): CodeIgniter\Model->__call('savecate', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->savecateg()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 18:22:18 --> Unclosed '{' on line 14
+in APPPATH\Controllers\MainController.php on line 136.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 18:22:37 --> Undefined constant "App\Controllers\siz"
+in APPPATH\Controllers\MainController.php on line 125.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getsize()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 18:22:55 --> Undefined array key "id"
+in APPPATH\Controllers\MainController.php on line 130.
+ 1 APPPATH\Controllers\MainController.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 130)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getsize()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 18:24:15 --> Undefined array key "item_name"
+in APPPATH\Controllers\MainController.php on line 131.
+ 1 APPPATH\Controllers\MainController.php(131): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "item_name"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 131)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getsize()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 18:24:17 --> Undefined array key "item_name"
+in APPPATH\Controllers\MainController.php on line 131.
+ 1 APPPATH\Controllers\MainController.php(131): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "item_name"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 131)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getsize()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 18:24:18 --> Undefined array key "item_name"
+in APPPATH\Controllers\MainController.php on line 131.
+ 1 APPPATH\Controllers\MainController.php(131): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "item_name"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 131)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getsize()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 18:24:36 --> Undefined array key "item_name"
+in APPPATH\Controllers\MainController.php on line 131.
+ 1 APPPATH\Controllers\MainController.php(131): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "item_name"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 131)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getsize()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 18:26:38 --> Call to undefined function App\Controllers\respond()
+in APPPATH\Controllers\MainController.php on line 134.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getsize()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 18:29:16 --> Call to undefined function App\Controllers\respond()
+in APPPATH\Controllers\MainController.php on line 134.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getsize()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 18:29:31 --> Call to undefined function App\Controllers\respond()
+in APPPATH\Controllers\MainController.php on line 134.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getsize()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 18:30:02 --> Call to undefined function App\Controllers\respond()
+in APPPATH\Controllers\MainController.php on line 134.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getsize()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 18:30:03 --> Call to undefined function App\Controllers\respond()
+in APPPATH\Controllers\MainController.php on line 134.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getsize()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 18:33:43 --> Call to undefined function App\Controllers\respond()
+in APPPATH\Controllers\MainController.php on line 134.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getsize()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 18:34:54 --> Call to undefined function App\Controllers\respond()
+in APPPATH\Controllers\MainController.php on line 128.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getsize()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()

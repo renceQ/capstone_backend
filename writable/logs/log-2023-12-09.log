@@ -1,0 +1,70 @@
+CRITICAL - 2023-12-09 02:50:32 --> Call to undefined method App\Models\AuditModel::getAuditRecordsForProducts
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(355): CodeIgniter\Model->__call('getAuditRecordsForProducts', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getaudith()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-09 02:50:38 --> Call to undefined method App\Models\AuditModel::getAuditRecordsForProducts
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(355): CodeIgniter\Model->__call('getAuditRecordsForProducts', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getaudith()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-09 02:50:57 --> Call to undefined method App\Models\AuditModel::getAuditRecordsForProducts
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(355): CodeIgniter\Model->__call('getAuditRecordsForProducts', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getaudith()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-09 02:57:10 --> Call to undefined method App\Models\AuditModel::getAuditRecordsForProducts
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(355): CodeIgniter\Model->__call('getAuditRecordsForProducts', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getaudith()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-09 02:57:17 --> Call to undefined method App\Models\AuditModel::getAuditRecordsForProducts
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(355): CodeIgniter\Model->__call('getAuditRecordsForProducts', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getaudith()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-09 02:57:43 --> Call to undefined method App\Models\AuditModel::getAuditRecordsForProducts
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(355): CodeIgniter\Model->__call('getAuditRecordsForProducts', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getaudith()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-09 02:58:07 --> Call to undefined method App\Models\AuditModel::getAuditRecordsForProducts
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(355): CodeIgniter\Model->__call('getAuditRecordsForProducts', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getaudith()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-09 03:01:13 --> Call to undefined method App\Models\AuditModel::getAuditRecordsForProducts
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(355): CodeIgniter\Model->__call('getAuditRecordsForProducts', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getaudith()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-09 05:38:38 --> Too few arguments to function App\Controllers\MainController::getaudith(), 0 passed in C:\laragon\www\backend\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\MainController.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getaudith()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-09 05:39:04 --> Too few arguments to function App\Controllers\MainController::getaudith(), 0 passed in C:\laragon\www\backend\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\MainController.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getaudith()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()

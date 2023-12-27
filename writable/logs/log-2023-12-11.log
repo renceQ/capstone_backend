@@ -1,0 +1,94 @@
+CRITICAL - 2023-12-11 07:50:00 --> Undefined variable $eventId
+in APPPATH\Controllers\MainController.php on line 513.
+ 1 APPPATH\Controllers\MainController.php(513): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $eventId', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 513)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateEventStatus()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-11 08:17:04 --> Undefined variable $eventId
+in APPPATH\Controllers\MainController.php on line 513.
+ 1 APPPATH\Controllers\MainController.php(513): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $eventId', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 513)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateEventStatus()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-11 08:18:16 --> Undefined variable $eventId
+in APPPATH\Controllers\MainController.php on line 513.
+ 1 APPPATH\Controllers\MainController.php(513): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $eventId', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 513)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateEventStatus()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-11 08:30:18 --> Too few arguments to function App\Controllers\MainController::updateEventStatus(), 1 passed in C:\laragon\www\backend\system\CodeIgniter.php on line 942 and exactly 2 expected
+in APPPATH\Controllers\MainController.php on line 506.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateEventStatus('16')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-11 08:33:01 --> Too few arguments to function App\Controllers\MainController::updateEventStatus(), 1 passed in C:\laragon\www\backend\system\CodeIgniter.php on line 942 and exactly 2 expected
+in APPPATH\Controllers\MainController.php on line 506.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateEventStatus('16')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-11 08:35:08 --> Too few arguments to function App\Controllers\MainController::updateEventStatus(), 1 passed in C:\laragon\www\backend\system\CodeIgniter.php on line 942 and exactly 2 expected
+in APPPATH\Controllers\MainController.php on line 506.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateEventStatus('16')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-11 08:38:31 --> Class "Log" not found
+in APPPATH\Controllers\MainController.php on line 526.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateEventStatus('16', 'approved')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-11 08:38:31 --> Class "Log" not found
+in APPPATH\Controllers\MainController.php on line 526.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateEventStatus('16', 'approved')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-11 08:38:32 --> Class "Log" not found
+in APPPATH\Controllers\MainController.php on line 526.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateEventStatus('16', 'approved')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-11 08:38:32 --> Class "Log" not found
+in APPPATH\Controllers\MainController.php on line 526.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateEventStatus('16', 'approved')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-11 08:57:57 --> Too few arguments to function App\Controllers\MainController::updateEventStatus(), 1 passed in C:\laragon\www\backend\system\CodeIgniter.php on line 942 and exactly 2 expected
+in APPPATH\Controllers\MainController.php on line 505.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateEventStatus('16')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-11 08:58:22 --> Too few arguments to function App\Controllers\MainController::updateEventStatus(), 1 passed in C:\laragon\www\backend\system\CodeIgniter.php on line 942 and exactly 2 expected
+in APPPATH\Controllers\MainController.php on line 505.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateEventStatus('16')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-11 09:00:17 --> Too few arguments to function App\Controllers\MainController::updateEventStatus(), 1 passed in C:\laragon\www\backend\system\CodeIgniter.php on line 942 and exactly 2 expected
+in APPPATH\Controllers\MainController.php on line 505.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateEventStatus('16')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-11 09:02:39 --> Too few arguments to function App\Controllers\MainController::updateEventStatus(), 1 passed in C:\laragon\www\backend\system\CodeIgniter.php on line 942 and exactly 2 expected
+in APPPATH\Controllers\MainController.php on line 505.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateEventStatus('16')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-11 09:05:03 --> Undefined variable $status
+in APPPATH\Controllers\MainController.php on line 515.
+ 1 APPPATH\Controllers\MainController.php(515): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 515)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateEventStatus('16')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,144 @@
+CRITICAL - 2023-12-26 04:08:25 --> Undefined property: stdClass::$status
+in APPPATH\Controllers\MainController.php on line 432.
+ 1 APPPATH\Controllers\MainController.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$status', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 432)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-26 04:08:35 --> Undefined property: stdClass::$status
+in APPPATH\Controllers\MainController.php on line 432.
+ 1 APPPATH\Controllers\MainController.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$status', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 432)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-26 04:11:36 --> Undefined property: stdClass::$status
+in APPPATH\Controllers\MainController.php on line 432.
+ 1 APPPATH\Controllers\MainController.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$status', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 432)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-26 04:12:58 --> Undefined property: stdClass::$status
+in APPPATH\Controllers\MainController.php on line 432.
+ 1 APPPATH\Controllers\MainController.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$status', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 432)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-26 04:13:11 --> Undefined property: stdClass::$status
+in APPPATH\Controllers\MainController.php on line 432.
+ 1 APPPATH\Controllers\MainController.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$status', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 432)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-26 04:14:00 --> Undefined property: stdClass::$status
+in APPPATH\Controllers\MainController.php on line 432.
+ 1 APPPATH\Controllers\MainController.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$status', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 432)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-26 04:14:04 --> Undefined property: stdClass::$status
+in APPPATH\Controllers\MainController.php on line 432.
+ 1 APPPATH\Controllers\MainController.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$status', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 432)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-26 04:14:07 --> Undefined property: stdClass::$status
+in APPPATH\Controllers\MainController.php on line 432.
+ 1 APPPATH\Controllers\MainController.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$status', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 432)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-26 04:14:29 --> Undefined property: stdClass::$status
+in APPPATH\Controllers\MainController.php on line 432.
+ 1 APPPATH\Controllers\MainController.php(432): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$status', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 432)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-26 05:08:46 --> Undefined property: stdClass::$customerName
+in APPPATH\Controllers\MainController.php on line 451.
+ 1 APPPATH\Controllers\MainController.php(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$customerName', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 451)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->addtocart()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-26 05:09:36 --> Undefined property: stdClass::$customerName
+in APPPATH\Controllers\MainController.php on line 451.
+ 1 APPPATH\Controllers\MainController.php(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$customerName', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 451)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->addtocart()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-26 05:10:21 --> Undefined property: stdClass::$customerName
+in APPPATH\Controllers\MainController.php on line 427.
+ 1 APPPATH\Controllers\MainController.php(427): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$customerName', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 427)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-26 05:12:30 --> Undefined property: stdClass::$customerName
+in APPPATH\Controllers\MainController.php on line 427.
+ 1 APPPATH\Controllers\MainController.php(427): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$customerName', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 427)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-26 05:13:09 --> Undefined property: stdClass::$customerName
+in APPPATH\Controllers\MainController.php on line 451.
+ 1 APPPATH\Controllers\MainController.php(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$customerName', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 451)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->addtocart()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-26 05:17:30 --> Undefined property: stdClass::$customerName
+in APPPATH\Controllers\MainController.php on line 451.
+ 1 APPPATH\Controllers\MainController.php(451): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$customerName', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 451)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->addtocart()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-26 05:19:46 --> Undefined property: stdClass::$customerName
+in APPPATH\Controllers\MainController.php on line 427.
+ 1 APPPATH\Controllers\MainController.php(427): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$customerName', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 427)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-26 05:25:40 --> Undefined property: stdClass::$username
+in APPPATH\Controllers\MainController.php on line 427.
+ 1 APPPATH\Controllers\MainController.php(427): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$username', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 427)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')
+CRITICAL - 2023-12-26 05:25:48 --> Undefined property: stdClass::$username
+in APPPATH\Controllers\MainController.php on line 427.
+ 1 APPPATH\Controllers\MainController.php(427): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$username', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 427)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')

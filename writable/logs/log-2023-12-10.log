@@ -1,0 +1,239 @@
+ERROR - 2023-12-10 02:56:42 --> Error saving data:file_put_contents(C:\laragon\www\backend\/uploads/barcode_1702177002.png): Failed to open stream: No such file or directory
+ERROR - 2023-12-10 02:56:44 --> Error saving data:file_put_contents(C:\laragon\www\backend\/uploads/barcode_1702177004.png): Failed to open stream: No such file or directory
+ERROR - 2023-12-10 02:56:53 --> Error saving data:file_put_contents(C:\laragon\www\backend\uploads/barcode_1702177013.png): Failed to open stream: No such file or directory
+ERROR - 2023-12-10 02:57:13 --> Error saving data:file_put_contents(C:\laragon\www\backend\uploads/barcode_1702177033.png): Failed to open stream: No such file or directory
+ERROR - 2023-12-10 02:58:06 --> Error saving data:file_put_contents(C:\laragon\www\backend\/uploads/barcode_1702177086.png): Failed to open stream: No such file or directory
+ERROR - 2023-12-10 02:58:08 --> Error saving data:file_put_contents(C:\laragon\www\backend\/uploads/barcode_1702177088.png): Failed to open stream: No such file or directory
+ERROR - 2023-12-10 02:58:47 --> Error saving data:file_put_contents(C:\laragon\www\backend\uploads/barcode_1702177127.png): Failed to open stream: No such file or directory
+ERROR - 2023-12-10 02:58:48 --> Error saving data:file_put_contents(C:\laragon\www\backend\uploads/barcode_1702177128.png): Failed to open stream: No such file or directory
+CRITICAL - 2023-12-10 04:36:13 --> Undefined property: stdClass::$image
+in APPPATH\Controllers\MainController.php on line 394.
+ 1 APPPATH\Controllers\MainController.php(394): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$image', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 394)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 04:36:23 --> Undefined property: stdClass::$image
+in APPPATH\Controllers\MainController.php on line 394.
+ 1 APPPATH\Controllers\MainController.php(394): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$image', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 394)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 04:36:27 --> Undefined property: stdClass::$image
+in APPPATH\Controllers\MainController.php on line 394.
+ 1 APPPATH\Controllers\MainController.php(394): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$image', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 394)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 04:36:28 --> Undefined property: stdClass::$image
+in APPPATH\Controllers\MainController.php on line 394.
+ 1 APPPATH\Controllers\MainController.php(394): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$image', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 394)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 04:36:28 --> Undefined property: stdClass::$image
+in APPPATH\Controllers\MainController.php on line 394.
+ 1 APPPATH\Controllers\MainController.php(394): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$image', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 394)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 04:37:24 --> Undefined property: stdClass::$image
+in APPPATH\Controllers\MainController.php on line 394.
+ 1 APPPATH\Controllers\MainController.php(394): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$image', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 394)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 04:38:31 --> Undefined property: stdClass::$image
+in APPPATH\Controllers\MainController.php on line 394.
+ 1 APPPATH\Controllers\MainController.php(394): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$image', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 394)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 04:43:39 --> Undefined property: stdClass::$image
+in APPPATH\Controllers\MainController.php on line 394.
+ 1 APPPATH\Controllers\MainController.php(394): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$image', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 394)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 04:45:01 --> Undefined property: stdClass::$image
+in APPPATH\Controllers\MainController.php on line 394.
+ 1 APPPATH\Controllers\MainController.php(394): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$image', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 394)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 04:48:15 --> Undefined property: stdClass::$status
+in APPPATH\Controllers\MainController.php on line 403.
+ 1 APPPATH\Controllers\MainController.php(403): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$status', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 403)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 04:48:52 --> Undefined property: stdClass::$status
+in APPPATH\Controllers\MainController.php on line 403.
+ 1 APPPATH\Controllers\MainController.php(403): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$status', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 403)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 04:49:57 --> Undefined property: stdClass::$status
+in APPPATH\Controllers\MainController.php on line 403.
+ 1 APPPATH\Controllers\MainController.php(403): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$status', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 403)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 04:55:14 --> Undefined property: stdClass::$status
+in APPPATH\Controllers\MainController.php on line 403.
+ 1 APPPATH\Controllers\MainController.php(403): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$status', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 403)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 04:57:01 --> Undefined property: stdClass::$status
+in APPPATH\Controllers\MainController.php on line 403.
+ 1 APPPATH\Controllers\MainController.php(403): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$status', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 403)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 04:57:12 --> Undefined property: stdClass::$status
+in APPPATH\Controllers\MainController.php on line 403.
+ 1 APPPATH\Controllers\MainController.php(403): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$status', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 403)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 07:44:56 --> Undefined array key "product_id"
+in APPPATH\Controllers\MainController.php on line 441.
+ 1 APPPATH\Controllers\MainController.php(441): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "product_id"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 441)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('15')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 09:20:25 --> Undefined array key "product_id"
+in APPPATH\Controllers\MainController.php on line 441.
+ 1 APPPATH\Controllers\MainController.php(441): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "product_id"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 441)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('16')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 09:26:36 --> Undefined array key "product_id"
+in APPPATH\Controllers\MainController.php on line 441.
+ 1 APPPATH\Controllers\MainController.php(441): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "product_id"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 441)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('19')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 09:32:22 --> Undefined array key "product_id"
+in APPPATH\Controllers\MainController.php on line 441.
+ 1 APPPATH\Controllers\MainController.php(441): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "product_id"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 441)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('20')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 09:46:27 --> Undefined array key "product_id"
+in APPPATH\Controllers\MainController.php on line 441.
+ 1 APPPATH\Controllers\MainController.php(441): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "product_id"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 441)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('21')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 09:58:57 --> Undefined array key "product_id"
+in APPPATH\Controllers\MainController.php on line 441.
+ 1 APPPATH\Controllers\MainController.php(441): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "product_id"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 441)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('22')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 10:20:20 --> Attempt to read property "stock" on null
+in APPPATH\Controllers\MainController.php on line 446.
+ 1 APPPATH\Controllers\MainController.php(446): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "stock" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 446)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('25')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 10:20:24 --> Attempt to read property "stock" on null
+in APPPATH\Controllers\MainController.php on line 446.
+ 1 APPPATH\Controllers\MainController.php(446): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "stock" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 446)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('25')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 10:34:52 --> Undefined array key "product_id"
+in APPPATH\Controllers\MainController.php on line 441.
+ 1 APPPATH\Controllers\MainController.php(441): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "product_id"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 441)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('26')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 10:55:27 --> Undefined array key "product_id"
+in APPPATH\Controllers\MainController.php on line 443.
+ 1 APPPATH\Controllers\MainController.php(443): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "product_id"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 443)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('28')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 10:58:44 --> Undefined array key "product_id"
+in APPPATH\Controllers\MainController.php on line 443.
+ 1 APPPATH\Controllers\MainController.php(443): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "product_id"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 443)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('29')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 11:11:51 --> Call to undefined method App\Models\ProductModel::updateProductStock
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(447): CodeIgniter\Model->__call('updateProductStock', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('30')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 11:15:50 --> Call to undefined method App\Models\ProductModel::updateProductStock
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(447): CodeIgniter\Model->__call('updateProductStock', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('31')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 11:26:21 --> Undefined array key "product_id"
+in APPPATH\Controllers\MainController.php on line 443.
+ 1 APPPATH\Controllers\MainController.php(443): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "product_id"', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 443)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('33')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 12:27:30 --> Undefined variable $productId
+in APPPATH\Controllers\MainController.php on line 447.
+ 1 APPPATH\Controllers\MainController.php(447): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productId', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 447)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('34')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 13:33:15 --> Undefined property: stdClass::$product_id
+in APPPATH\Controllers\MainController.php on line 403.
+ 1 APPPATH\Controllers\MainController.php(403): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$product_id', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 403)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 13:33:24 --> Undefined property: stdClass::$product_id
+in APPPATH\Controllers\MainController.php on line 403.
+ 1 APPPATH\Controllers\MainController.php(403): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$product_id', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 403)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-10 13:35:03 --> Undefined property: stdClass::$product_id
+in APPPATH\Controllers\MainController.php on line 403.
+ 1 APPPATH\Controllers\MainController.php(403): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$product_id', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 403)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->placeOrder()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()

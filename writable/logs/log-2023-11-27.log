@@ -1,0 +1,13 @@
+CRITICAL - 2023-11-27 13:32:37 --> Call to a member function getValue() on null
+in APPPATH\Controllers\MainController.php on line 235.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getUserData()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-27 13:34:31 --> Call to a member function getValue() on null
+in APPPATH\Controllers\MainController.php on line 235.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getUserData()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\backend\\public\\index.php')

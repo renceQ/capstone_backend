@@ -1,0 +1,70 @@
+CRITICAL - 2023-12-08 06:18:31 --> Undefined property: App\Controllers\MainController::$db
+in APPPATH\Controllers\MainController.php on line 80.
+ 1 APPPATH\Controllers\MainController.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$db', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 80)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-08 06:18:33 --> Undefined property: App\Controllers\MainController::$db
+in APPPATH\Controllers\MainController.php on line 80.
+ 1 APPPATH\Controllers\MainController.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$db', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 80)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-08 06:18:34 --> Undefined property: App\Controllers\MainController::$db
+in APPPATH\Controllers\MainController.php on line 80.
+ 1 APPPATH\Controllers\MainController.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$db', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 80)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-08 06:18:35 --> Undefined property: App\Controllers\MainController::$db
+in APPPATH\Controllers\MainController.php on line 80.
+ 1 APPPATH\Controllers\MainController.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$db', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 80)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-08 06:18:35 --> Undefined property: App\Controllers\MainController::$db
+in APPPATH\Controllers\MainController.php on line 80.
+ 1 APPPATH\Controllers\MainController.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$db', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 80)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-08 06:18:35 --> Undefined property: App\Controllers\MainController::$db
+in APPPATH\Controllers\MainController.php on line 80.
+ 1 APPPATH\Controllers\MainController.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$db', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 80)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-08 06:18:35 --> Undefined property: App\Controllers\MainController::$db
+in APPPATH\Controllers\MainController.php on line 80.
+ 1 APPPATH\Controllers\MainController.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$db', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 80)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-08 06:52:37 --> Undefined variable $oldStock
+in APPPATH\Controllers\MainController.php on line 82.
+ 1 APPPATH\Controllers\MainController.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $oldStock', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateItem('122')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-08 06:52:40 --> Undefined variable $oldStock
+in APPPATH\Controllers\MainController.php on line 82.
+ 1 APPPATH\Controllers\MainController.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $oldStock', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateItem('122')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-08 06:52:40 --> Undefined variable $oldStock
+in APPPATH\Controllers\MainController.php on line 82.
+ 1 APPPATH\Controllers\MainController.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $oldStock', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateItem('122')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()

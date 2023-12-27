@@ -1,0 +1,1071 @@
+CRITICAL - 2023-11-13 14:07:30 --> Undefined property: stdClass::$gender
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$gender', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 14:07:30 --> Undefined property: stdClass::$gender
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$gender', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 14:07:34 --> Undefined property: stdClass::$gender
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$gender', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 14:07:35 --> Undefined property: stdClass::$gender
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$gender', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 14:45:44 --> Undefined property: stdClass::$gender
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$gender', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 14:51:07 --> Undefined property: stdClass::$gender
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$gender', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 14:51:08 --> Undefined property: stdClass::$gender
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$gender', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 14:58:09 --> Undefined property: stdClass::$gender
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$gender', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 20:50:11 --> Undefined property: stdClass::$gender
+in APPPATH\Controllers\MainController.php on line 22.
+ 1 APPPATH\Controllers\MainController.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$gender', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 20:52:43 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 25.
+ 1 APPPATH\Controllers\MainController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 20:52:45 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 25.
+ 1 APPPATH\Controllers\MainController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 20:53:17 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 25.
+ 1 APPPATH\Controllers\MainController.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 20:57:02 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 20:57:03 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 20:57:04 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 20:57:04 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 20:57:07 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 20:57:07 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 20:57:08 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 20:57:08 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 20:57:09 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 20:58:14 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 20:58:15 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 20:58:19 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 20:58:27 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:02:04 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:02:05 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:02:07 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:02:07 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:02:07 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:02:17 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:05:50 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:05:52 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:05:53 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:05:54 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:05:57 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:06:43 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:06:53 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:06:56 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:10:54 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:10:56 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:10:57 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:10:57 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:11:27 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:11:28 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:14:39 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:14:40 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:14:41 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:14:41 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:21:02 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:21:03 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:21:03 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:21:04 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:21:05 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:31:11 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:31:12 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:31:13 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:31:13 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:31:13 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:31:13 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:33:37 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:33:38 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:33:39 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:33:39 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:33:40 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:34:32 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:34:33 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:34:33 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:34:33 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:39:25 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:39:26 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:39:26 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:39:26 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:39:27 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:39:29 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:39:29 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:39:30 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:39:30 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:39:52 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:39:53 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:42:41 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:42:42 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:42:42 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:42:42 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:42:43 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:42:43 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:42:43 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:42:43 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:42:43 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:42:44 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:43:07 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:43:08 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:43:59 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:44:00 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:44:00 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:44:06 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:44:07 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:44:07 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:45:20 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:45:21 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:45:21 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:45:21 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:46:11 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:46:11 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:46:11 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:46:52 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:46:54 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:47:14 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:47:14 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:47:14 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 21:47:15 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:02:18 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:02:21 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:02:25 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:02:26 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:10:56 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:10:57 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:10:58 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:10:58 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:10:59 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:10:59 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:10:59 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:10:59 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:10:59 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:11:00 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:11:00 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:11:00 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:11:00 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:11:00 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:11:01 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:11:01 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:11:01 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:11:01 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:11:39 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:11:40 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:11:41 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:11:41 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:55:39 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:55:40 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:56:00 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 22:56:01 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 24.
+ 1 APPPATH\Controllers\MainController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 23:12:17 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 23.
+ 1 APPPATH\Controllers\MainController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 23:12:19 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 23.
+ 1 APPPATH\Controllers\MainController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 23:12:37 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 23.
+ 1 APPPATH\Controllers\MainController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 23:12:38 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 23.
+ 1 APPPATH\Controllers\MainController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 23:12:38 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 23.
+ 1 APPPATH\Controllers\MainController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 23:12:39 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 23.
+ 1 APPPATH\Controllers\MainController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 23:12:39 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 23.
+ 1 APPPATH\Controllers\MainController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 23:12:39 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 23.
+ 1 APPPATH\Controllers\MainController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 23:12:39 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 23.
+ 1 APPPATH\Controllers\MainController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 23:20:54 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 23.
+ 1 APPPATH\Controllers\MainController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 23:20:55 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 23.
+ 1 APPPATH\Controllers\MainController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 23:20:55 --> Undefined property: stdClass::$age
+in APPPATH\Controllers\MainController.php on line 23.
+ 1 APPPATH\Controllers\MainController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$age', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()

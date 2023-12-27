@@ -1,0 +1,104 @@
+CRITICAL - 2023-11-17 01:59:09 --> Attempt to read property "trackcode" on null
+in APPPATH\Controllers\MainController.php on line 23.
+ 1 APPPATH\Controllers\MainController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "trackcode" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-17 01:59:10 --> Attempt to read property "trackcode" on null
+in APPPATH\Controllers\MainController.php on line 23.
+ 1 APPPATH\Controllers\MainController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "trackcode" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-17 01:59:10 --> Attempt to read property "trackcode" on null
+in APPPATH\Controllers\MainController.php on line 23.
+ 1 APPPATH\Controllers\MainController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "trackcode" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-17 10:49:08 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 81.
+ 1 APPPATH\Controllers\MainController.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 81)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-17 10:49:10 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 81.
+ 1 APPPATH\Controllers\MainController.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 81)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-17 10:49:33 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 81.
+ 1 APPPATH\Controllers\MainController.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 81)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-17 10:49:34 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 81.
+ 1 APPPATH\Controllers\MainController.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 81)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-17 10:52:30 --> Attempt to read property "category_id" on null
+in APPPATH\Controllers\MainController.php on line 52.
+ 1 APPPATH\Controllers\MainController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "category_id" on null', 'C:\\laragon\\www\\backend\\app\\Controllers\\MainController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-17 10:56:43 --> Product insertion failed: Attempt to read property "category_id" on null
+ERROR - 2023-11-17 11:00:03 --> Product insertion failed: Attempt to read property "category_id" on null
+ERROR - 2023-11-17 11:05:16 --> Product insertion failed: Attempt to read property "category_id" on null
+ERROR - 2023-11-17 11:05:52 --> Product insertion failed: Attempt to read property "category_id" on null
+ERROR - 2023-11-17 11:06:15 --> Product insertion failed: Attempt to read property "category_id" on null
+CRITICAL - 2023-11-17 11:06:15 --> 600 is not a valid HTTP return status code
+in SYSTEMPATH\HTTP\ResponseTrait.php on line 155.
+ 1 SYSTEMPATH\HTTP\ResponseTrait.php(155): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidStatusCode(600)
+ 2 SYSTEMPATH\API\ResponseTrait.php(103): CodeIgniter\HTTP\Response->setStatusCode(600, '')
+ 3 APPPATH\Controllers\MainController.php(95): CodeIgniter\RESTful\ResourceController->respond([...], 600)
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-17 11:06:16 --> Product insertion failed: Attempt to read property "category_id" on null
+CRITICAL - 2023-11-17 11:06:16 --> 600 is not a valid HTTP return status code
+in SYSTEMPATH\HTTP\ResponseTrait.php on line 155.
+ 1 SYSTEMPATH\HTTP\ResponseTrait.php(155): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidStatusCode(600)
+ 2 SYSTEMPATH\API\ResponseTrait.php(103): CodeIgniter\HTTP\Response->setStatusCode(600, '')
+ 3 APPPATH\Controllers\MainController.php(95): CodeIgniter\RESTful\ResourceController->respond([...], 600)
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-17 11:06:36 --> Product insertion failed: Attempt to read property "category_id" on null
+CRITICAL - 2023-11-17 11:06:36 --> 600 is not a valid HTTP return status code
+in SYSTEMPATH\HTTP\ResponseTrait.php on line 155.
+ 1 SYSTEMPATH\HTTP\ResponseTrait.php(155): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidStatusCode(600)
+ 2 SYSTEMPATH\API\ResponseTrait.php(103): CodeIgniter\HTTP\Response->setStatusCode(600, '')
+ 3 APPPATH\Controllers\MainController.php(95): CodeIgniter\RESTful\ResourceController->respond([...], 600)
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-17 11:08:39 --> Product insertion failed: Attempt to read property "category_id" on null
+ERROR - 2023-11-17 11:22:27 --> Product insertion failed: Attempt to read property "category_id" on null
+ERROR - 2023-11-17 11:26:45 --> Product insertion failed: Attempt to read property "category_id" on null
+ERROR - 2023-11-17 11:27:20 --> Product insertion failed: Attempt to read property "category_id" on null
+CRITICAL - 2023-11-17 11:27:20 --> 600 is not a valid HTTP return status code
+in SYSTEMPATH\HTTP\ResponseTrait.php on line 155.
+ 1 SYSTEMPATH\HTTP\ResponseTrait.php(155): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidStatusCode(600)
+ 2 SYSTEMPATH\API\ResponseTrait.php(103): CodeIgniter\HTTP\Response->setStatusCode(600, '')
+ 3 APPPATH\Controllers\MainController.php(97): CodeIgniter\RESTful\ResourceController->respond([...], 600)
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sav()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-17 11:28:20 --> Product insertion failed: Attempt to read property "category_id" on null
