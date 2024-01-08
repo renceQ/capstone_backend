@@ -430,6 +430,7 @@ public function getsales($productId)
       'total' => $json->total,
       'token' => $json->token,
       'status' => $json->status,
+      'category_id' => $json->category_id,
 
     ];
       $ordermodel = new OrderModel();
@@ -469,6 +470,12 @@ public function getsales($productId)
     return $this->respond($data, 200);
   }
 
+  public function getprod()
+  {
+    $productModel = new ProductModel();
+    $data = $productModel->findAll();
+    return $this->respond($data, 200);
+  }
 
 
 // Update order status and save data to sales table
@@ -666,6 +673,36 @@ public function updateEventStatus()
             $updated = $notifModel->update($id, ['status' => $status]);
     
             if ($updated) {
+                // Assuming getOrder() retrieves updated orders after status update
+                $this->getOrder(); // Refresh orders after status update
+                return $this->respond(['message' => 'Notification status updated successfully.'], 200);
+            } else {
+                return $this->respond(['error' => 'Error updating notification status.'], 500);
+            }
+        } catch (\Exception $e) {
+            return $this->respond(['error' => 'Error updating notification status: ' . $e->getMessage()], 500);
+        }
+    }
+    
+
+    
+    public function deleteprod($id)
+    {
+        try {
+            // Retrieve status data from the POST request
+            $status = $this->request->getVar('status');
+    
+            // Ensure valid status provided - Add more validation if needed
+            if ($status !== 'deleted') {
+                return $this->respond(['error' => 'Invalid status provided.'], 400);
+            }
+    
+       
+            // Perform the update in the NotifModel
+            $order = new OrderModel();
+            $data = $order->update($id, ['status' => $status]);
+    
+            if ($data) {
                 // Assuming getOrder() retrieves updated orders after status update
                 $this->getOrder(); // Refresh orders after status update
                 return $this->respond(['message' => 'Notification status updated successfully.'], 200);

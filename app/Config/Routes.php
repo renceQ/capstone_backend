@@ -40,6 +40,8 @@ $routes->post('/addtocart', 'MainController::addtocart');
 
 //get order request
 $routes->get('getOrder', 'MainController::getOrder');
+$routes->get('getprod', 'MainController::getprod');
+
 
 //update status
 $routes->post('updateOrderStatus/(:any)', 'MainController::updateOrderStatus/$1');
@@ -60,6 +62,9 @@ $routes->get('/getNotif', 'MainController::getNotif');
 $routes->match(['post', 'get'], 'updateNotifStatus/(:any)', 'MainController::updateNotifStatus/$1');
 $routes->post('updateNotifStatus/(:any)', 'MainController::updateNotifStatus/$1');
 $routes->get('updateNotifStatus/(:any)', 'MainController::updateNotifStatus/$1');
+$routes->match(['post', 'get'], 'deleteprod/(:any)', 'MainController::deleteprod/$1');
+
+
 
 
 
