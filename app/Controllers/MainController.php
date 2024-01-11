@@ -494,7 +494,7 @@ public function updateOrderStatus($id)
     $reason = $this->request->getVar('reason');
 
     // Validate the status - You can add more validation as needed
-    if (!in_array($newStatus, ['approved', 'denied', 'pending', 'delivering', 'recieved', 'cancelled'])) {
+    if (!in_array($newStatus, ['approved', 'denied', 'pending', 'delivering', 'recieved', 'cancelled','cancel','pendingbackpricestock'])) {
         return $this->respond(['error' => 'Invalid status.'], 400);
     }
 
@@ -520,7 +520,7 @@ public function updateOrderStatus($id)
             // Update the product's stock and price in the database
             $productModel->set(['stock' => $updatedStock, 'price' => $newPrice])->where('ID', $productId)->update();
         }
-    } elseif ($newStatus === 'cancelled') {
+    } elseif ($newStatus === 'cancelled' || $newStatus === 'pendingbackpricestock') {
         // Get the product ID and quantity from the order
         $productId = $existingOrder['product_id'];
         $quantity = $existingOrder['quantity'];
