@@ -63,6 +63,13 @@ $routes->match(['post', 'get'], 'updateNotifStatus/(:any)', 'MainController::upd
 $routes->post('updateNotifStatus/(:any)', 'MainController::updateNotifStatus/$1');
 $routes->get('updateNotifStatus/(:any)', 'MainController::updateNotifStatus/$1');
 $routes->match(['post', 'get'], 'deleteprod/(:any)', 'MainController::deleteprod/$1');
+$routes->match(['post', 'get'], 'updateProfile/(:any)', 'MainController::updateProfile/$1');
+$routes->post('updateProfile', 'MainController::updateProfile');
+
+$routes->post('/updateProfile/(:num)', 'MainController::updateProfile/$1');
+
+
+
 
 
 
