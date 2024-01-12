@@ -714,11 +714,9 @@ public function updateEventStatus()
         }
     }
 
-   // Add this method to MainController class
 public function updateProfile($userId)
 {
     try {
-        // Get user data from the request
         $data = [
             'showed_username' => $this->request->getVar('showed_username'),
             'contact' => $this->request->getVar('contact'),
@@ -726,10 +724,7 @@ public function updateProfile($userId)
             'other_info' => $this->request->getVar('other_info'),
             'legit_name' => $this->request->getVar('legit_name'),
             'gender' => $this->request->getVar('gender'),
-            // Add other properties as needed
         ];
-
-        // Update the user profile in the UserModel
         $userModel = new UserModel();
         $userModel->update($userId, $data);
 
@@ -738,8 +733,16 @@ public function updateProfile($userId)
         return $this->respond(['error' => 'Error updating profile: ' . $e->getMessage()], 500);
     }
 }
+public function updateProfilePicture($userId)
+{
+    $userModel = new UserModel(); 
+    $existingUser = $userModel->find($userId);
 
-  
+}
+
+
+
+
  
 }
 

@@ -118,3 +118,73 @@ in SYSTEMPATH\BaseModel.php on line 930.
  6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
  7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
  8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-12 12:25:13 --> Call to a member function isValid() on null
+in APPPATH\Controllers\MainController.php on line 758.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateProfile('11')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-12 12:25:32 --> Call to a member function isValid() on null
+in APPPATH\Controllers\MainController.php on line 758.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateProfile('11')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-12 12:27:47 --> Call to a member function isValid() on null
+in APPPATH\Controllers\MainController.php on line 758.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateProfile('11')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-12 12:30:45 --> Call to a member function isValid() on null
+in APPPATH\Controllers\MainController.php on line 758.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateProfile('11')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-12 12:31:11 --> Call to a member function isValid() on null
+in APPPATH\Controllers\MainController.php on line 758.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateProfile('11')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-12 12:31:13 --> Call to a member function isValid() on null
+in APPPATH\Controllers\MainController.php on line 758.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateProfile('11')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-12 12:41:08 --> Call to a member function isValid() on null
+in APPPATH\Controllers\MainController.php on line 733.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateProfile('11')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-12 12:43:04 --> Call to a member function isValid() on null
+in APPPATH\Controllers\MainController.php on line 733.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateProfile('11')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-12 12:43:41 --> Call to a member function isValid() on null
+in APPPATH\Controllers\MainController.php on line 733.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateProfile('11')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-12 12:51:26 --> Call to a member function isValid() on null
+in APPPATH\Controllers\MainController.php on line 757.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateProfile('11')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')

@@ -47,6 +47,8 @@ $routes->get('getprod', 'MainController::getprod');
 $routes->post('updateOrderStatus/(:any)', 'MainController::updateOrderStatus/$1');
 $routes->post('updateOrderStatus', 'MainController::updateOrderStatus');
 $routes->post('updateItem/(:any)', 'MainController::updateItem/$1');
+$routes->post('updateProfilePicture/(:num)', 'MainController::updateProfilePicture/$1');
+
 
 
 //update event status
