@@ -733,14 +733,12 @@ public function updateProfile($userId)
         return $this->respond(['error' => 'Error updating profile: ' . $e->getMessage()], 500);
     }
 }
-public function updateProfilePicture($userId)
-{
-    $userModel = new UserModel(); 
-    $existingUser = $userModel->find($userId);
+// public function updateProfilePicture($userId)
+// {
+//     $userModel = new UserModel(); 
+//     $existingUser = $userModel->find($userId);
 
-}
-
-
+// }
 
 
  
