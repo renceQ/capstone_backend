@@ -742,6 +742,25 @@ public function updateEventStatus()
         }
     }
     
+public function updateProfile($userId)
+{
+    try {
+        $data = [
+            'showed_username' => $this->request->getVar('showed_username'),
+            'contact' => $this->request->getVar('contact'),
+            'address' => $this->request->getVar('address'),
+            'other_info' => $this->request->getVar('other_info'),
+            'legit_name' => $this->request->getVar('legit_name'),
+            'gender' => $this->request->getVar('gender'),
+        ];
+        $userModel = new UserModel();
+        $userModel->update($userId, $data);
+
+        return $this->respond(['message' => 'Profile updated successfully.'], 200);
+    } catch (\Exception $e) {
+        return $this->respond(['error' => 'Error updating profile: ' . $e->getMessage()], 500);
+    }
+}
 
 
 
