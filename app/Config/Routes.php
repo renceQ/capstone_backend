@@ -47,7 +47,9 @@ $routes->get('getprod', 'MainController::getprod');
 $routes->post('updateOrderStatus/(:any)', 'MainController::updateOrderStatus/$1');
 $routes->post('updateOrderStatus', 'MainController::updateOrderStatus');
 $routes->post('updateItem/(:any)', 'MainController::updateItem/$1');
-$routes->post('updateProfilePicture/(:num)', 'MainController::updateProfilePicture/$1');
+
+
+
 
 
 
@@ -69,6 +71,9 @@ $routes->match(['post', 'get'], 'updateProfile/(:any)', 'MainController::updateP
 $routes->post('updateProfile', 'MainController::updateProfile');
 
 $routes->post('/updateProfile/(:num)', 'MainController::updateProfile/$1');
+
+$routes->match(['post', 'get'], 'updateProfilePicture/(:num)', 'MainController::updateProfilePicture/$1');
+
 
 
 

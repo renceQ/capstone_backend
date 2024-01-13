@@ -643,9 +643,9 @@ public function updateEventStatus()
 
     public function getgeData()
     {
-        $order= new OrderModel();
-        $data = $order->findAll();
-        return $this->respond($data, 200);
+            $order= new OrderModel();
+            $data = $order->findAll();
+            return $this->respond($data, 200);
         
     }
 
@@ -714,31 +714,36 @@ public function updateEventStatus()
         }
     }
 
-public function updateProfile($userId)
-{
-    try {
-        $data = [
-            'showed_username' => $this->request->getVar('showed_username'),
-            'contact' => $this->request->getVar('contact'),
-            'address' => $this->request->getVar('address'),
-            'other_info' => $this->request->getVar('other_info'),
-            'legit_name' => $this->request->getVar('legit_name'),
-            'gender' => $this->request->getVar('gender'),
-        ];
-        $userModel = new UserModel();
-        $userModel->update($userId, $data);
-
-        return $this->respond(['message' => 'Profile updated successfully.'], 200);
-    } catch (\Exception $e) {
-        return $this->respond(['error' => 'Error updating profile: ' . $e->getMessage()], 500);
+    public function updateProfilePicture($userId)
+    {
+        try {
+            // Retrieve the uploaded file from the request
+            $profilePictureFile = $this->request->getFile('file');
+    
+            // Check if a file was uploaded
+            if ($profilePictureFile->isValid()) {
+                // Generate a unique filename for the profile picture
+                $profilePictureName = 'profile_picture_' . time() . '.' . $profilePictureFile->getExtension();
+    
+                // Move the uploaded file to the desired directory
+                $profilePictureFile->move(ROOTPATH . 'public/uploads/profile_pictures/', $profilePictureName);
+    
+                // Update the user's profile_picture field in the database
+                $data = ['profile_picture' => base_url('uploads/profile_pictures/' . $profilePictureName)];
+                $userModel = new UserModel();
+                $userModel->update($userId, $data);
+    
+                return $this->respond(['message' => 'Profile picture updated successfully.'], 200);
+            } else {
+                return $this->respond(['error' => 'No valid file uploaded.'], 400);
+            }
+        } catch (\Exception $e) {
+            return $this->respond(['error' => 'Error updating profile picture: ' . $e->getMessage()], 500);
+        }
     }
-}
-// public function updateProfilePicture($userId)
-// {
-//     $userModel = new UserModel(); 
-//     $existingUser = $userModel->find($userId);
+    
 
-// }
+
 
 
  
