@@ -764,7 +764,11 @@ public function updateProfile($userId)
 
 
 
-
+public function chatbot()
+    {
+        return view('chatbot');
+    }
+ 
  
 }
 
