@@ -492,6 +492,8 @@ public function updateOrderStatus($id)
     // Get the status from the request
     $newStatus = $this->request->getVar('status');
     $reason = $this->request->getVar('reason');
+    $newQuantity = $this->request->getVar('quantity'); // Add this line
+    $newTotal = $this->request->getVar('total'); // Add this line
 
     // Validate the status - You can add more validation as needed
     if (!in_array($newStatus, ['approved', 'denied', 'pending', 'delivering', 'recieved', 'cancelled','cancel','pendingbackpricestock'])) {
@@ -547,8 +549,12 @@ public function updateOrderStatus($id)
     // Update the status of the order
     $data = [
         'status' => $newStatus,
-        'reason' => $reason, // Include the reason in the data to be updated
+        'reason' => $reason, // Include the reason in the data to be updated 
+        'quantity' => $newQuantity, // Add this line
+        'total' => $newTotal, // Add this line  
     ];
+
+    
     $orderModel->set($data)->where('id', $id)->update();
 
     
