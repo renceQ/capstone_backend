@@ -546,13 +546,17 @@ public function updateOrderStatus($id)
         }
     }
 
-    // Update the status of the order
-    $data = [
-        'status' => $newStatus,
-        'reason' => $reason, // Include the reason in the data to be updated 
-        'quantity' => $newQuantity, // Add this line
-        'total' => $newTotal, // Add this line  
-    ];
+   // Update only the status if other fields are not provided
+   $data = ['status' => $newStatus];
+    
+   // Include other fields in the update if they are provided
+   if ($newQuantity !== null) {
+       $data['quantity'] = $newQuantity;
+   }
+
+   if ($newTotal !== null) {
+       $data['total'] = $newTotal;
+   }
 
     
     $orderModel->set($data)->where('id', $id)->update();
