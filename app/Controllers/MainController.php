@@ -17,6 +17,8 @@ use App\Models\AuditModel;
 use App\Models\OrderModel;
 use App\Models\SalesModel;
 use App\Models\NotifModel;
+use App\Models\ReviewModel;
+
 
 
 
@@ -779,6 +781,12 @@ public function chatbot()
         return view('chatbot');
     }
  
+    public function getReview()
+    {
+      $review_model = new ReviewModel();
+      $data = $review_model->findAll();
+      return $this->respond($data, 200);
+    }
  
 }
 

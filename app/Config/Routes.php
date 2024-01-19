@@ -76,7 +76,7 @@ $routes->match(['post', 'get'], 'updateProfilePicture/(:num)', 'MainController::
 $routes->match(['post', 'get'], '/chatbot', 'MainController::chatbot');
 
 $routes->post('api/chatbot', 'MainController::chatbotApi');
-
+$routes->get('/getReview', 'MainController::getReview');
 
 
 
