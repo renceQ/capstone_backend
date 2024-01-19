@@ -788,6 +788,48 @@ public function chatbot()
       return $this->respond($data, 200);
     }
  
+    public function submitReview()
+    {
+        try {
+            $json = $this->request->getJSON();
+    
+            $requestData = [
+                'prod_name' => $json->prod_name,
+                'product_id' => $json->product_id,
+                'comment' => $json->comment,
+                'rate' => $json->rate,
+                'isAnonymous' => $json->isAnonymous,
+            ];
+    
+            // Optional fields
+            if (!empty($json->first_image)) {
+                $requestData['first_image'] = $json->first_image;
+            }
+    
+            if (!empty($json->second_image)) {
+                $requestData['second_image'] = $json->second_image;
+            }
+    
+            if (!empty($json->third_image)) {
+                $requestData['third_image'] = $json->third_image;
+            }
+    
+            $reviewModel = new ReviewModel();
+            $inserted = $reviewModel->insert($requestData);
+    
+            if ($inserted) {
+                return $this->response->setJSON(['message' => 'Review submitted successfully']);
+            } else {
+                throw new Exception('Error submitting review');
+            }
+        } catch (Exception $e) {
+            return $this->response->setStatusCode(500)->setJSON(['error' => $e->getMessage()]);
+        }
+    }
+    
+    
+    
 }
+
 
 //final copy
