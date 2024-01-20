@@ -1,0 +1,62 @@
+CRITICAL - 2024-01-20 05:05:58 --> file_get_contents(blob:http://localhost:8081/83c81fb5-0f28-4721-b92e-64da73566893): Failed to open stream: No such file or directory
+in APPPATH\Controllers\MainController.php on line 854.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(blob:http://localhost:8081/83c81fb5-0f28-4721-b92e-64da73566893): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 854)
+ 2 APPPATH\Controllers\MainController.php(854): file_get_contents('blob:http://localhost:8081/83c81fb5-0f28-4721-b92e-64da73566893')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-20 05:05:59 --> file_get_contents(blob:http://localhost:8081/83c81fb5-0f28-4721-b92e-64da73566893): Failed to open stream: No such file or directory
+in APPPATH\Controllers\MainController.php on line 854.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(blob:http://localhost:8081/83c81fb5-0f28-4721-b92e-64da73566893): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 854)
+ 2 APPPATH\Controllers\MainController.php(854): file_get_contents('blob:http://localhost:8081/83c81fb5-0f28-4721-b92e-64da73566893')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-20 05:06:06 --> file_get_contents(blob:http://localhost:8081/83c81fb5-0f28-4721-b92e-64da73566893): Failed to open stream: No such file or directory
+in APPPATH\Controllers\MainController.php on line 854.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(blob:http://localhost:8081/83c81fb5-0f28-4721-b92e-64da73566893): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 854)
+ 2 APPPATH\Controllers\MainController.php(854): file_get_contents('blob:http://localhost:8081/83c81fb5-0f28-4721-b92e-64da73566893')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-20 05:09:29 --> file_get_contents(blob:http://localhost:8081/94aa0f8a-6565-4762-9e6b-ba8b52eeb7b0): Failed to open stream: No such file or directory
+in APPPATH\Controllers\MainController.php on line 854.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(blob:http://localhost:8081/94aa0f8a-6565-4762-9e6b-ba8b52eeb7b0): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 854)
+ 2 APPPATH\Controllers\MainController.php(854): file_get_contents('blob:http://localhost:8081/94aa0f8a-6565-4762-9e6b-ba8b52eeb7b0')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-20 05:09:46 --> file_get_contents(blob:http://localhost:8081/94aa0f8a-6565-4762-9e6b-ba8b52eeb7b0): Failed to open stream: No such file or directory
+in APPPATH\Controllers\MainController.php on line 854.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(blob:http://localhost:8081/94aa0f8a-6565-4762-9e6b-ba8b52eeb7b0): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 854)
+ 2 APPPATH\Controllers\MainController.php(854): file_get_contents('blob:http://localhost:8081/94aa0f8a-6565-4762-9e6b-ba8b52eeb7b0')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-20 05:10:34 --> file_get_contents(blob:http://localhost:8081/bafc7a4d-690f-4959-ac2b-b21f06a52a44): Failed to open stream: No such file or directory
+in APPPATH\Controllers\MainController.php on line 854.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(blob:http://localhost:8081/bafc7a4d-690f-4959-ac2b-b21f06a52a44): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 854)
+ 2 APPPATH\Controllers\MainController.php(854): file_get_contents('blob:http://localhost:8081/bafc7a4d-690f-4959-ac2b-b21f06a52a44')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-20 05:13:33 --> Attempt to read property "prod_name" on null
+in APPPATH\Controllers\MainController.php on line 837.
+ 1 APPPATH\Controllers\MainController.php(837): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "prod_name" on null', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 837)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')

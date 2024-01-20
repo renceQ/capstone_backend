@@ -12,7 +12,7 @@ class ReviewModel extends Model
     protected $returnType       = 'array';
     protected $useSoftDeletes   = false;
     protected $protectFields    = true;
-    protected $allowedFields    = [ 'prod_name',  'product_id',  'comment', 'rate', 'first_image', 'second_image', 'third_image', 'isAnonymous'];
+    protected $allowedFields    = [ 'prod_name',  'product_id',  'comment', 'rate', 'first_image', 'second_image', 'third_image', 'isAnonymous', 'profile_picture', 'username'];
 
     // Dates
     protected $useTimestamps = false;

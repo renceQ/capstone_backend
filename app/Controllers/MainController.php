@@ -799,6 +799,8 @@ public function chatbot()
                 'comment' => $json->comment,
                 'rate' => $json->rate,
                 'isAnonymous' => $json->isAnonymous,
+                'profile_picture' => $json->profile_picture,
+                'username' => $json->username,
             ];
     
             // Optional fields
