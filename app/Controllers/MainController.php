@@ -830,7 +830,73 @@ public function chatbot()
     }
     
     
-    
+    // ...
+// public function submitReview()
+// {
+//     try {
+//         $json = $this->request->getJSON();
+
+//         $requestData = [
+//             'prod_name' => $json->prod_name,
+//             'product_id' => $json->product_id,
+//             'comment' => $json->comment,
+//             'rate' => $json->rate,
+//             'isAnonymous' => $json->isAnonymous,
+//             'profile_picture' => $json->profile_picture,
+//             'username' => $json->username,
+//         ];
+
+//         // Optional fields
+//         if (!empty($json->first_image)) {
+//             $fileInfo = $this->saveFile($json->first_image);
+//             $requestData['first_image'] = $fileInfo['fileUrl'];
+//         }
+
+//         if (!empty($json->second_image)) {
+//             $fileInfo = $this->saveFile($json->second_image);
+//             $requestData['second_image'] = $fileInfo['fileUrl'];
+//         }
+
+//         if (!empty($json->third_image)) {
+//             $fileInfo = $this->saveFile($json->third_image);
+//             $requestData['third_image'] = $fileInfo['fileUrl'];
+//         }
+
+//         $reviewModel = new ReviewModel();
+//         $inserted = $reviewModel->insert($requestData);
+
+//         if ($inserted) {
+//             return $this->response->setJSON(['message' => 'Review submitted successfully']);
+//         } else {
+//             throw new Exception('Error submitting review');
+//         }
+//     } catch (Exception $e) {
+//         return $this->response->setStatusCode(500)->setJSON(['error' => $e->getMessage()]);
+//     }
+// }
+
+// private function saveFile($fileUrl)
+// {
+//     // Get the file contents
+//     $fileContents = file_get_contents($fileUrl);
+
+//     // Generate a unique filename
+//     $uniqueFilename = uniqid() . '_' . basename($fileUrl);
+
+//     // Set the path to save the file in the public/uploads directory
+//     $savePath = WRITEPATH . 'uploads/' . $uniqueFilename;
+
+//     // Save the file
+//     file_put_contents($savePath, $fileContents);
+
+//     // Return information about the saved file
+//     return [
+//         'fileName' => $uniqueFilename,
+//         'fileUrl' => base_url('public/uploads/' . $uniqueFilename),
+//     ];
+// }
+
+
 }
 
 

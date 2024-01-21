@@ -1,0 +1,76 @@
+CRITICAL - 2024-01-21 03:40:21 --> file_put_contents(public/uploads/65ac922497f6f_6d7db236-abcf-4a00-8cd0-116718077e37.): Failed to open stream: Permission denied
+in APPPATH\Controllers\MainController.php on line 859.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(public/uploads/65ac922497f6f_6d7db236-abcf-4a00-8cd0-116718077e37.): Failed to open stream: Permission denied', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 859)
+ 2 APPPATH\Controllers\MainController.php(859): file_put_contents('public/uploads/65ac922497f6f_6d7db236-abcf-4a00-8cd0-116718077e37.', 'nZ†Ûiÿùhq©a¢Ë|ÓÍéÞÝomúi·á­4ñÇt×^»×Í;ííû')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 03:40:29 --> file_put_contents(public/uploads/65ac922dc58ee_6d7db236-abcf-4a00-8cd0-116718077e37.): Failed to open stream: Permission denied
+in APPPATH\Controllers\MainController.php on line 859.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(public/uploads/65ac922dc58ee_6d7db236-abcf-4a00-8cd0-116718077e37.): Failed to open stream: Permission denied', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 859)
+ 2 APPPATH\Controllers\MainController.php(859): file_put_contents('public/uploads/65ac922dc58ee_6d7db236-abcf-4a00-8cd0-116718077e37.', 'nZ†Ûiÿùhq©a¢Ë|ÓÍéÞÝomúi·á­4ñÇt×^»×Í;ííû')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 03:40:33 --> file_put_contents(public/uploads/65ac92317d11c_6d7db236-abcf-4a00-8cd0-116718077e37.): Failed to open stream: Permission denied
+in APPPATH\Controllers\MainController.php on line 859.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(public/uploads/65ac92317d11c_6d7db236-abcf-4a00-8cd0-116718077e37.): Failed to open stream: Permission denied', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 859)
+ 2 APPPATH\Controllers\MainController.php(859): file_put_contents('public/uploads/65ac92317d11c_6d7db236-abcf-4a00-8cd0-116718077e37.', 'nZ†Ûiÿùhq©a¢Ë|ÓÍéÞÝomúi·á­4ñÇt×^»×Í;ííû')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 03:40:56 --> file_put_contents(public/uploads/65ac924889a70_4fb5b6c2-ac68-47c6-a541-a207ec80526a.): Failed to open stream: Permission denied
+in APPPATH\Controllers\MainController.php on line 859.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(public/uploads/65ac924889a70_4fb5b6c2-ac68-47c6-a541-a207ec80526a.): Failed to open stream: Permission denied', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 859)
+ 2 APPPATH\Controllers\MainController.php(859): file_put_contents('public/uploads/65ac924889a70_4fb5b6c2-ac68-47c6-a541-a207ec80526a.', 'nZ†Ûiÿùhq©a¢Ë|ÓÍáöùo§6iÎ¼ã·:kž5km;yÏ4çnš')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 03:42:47 --> file_put_contents(public/uploads/65ac92b7d1fc1_bb8ad603-7ceb-418c-a331-d1318c0a02df.): Failed to open stream: Permission denied
+in APPPATH\Controllers\MainController.php on line 859.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(public/uploads/65ac92b7d1fc1_bb8ad603-7ceb-418c-a331-d1318c0a02df.): Failed to open stream: Permission denied', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 859)
+ 2 APPPATH\Controllers\MainController.php(859): file_put_contents('public/uploads/65ac92b7d1fc1_bb8ad603-7ceb-418c-a331-d1318c0a02df.', 'nZ†Ûiÿùhq©a¢Ë|ÓÍm¿w­7íÇ›ã_k}õw]õñÍÓg_')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 04:10:34 --> Maximum execution time of 60 seconds exceeded
+in SYSTEMPATH\Debug\Exceptions.php on line 194.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-21 04:15:15 --> file_put_contents(C:\laragon\www\capstone_backend\public\public/uploads/image_65ac9a5334a56.png): Failed to open stream: No such file or directory
+in APPPATH\Controllers\MainController.php on line 885.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(C:\\laragon\\www\\capstone_backend\\public\\public/uploads/image_65ac9a5334a56.png): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 885)
+ 2 APPPATH\Controllers\MainController.php(885): file_put_contents('C:\\laragon\\www\\capstone_backend\\public\\public/uploads/image_65ac9a5334a56.png', '†Ûiÿùhq©a¢Ë|ÓÍ?¦æå‰Ïî¦ZvÏõïN|×NuçM;ÎjvˆÖ£¦')
+ 3 APPPATH\Controllers\MainController.php(849): App\Controllers\MainController->saveImage('http://localhost:8080/public/uploads/1705810515007_zh5qdo_ganda.jpg')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 04:47:18 --> Maximum execution time of 60 seconds exceeded
+in SYSTEMPATH\Debug\Exceptions.php on line 194.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-21 04:48:49 --> Maximum execution time of 60 seconds exceeded
+in SYSTEMPATH\Debug\Exceptions.php on line 194.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-21 04:49:49 --> Maximum execution time of 60 seconds exceeded
+in SYSTEMPATH\Debug\Exceptions.php on line 194.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-21 04:50:49 --> Maximum execution time of 60 seconds exceeded
+in SYSTEMPATH\Debug\Exceptions.php on line 194.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-21 04:51:50 --> Maximum execution time of 60 seconds exceeded
+in SYSTEMPATH\Debug\Exceptions.php on line 194.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-21 04:53:17 --> Maximum execution time of 60 seconds exceeded
+in SYSTEMPATH\Debug\Exceptions.php on line 194.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
