@@ -78,6 +78,7 @@ $routes->match(['post', 'get'], '/chatbot', 'MainController::chatbot');
 $routes->post('api/chatbot', 'MainController::chatbotApi');
 $routes->get('/getReview', 'MainController::getReview');
 $routes->match(['post', 'get'], '/submitReview', 'MainController::submitReview');
+$routes->match(['post', 'get'], '/submitReview', 'MainController::submitReview');
 
 
 

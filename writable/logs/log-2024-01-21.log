@@ -77,3 +77,397 @@ in SYSTEMPATH\Debug\Exceptions.php on line 194.
 CRITICAL - 2024-01-21 04:54:17 --> Maximum execution time of 60 seconds exceeded
 in SYSTEMPATH\Debug\Exceptions.php on line 194.
  1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-21 06:03:22 --> Maximum execution time of 60 seconds exceeded
+in SYSTEMPATH\Debug\Exceptions.php on line 194.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-21 06:04:23 --> Maximum execution time of 60 seconds exceeded
+in SYSTEMPATH\Debug\Exceptions.php on line 194.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-21 06:04:23 --> Class "App\Controllers\Exception" not found
+in APPPATH\Controllers\MainController.php on line 885.
+ 1 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveImage('http://localhost:8080/public/uploads/1705816944219_06goar_laufey.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 06:04:23 --> Class "App\Controllers\Exception" not found
+in APPPATH\Controllers\MainController.php on line 885.
+ 1 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveImage('http://localhost:8080/public/uploads/1705816948875_tp851_laufey.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 06:04:23 --> Class "App\Controllers\Exception" not found
+in APPPATH\Controllers\MainController.php on line 885.
+ 1 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveImage('http://localhost:8080/public/uploads/1705816949640_0rkqyq_laufey.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 06:04:23 --> Class "App\Controllers\Exception" not found
+in APPPATH\Controllers\MainController.php on line 885.
+ 1 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveImage('http://localhost:8080/public/uploads/1705816950837_6xax4_laufey.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 06:04:23 --> Class "App\Controllers\Exception" not found
+in APPPATH\Controllers\MainController.php on line 885.
+ 1 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveImage('http://localhost:8080/public/uploads/1705817062890_zqtdr_laufey.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 06:04:24 --> Class "App\Controllers\Exception" not found
+in APPPATH\Controllers\MainController.php on line 885.
+ 1 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveImage('http://localhost:8080/public/uploads/1705817064032_zidafg_laufey.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 06:04:40 --> Class "App\Controllers\Exception" not found
+in APPPATH\Controllers\MainController.php on line 885.
+ 1 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveImage('http://localhost:8080/public/uploads/1705817080406_7tqxjf_laufey.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 06:39:37 --> Class "App\Controllers\Exception" not found
+in APPPATH\Controllers\MainController.php on line 881.
+ 1 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveAndGenerateFileName('http://localhost:8080/public/uploads/1705819177257_7sqiq_ganda.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 07:02:41 --> Undefined array key 1
+in APPPATH\Controllers\MainController.php on line 877.
+ 1 APPPATH\Controllers\MainController.php(877): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 877)
+ 2 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveAndGenerateFileName('http://localhost:8080/public/uploads/1705820561799_cn234a_laufey.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 07:02:45 --> Undefined array key 1
+in APPPATH\Controllers\MainController.php on line 877.
+ 1 APPPATH\Controllers\MainController.php(877): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 877)
+ 2 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveAndGenerateFileName('http://localhost:8080/public/uploads/1705820565016_q3mzdn_laufey.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 07:02:46 --> Undefined array key 1
+in APPPATH\Controllers\MainController.php on line 877.
+ 1 APPPATH\Controllers\MainController.php(877): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 877)
+ 2 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveAndGenerateFileName('http://localhost:8080/public/uploads/1705820566120_tif7n_laufey.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 07:02:46 --> Undefined array key 1
+in APPPATH\Controllers\MainController.php on line 877.
+ 1 APPPATH\Controllers\MainController.php(877): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 877)
+ 2 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveAndGenerateFileName('http://localhost:8080/public/uploads/1705820566581_4a5xtf_laufey.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 07:02:46 --> Undefined array key 1
+in APPPATH\Controllers\MainController.php on line 877.
+ 1 APPPATH\Controllers\MainController.php(877): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 877)
+ 2 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveAndGenerateFileName('http://localhost:8080/public/uploads/1705820566810_icbw_laufey.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 07:02:47 --> Undefined array key 1
+in APPPATH\Controllers\MainController.php on line 877.
+ 1 APPPATH\Controllers\MainController.php(877): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 877)
+ 2 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveAndGenerateFileName('http://localhost:8080/public/uploads/1705820567030_l1ruh_laufey.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 07:15:03 --> Class "App\Controllers\Exception" not found
+in APPPATH\Controllers\MainController.php on line 881.
+ 1 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveAndGenerateFileName('http://localhost:8080/public/uploads/1705821303874_m074fe_ganda.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 07:17:13 --> Class "App\Controllers\Exception" not found
+in APPPATH\Controllers\MainController.php on line 883.
+ 1 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveAndGenerateFileName('http://localhost:8080/public/uploads/1705821433850_2f7ek_laufey.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 07:18:03 --> Class "App\Controllers\Exception" not found
+in APPPATH\Controllers\MainController.php on line 883.
+ 1 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveAndGenerateFileName('http://localhost:8080/public/uploads/1705821483028_slfyn_laufey.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 07:21:12 --> file_put_contents(public/uploads/image_1705821672_65acc5e81f883.jpg): Failed to open stream: No such file or directory
+in APPPATH\Controllers\MainController.php on line 894.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(public/uploads/image_1705821672_65acc5e81f883.jpg): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 894)
+ 2 APPPATH\Controllers\MainController.php(894): file_put_contents('public/uploads/image_1705821672_65acc5e81f883.jpg', '¶ÚþZjXh²ß4óOé¹¹bsû©–†³ý{ÓŸ6×®öÓnørù/•«Ÿ{(é')
+ 3 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveAndGenerateFileName('http://localhost:8080/public/uploads/1705821672027_4cvkv_laufey.jpg')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 07:22:18 --> file_put_contents(public/uploads/image_1705821738_65acc62ac7b53.jpg): Failed to open stream: No such file or directory
+in APPPATH\Controllers\MainController.php on line 894.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(public/uploads/image_1705821738_65acc62ac7b53.jpg): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 894)
+ 2 APPPATH\Controllers\MainController.php(894): file_put_contents('public/uploads/image_1705821738_65acc62ac7b53.jpg', '¶ÚþZjXh²ß4óOé¹¹bsû©–†³ý{ÓŸ6×½üï~º\\ŽV®}ì£¦')
+ 3 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveAndGenerateFileName('http://localhost:8080/public/uploads/1705821738736_6jx1cj_laufey.jpg')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 07:22:21 --> file_put_contents(public/uploads/image_1705821741_65acc62d1ce84.jpg): Failed to open stream: No such file or directory
+in APPPATH\Controllers\MainController.php on line 894.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(public/uploads/image_1705821741_65acc62d1ce84.jpg): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 894)
+ 2 APPPATH\Controllers\MainController.php(894): file_put_contents('public/uploads/image_1705821741_65acc62d1ce84.jpg', '¶ÚþZjXh²ß4óOé¹¹bsû©–†³ý{ÓŸ6×¾5ÓŽ…¼ò’V®}ì£¦')
+ 3 APPPATH\Controllers\MainController.php(850): App\Controllers\MainController->saveAndGenerateFileName('http://localhost:8080/public/uploads/1705821741044_bhbzyk_laufey.jpg')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 09:27:23 --> Undefined variable $baseUrl
+in APPPATH\Controllers\MainController.php on line 923.
+ 1 APPPATH\Controllers\MainController.php(923): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $baseUrl', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 923)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 09:28:45 --> Undefined variable $baseUrl
+in APPPATH\Controllers\MainController.php on line 923.
+ 1 APPPATH\Controllers\MainController.php(923): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $baseUrl', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 923)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 09:28:46 --> Undefined variable $baseUrl
+in APPPATH\Controllers\MainController.php on line 923.
+ 1 APPPATH\Controllers\MainController.php(923): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $baseUrl', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 923)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 09:31:03 --> file_put_contents(public/uploads/ganda.jpg): Failed to open stream: No such file or directory
+in APPPATH\Controllers\MainController.php on line 934.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(public/uploads/ganda.jpg): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 934)
+ 2 APPPATH\Controllers\MainController.php(934): file_put_contents('public/uploads/ganda.jpg', 'ºw^~)ÞwúnnXœþêe¡§lþ§u¨é')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 09:33:31 --> file_put_contents(public/uploads/Z): Failed to open stream: No such file or directory
+in APPPATH\Controllers\MainController.php on line 930.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(public/uploads/Z): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 930)
+ 2 APPPATH\Controllers\MainController.php(930): file_put_contents('public/uploads/Z', 'ÿØÿà' . "\0" . 'JFIF' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . 'ÿí' . "\0" . '8Photoshop 3.0' . "\0" . '8BIM' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '8BIM%' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . 'ÔŒÙ' . "\0" . '²é€	˜ìøB~ÿÛ' . "\0" . 'C' . "\0" . '
+
+
+		
+%# , #&\')*)-0-(0%()(ÿÛ' . "\0" . 'C
+
+
+
+(((((((((((((((((((((((((((((((((((((((((((((((((((ÿÂ' . "\0" . 'ãß"' . "\0" . 'ÿÄ' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . 'ÿÄ' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . 'ÿÚ' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . 'øF0c¦­¦6ØÕ´Ð¥R”š¶ª
+NÍC¥C¹¥«©²µÏXÓHÔ½cª¯£~½Þè3÷4á;CêjØ2ªãk;JRšV @šr©4äPÔˆ`’æ/ƒŸÊÍß)Ñ	·IÞëW_¢rý\'µ·â' . "\0" . 'k‘IŒ19iª1´ÕµCiÊØÆÓØâªij¦‹Ò4*çH­sÔÓ\\õ4îãîÓÔêçêÜì–Ù%!6É)XF{ÉÂôYÖjÑ
+‘3rJbÂ¤Jh™j$©QçFÞ^™<Â$a-´ZmèÛÉéõuÖ7z?_Êõõ?`æÚpÚ`Ç+i[Rr¶1´ÆÆœ:›*ªZÒ./HÐ­sØ½cCnîý_[£Ž™ 0`€' . "\0" . '' . "\0" . 'Mæ¸%9ÛM"š‘M"SK)Ì(¹%<)òeåå·˜£	šDŒ$®“î¿J¹»µÓel O_Èõìüª˜`ÆaIÊØÆÕ§¦´Ó˜îh¦©j¦‹¹³KÏL´×=+]sÒ¶ô8;ëÖßúeŒÀ‰¦%/™ø¬ïôß’üË‚>Ó‡åÝ}¿ù…Gî}ŸƒzkûAù¿ÖËíHX¦¤PrÎÏƒÏq©6}~•pú}]cÐÊc' . "\0" . 'EŒ‘wõ¼¯RÏÁØNt*QŽ1´Öšcj‚¦¡±©IŽ“ªš¶š¨ªš.ãBî/-uÇj×Lµ­ûø;«×èçèÞh
+' . "\0" . 'ÆÍ{˜ü¿½¼¦Ç%têœolHž¼¬ÆÔ÷òm‹÷¿qø‡Ûg§ÜcŸ5Î¾l±Çls2"¡iÖswöw×7V·´°¤5' . "\0" . 'Ét	~—ŸèÙøC—0ØÁ§Œ)T£6œ®¦‡IŽLmPØÕÔØêl­"Ë¸¸×Lî6×«~ÞÍ_g£Ÿ£y¦€Ãå3¯;òø•zÿ' . "\0" . 'MÇ·Ýôý\\{üÞßKRü÷‹÷¹YùÎ?SÏÓ—ÎGÔg©å_²¥óÓ¯Ýøªg«ñg¶”Ã^Þúãô7×hÒ–€IRHÑ0Ù75]½ü]·?ƒ°˜tš°pÚjêiMi§+©¡´ÇSCj‡SPêi]&•SKZgeÜ^Zé–¦›c­oÙÅÙo·ÑËÓ×6ÐŒÃñ¾üç~©úüoos>þ}Ku¬¥¦–a>–ZŸ#‡¿àó×ŸÛ—\\wG—ÝïÓÇ^7IéÅõ^\\]˜íoDÅB „šØ†	…3Ñëåé¹ü%§2ÚciÃ`­ªFÕ+©qU-hT6¨)2šc¤âš¡Ôµ»‹*â£]q¸Ûl6­úø{-÷:¹:ºfÀ±ÍsÇåÿ' . "\0" . '9·›Ç¿»ö\'ßË¯×ôy^¥ºR½äêæíß:ÃiÞ8þGì¼7£ÍñýO.:¼;Ÿ¤èð=	}XÇ ö=oè÷Î[]0(`†' . "\0" . '1¼¶=Œ7Ö	iÌºš¦´ÓTªR“•ÒciŒm2šqMPêi]MââÜÑ¥åQ¾Üš}^E¿CÙá÷nz/‚¬îó6ðæ¿.äÚùïéý¯ô3ÓÓõ¾Ñç¿p9÷™ìò3_¨;§N~—.=>\'?[çó­>oÞòûðçïñ»Ï{»Äô3¿Kë~/ê®{uæ!' . "\0" . '„h4' . "\0" . '€@9`c½zZç¦³øP9‚“•´ÕµCiŽ¦¡´ÖšciÅ4é´âš¡´ÖÚc¤áÜXêYnj*¢4Â—§n—¾üÔz_;×áç^\'Ø|·è®=~Äjòg§^]>_±É¬|Ôú^V:ý¿ôzštÕÉÇðÿ' . "\0" . '¡|v5ó˜éÍÛ•ßÉ§N}þ§‹ÙÏ¯»ô7èæýz‡Û‹‘#1jÕ0' . "\0" . ':9úOJâ÷ŸÂç-§ªVÓT§4ØÓN)ŽŠ—ÕªZ©¨lasCiÅ9eT¸§4­9YÅðå|u|_ |?Ý^¾ÆZq.×BuoË¯^^V>«›á×½ÜñV¸ãY|ßÒ|×=|.ùi¬ú?7îùUÉ¦ñï÷y=¼º}æü=Ý¸
+– H´“4:C! s+êåê³Ò¬þÍ4áÔÒ¶˜êhm9iÍÓFÓWSASPêht©]M”
+Lt˜ÚpR©tõ¹~O={oŠùªùN:§FwÉõß!îÝý—Á}‡&u¿¡äôW¤É³m9÷éŽŒVV™sÚù¤ùþzò9¾³™¯ÅíãÞ<Òíçõû|ÏC‡o´õ¾sè:âÔšæÄÔ‰Œ0ª¦rº<­ÏpàOÉ' . "\0" . 'bœÐê\\´æ‡RÊiÃ©¥u,¦˜êh)8¦¨u4µSQMPRc¤á€®¦£Õúo™ún“¨\'yüûç½ßÍ×£žÖzåÕËÇÓ?_¿§/OÕ÷ü§^óôXqk¾S¶sÖ°‹"uÆ\\0_5›ö¼!átÆ˜é6sãèùúÇog6üú}/Ô|ŸÒÜô
+ºóÐc' . "\0" . '³ç7ËŸºyó¨ŽÅëé…z¤üDO8u,¦˜êZÓš)ËŠ©kM1Ô²ªhm8ªšM­TÔ:LlaJ ¥*Sé~géºN¹¬÷ŸÎ¼OoæüÝóêäèÏKùï¢ùŽ¼¾ën²çß“ºú.ñžÒcŸY¤ ›m8s|ß•õòO×èüÍóâß?o=<+è¼åh<ëÝú?Ø¸ôØúóm:dÄšFGW>Æ¸ÞñË·fÕÇÑÓzgéò÷êjY¬þÓÌnh§.(Mj¢ŠsQNZÓ–UK‹¨ªu..¥•SKW5ÓŠiŽ¦†!j¢ãÓúo™ún“ª/=OÍ¾_Ùñ<ýúôq¾¯™úO¯3õÅ?EÔû=xz1×eœÉfË×‡™Y½|½ÉÉ¿¡òyyþWÐü®vzÿ' . "\0" . '7Ò×¹Ë—F§¢>‹×ùÿ' . "\0" . 'rçÛ2Ç§>œøñŽÌyôÈ]=qôöi§>»=3ºH4íÓ¿ƒ¾çT+?Ìm1Ô¹iË*¢’ª*WRÖšc©¢ª(§5QEÔRÝK4sQM8¦˜4+¸¨õ~›æ~—£«³æ,üó›»›ÏÖôÛŸ=;|OoÌéŸ™»ÇÓæú_oóãô^ŸÌ¾Ç—_g«§£ÏØìãã_[Õòø{ùÎOWÃ</Ôðj´Ë¯ChÏ7Zé™­¾‹å=“ÞÇŸÑ¸Ã§·³S‹¯}51×GRØˆhC¯Ðàô,¤;?hÌ¦™NYMU,§-i§Ó)Í-9¡ÔÑU5QKw—yéÓ†Óœ­¦z¿IóE·Oæ?]àË§ÊýïÂó¹¼ñÏ^üù4Ó›‹®zráŽýõžCï>¨Xiçô«¿±éžl»5íçáó=OÆþwÑö}Øøß\'íñ>?«ññ×5§vwó¿C—µÓuô_n1eX2±$a*•!‚ißÅÝ`2ÏÀÄó–ÓVÓ)§¦:–¶åÅ9knYn\\[Š*¥šVv·pÓWQjÚc‡Råõ~‹ç¾‡£æõõ¼WòßEó˜¼Ü^ç6uóÓ¶d×^Òùþ‘÷É§Ãþ«ð{åÑ·£çy½>§ÑcÙìóóøžÿ' . "\0" . ',Ÿ1áôñùú}÷âôtž¯±¬K:÷?6¯«ø¿?£«Ûð},oßõpiU6€1%R¤PK·of²' . "\0" . '~åç.¥­9e9e9rÕEåÅ4ÕÔ²ÜT[Š-Ë.¡š^ZVtºßuï?šRý5|ÇT¾õpu\'·ô_9ô3Ñäû\'g˜½ogÁùo¸ø\\oÇôºð¸ú7õRÿ' . "\0" . 'Fåô=|>\'ì¼~{Ç‹ƒí3¾æ×§†|½q\'‹·¯Ë/>=zåÇ·J¬Ö±©ÓàúzËùÎþïƒåõ}]ø¿\\t²ºst©”†"T•' . "\0" . '&™ÓÕÍÓ¬‚ðŒÊrÊi«h)Ë‹rÊrå·,§,·,ªŠZ¨fŽ*.³Ð¿>ü	½+:ÏMuË\\êî4—my®__ë;úsúo¯Ÿ§¯ì/®yüo¡Rþpþÿ' . "\0" . '.]>ë»7ÜéDtçäy¾fþOGÓóíéãž\\ý÷2³‚¶Ï@épŽÖTù¶Ìœ·™oãþ«\\ßÊ½ÿ' . "\0" . '#¯ÉêúGÏèíÏ²£N˜
+5$iÐ“XÎ®Œ6Ö@ùýË‘´ÊrâœR·,·-Ë*¢–ª[–µPËpF•lðá^,óÚt­#lêô›š»Ç5ê¾=²ëÓ’åê×†Ï´ûÈýýãô.lú½e:gf;aÔµž¾L~cú?Ì}¦7~)éëy§r>ˆ3ëŒëe–„çQ	1f¤<’ý\'óo?sè9ý)¾ØCT•H€a-n¹k¬€\'óëDŽ¥”å”")ËZ©qN(§-mÅET5²²ºDL·ãuùÕ®Ùk:^øi5´a1®˜ï¤í5ZÆª®j^¢ùï¨ÆºþÇ:r÷qÑz¼ÃŒäëø½‰~_Ôøo§ç{×¦±ïw<¶×g&7YUÔdtÆvB"%–2|hÍåÚ“H*U"SJ“Bc;5ÏMe' . "\0" . '>9s-Ë)ÃŠpËpËpå··ºÎ–Üd¡¥ÖsŒsâ»ëç¥A‘¨®M:±è/H¸½rÔÖ¦æ·ú—úŒkÙW{ç+Mñîô±ô:ó~g§•|o¡ë|_wIÇßž{iÏZÖ4änè		ªR¢t°MEg®sR1Dä%¢S•‚¦ŽÛŠÖDL?bœ±¹jÚ
+râœ²œ²œ¹iË)ÈT©–¡LO>œÆU–»Ö•›Æ…–Ú›tcÑÏ¥íž“ZÒôËEß\\6—£ê>[éùëÞÓ={sÃÍõypÛÒò»»y½\\{ž‹ÏôoÖqtpu¼üÐ¾ÅpôÔiug-iFJ³-C\'Lt\'\\î éåˆJMH¦¦ÔšÆž²Ee/àKÎ„E9uNH§,§,BÕC-ÃŠ$Q%)rO6Üº+‡u¡$ÔïÏÐtm–œ÷­ã¤»¸¥½1¹wß—s«é~cèó¯¥ßŽ¼óÇ§(ÃâçkÃ×ãöåð_ ~úO7¥Ç×i:m+Ï¬AÛ<ÝV(”¨#\\¥(U¢Ïi3T–•‡8Ð€I¡KT‘w…ž’Êl×–¸Wñò§,nYB!Ô2œµª†S’,–TŠJ™VQ–7T…4ú1Þ7¸®{»ÇC{Æ¦´™ç_G~ˆïú?—ú\\ëêú9zºóQ¦i‹îòòß¿ó^×Ìöó|WëŸ‘þÇW³ã÷ô“|Ý”ë^Zg&ÇDkÎŠÐ¢ˆ‹xÝ“ÕÅ×+î™ÊÄçz.ttG>qÓ˜‘Áœw?\'œú\\>e[ô>™1ðb:ò¡9eŠ·´"(@Ñ#’br¬LÐkLCM	5èÃ£Ò¥ãWQKUñõæ±Ùäö§Òüw¥þ—Õùÿ' . "\0" . 'E}Æ_öù|cÎ¾ËÈùýµÃËýò¿®cêyü^^¹únÏ—zŸIËáðIö}Ÿ	µŸ}Ëó]UôÞ>Këóù|éô|þ§«èü¦‡³>:ËØ<‰=xòñç¯Z|Í#¯,m–s-çW6œÚ"×+3ã„täÚ¹crÊ%Å	Ë)Ë)ræ"UeIËÖšiG:I¦ÙÖ7­C–È©n³¥Ö¢³|îˆËyô7ãßëÓ–åë®W5Ê¥×Íêó˜èýàþ§|»x4äÖiãßs–œŽç®y4Öus1Ñ§\'JÌ¢Í^k¯){X¼µKN7ÕßÃìÇOIñYÔ°H„>}yô%-ž7Ê¿0ÑÓ›r!)Ë–´á”å”I¤¤ó–r¨¦Ñh—ž†Úe§=Û—À·yk.•ËŸWóÝ¿6ØÖõK±“—UœË§Ï\\ýo†:yñË§=/eÎ:V7:,:GeaÑËQO9Ë\\ôÆ»Ø·5å­9Ü)f?¿„Ë·ÍèÇOOo?i{Nv»Îh¼ZQGÅÕçÛá¹{æÄ u!d…9œµ¢A‰A.:ÍeƒNQ;×Lïžéi"ï*—R³ËÑÍ¼ôôsmmY9u3eBæKúo7Ù×-z8ËžŽjF¼ÕËyúWÏ{›b(ìÃ™KºÎcjÆÍP´èÇn9:V;fÝrÖç“çöpäµç¼ïÐÛ|ïª¹ª:
+×2-¹Kgåú>Aç4oË˜Ü…–Q"S†4’’@ó¨
+Ø^p' . "\0" . 'éž“z\\<êå $4y¸Ñæƒ
+ç£\\4Æö3q«Ž¦y/Õé¼öàìW<Úuà¼^¯ÕfüY³—TA¦¸»\\#ETµfuçÕrjñ:üþÉ³æù½?\'7J…õëË¤½WË¤ÖÕƒ–oVÉZ?×ðë™ËÖ–1ÆÐ7"P…`‡"¹g¤ž}ù¢@Õ' . "\0" . '™Þw£—šåMŒ—MÃ[’I¸Ú£³:;ý§.y›ŸcJRÝdÚéÊZ¼sÞ:ÊÂÍs×8ß^­7Ï^JÑDäÔôfæíên°­Dtùeø=\\ùœäÜÛk}yï7{Â¥Ú±¨ÓL5Õ´•§‰ìøVd#Ym7,nA´È”$¤ˆf‹2ªBP
+' . "\0" . 'K›·&M"šB,ihwW7nsÑ=^{­{??Ö×³ªaÓÅiÓ;yÕÙÌð³Ó×‡C¯“§t.eÑw—W4Uuôqñë;raÉüØóDéÎ•P-éËµeQ¥eRë·6öÜ“jñ½Ì„k,E­Ë†!‚„@Ð„š´1' . "\0" . 'Ð1Niˆ•ˆ¦œ ”¾œ:3œá4ô£“©"\'¦Ï24Ê_S·ÌëIŒK=)ŠªÎú+Ÿ¯Ÿ rÄ˜êÆ]ë‘)9ôBÙaf5çz;x}ÜrãŽÜ­ÕÃš·.¡®•EÖn6ß›¢ê’VÇ—èùÖ`#Qˆ˜4HÄÄSHQ0@' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '0ÓšBÐôÒfç|æc¯•£‡§O\'Q¿>²™gY.Ýþo¥fä9uX½gž|ÏV²«9ºylÕH¯MqˆéãÔß›ƒ{ ó£¾|éhä¸në;–„E¸¢«6º8q¿G6êÑ6åÅÕÏg ' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '€¤! ' . "\0" . '' . "\0" . 'T' . "\0" . '3¡\'Fg.ãDéÅÝ™_3=/\'§˜Ó^}%ôc*¤¥ÛÉ­ÍíÁÞc¼6¸ôh¥B72htóâoågÖaÙÅ²råèùòÈá¬	¦ê¡Å’á–åÅ9rôm†Ö¹ÏMq ' . "\0" . '€' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . 'I  ' . "\0" . '' . "\0" . 'bc(šíŽùÊräº†šk³Ò3ÃImæY¤Àk2ËéãÚåõñõÑ¯=š¾.“Kœo›p¨ÄŠóºb+£ƒl«¯ÌÛ9sÊòt—-ªrÒ„KNZ[†[‡/NØëi.Nb48@Ð' . "\0" . '' . "\0" . '‚!‚$h' . "\0" . '2F€' . "\0" . '' . "\0" . '`' . "\0" . '' . "\0" . '_Oó6ÓÎ]C4ßš«L5ÈÍÀ·š+C=p&æi;«‹¡4¹ÂÎ•ÌŽÙË#³,l„çžŽY¯S—-®cL§m&¼ÜõÅÐéÔ¹(Mš·.Jr×«LíIproÏÑ\\ P' . "\0" . '' . "\0" . 'Rb6œ€æœ‰DÒ€¤4Ð' . "\0" . '' . "\0" . '@Á@êt<ï9`%é‚­¯›dÅk‹W	ƒH±0¨i«É§¡È¨›ˆ:³E›>zg³*ÀË=%ªÙL™T5j¡ySW ·.JPš18niz®)H¨9:¹z¬àÐƒBæÐLˆNm' . "\0" . 'T' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '4k†“.[IlÐFP˜Æ’ÖoXTÄV™[:ÆB.Ô\'¥Ïž×¡Æoýi›ÊMâ72’•g¦œë•è' . "\0" . '£ANI(Mšº–uT8"³9ú¹z«„X”Ò4PD0' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '¡š¼ªfÈiu‹7®v›dµ0¢Ti€‚‰’Ìô[¼vgká»ñ¤ºå.N‡]œ6L´€¼œ*Ã\\îÐ&´IMrÇQrt9ã¦U—W/JñŒ¤0' . "\0" . '„' . "\0" . 'P' . "\0" . '' . "\0" . '@' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . 'Ó‘4Räd²‰c$4 G.U•#Ó6”Mì.e ëD‹!-fíßa˜c–cISC†ë @¹$¡^tt!ZdOG>¦' . "\0" . 'Z' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '	¥' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . 'b`ÐƒDHÐÆÄ‚´&Ù-ˆôÊÐMH³†ª,Þ1e®J³×9¹é' . "\0" . '' . "\0" . '' . "\0" . 'FÐt¤°–-L' . "\0" . '' . "\0" . '!ˆ“J' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '4-ˆ˜
+çIw' . "\0" . '' . "\0" . 'ÁƒNF­Ù&Ù¢ÛÜÊÑ¸ªZã&¹­ÂV‰Î’j¡¦±Ø' . "\0" . '' . "\0" . '' . "\0" . 'Ú¨ÔB' . "\0" . 'A˜€' . "\0" . '' . "\0" . 'b`š' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '˜\\R$*•mÐ1èÌÔVŽmYƒÔˆ¸
+!&%¨©²’KtËßÄs:€' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . ',ÐJF ‹' . "\0" . 'P' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '4Â¥¡B ' . "\0" . 'Bá…¡²Ù!Ô
+êMRD*”-’-Fv˜®I§5n@: ' . "\0" . '' . "\0" . ' æÆ‚€@P' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . 'ÿÄ' . "\0" . '1' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '!1 "02@AP#3B4$%C`ÿÚ' . "\0" . '' . "\0" . 'ý‚‚*Í“lÚf&&\'=s7MÓtßÌ*œý³4²Ée°œúqÄJåuM*{?D:,+›fÙ¶m›fÙ²l›&Ù¶l›%•ûT}¡1ÞYl{3ð*fWTJâ¬¤{>üzDJ¢|8˜˜˜˜˜Ž=¸û2ÒË%¶Æ9õ…•Õ¨©' . "\0" . '€JþŸ¿‘ÐJb|íÛìs¥–âYfaõ3¨•À³/o¹ÔuA¦\'ÎÝ¾ÁŒg–[³ëUÌ®¨•EX¡böû‘éAA)‰ó¿lüÙŒÒË%–f]u“+ª%x€LzW¸ýè ‚%1>kõTÒº¯©Ež;qŸù}I)ãZ…š_V5ë*²gÖLv–Y³J©2º¥uÀ¸˜õ§q÷Ã¨ê ‚	LOˆQ¬ñzišÏ¾Év¥¬„“èÝˆ—2š¼Jä:i¥×U¨ƒÐLw–YçÔbU+ª*@& õ×õ¾zAÐJb|ZÝ}ZUñ³P^âc6~eV•>âg äBe³}
+™•Ó"¬ÇÅWq÷ÃÒ ƒ •Dø|cÅ—L5—¹à\\Ï(Ï(ÁQYìà®&&ØÍ„D3ÂµûføíÐõÄJ¥ub*@>1*ú‡è„A¨ŸŽx°¬ZåÈ•PLM1‹¦‹¥ŸÄøk5Ú²º2‹_¸Ó0V<¼GÓM˜:[tha‡¢¦bU (”÷ûáÐtª\'¯ÆõÞEWÐÇK¦Ì«OŒAP‚±6M²Ú·%Iƒe^áVáäÅLG\\Ê˜©¤¤=›ÃÛ˜•D®*Ì|ÂSú1ÐAÐJ»§ªûuk­:‹ïhôùšjb ÀY‰Ž˜„MBì´Õçc–Ìá öµë‚§Ì@œéý¤ô	¸©1öUÛïÇ tA*ï_«þA©ÙE|çÓS…© €°,a5•äVeÃsm[yó7©Ú˜µÅHÙ	Wo¾‘ÐA«½pzãöîÔîšdQW1¥C-[G—k.U}¶^<·­ðUày^%c¦÷@¿h%]¿H ‚	WzûEíµ5ï»R­ƒ¥Ó3¦Ëèš]JÚ‚«ØÌGš´Ê­œÝ5>ê÷a·ÄlÄ9Wšf÷ý •vý è:Ty¬Àffff¹ðš¯÷RTµj’ÈiTj›	Ä:”YV®£7ƒ3Ëä¿Ùk4¬o®Á‚‡…x‡i_r×Ã©ãìÄ¯·é€Å2·‚ÉæMóÌšû²ã¹Ö¶-áÚ$ó|KN¾f–ËtÄï–F­Zy' . "\0" . 'ÊëdžeµÍûÇãÄkö“Å‹5Ë‹AÃ)”¶éCò:vÍf±;~£04ææmãÄl,Ø÷ønŸ“¦e²°Ñ°Eý…p/öÆ¸ÅÕ pãns
+Ú^›ê±v—8mO½bž°Õ·¼öÐÙ‘ñŸ"þ¯3tÝËÎé_ûh{c¥§_oçVœPUÅ4¾}”W¨ÒŠŸ0sôñÛc{º?zŒüRxú—BØ|ügÖ"Eýa0´vâÓí¬{ôCúÄ³²ÿ' . "\0" . 'c¯eÚÝ8,Á6–¡€¸èÓÄ×ul}ûr‡I©×ËÅ-†CìÓ¶³‘ö"$¬hÍË;‹ü„Ô>%);1ŒÌ™ô3^ÞÖOr“žDÕ†Ý>š:o£ìD¯¸ýB.JQ?Ž\'ñ„×V*¯¥ƒYÂx]›¨ÏêØjtú€U\\Y;Lô`' . "\0" . 'L=ÍYÜïQ
+´™bíF÷¯ÒßšÍ!þ¿±Ì¨ÍÓwéôÂV¼›gŒ·@\'ÿ' . "\0" . '¦¬
+¤¼¿IV¦S ®²|=r•¾ˆ¦	èL&\\}¡wØ).×ÐèuÖœÕþw	_"™Iš3Ÿ0˜Z•¼ß7þŸIÞ¾ÂÞ0º\'hGõx+àk/ò^XhŽY™g!`30ž¯Úš„ ó­ÕUBX|ÇSÅ¢WÃSõWÞŸk÷ø¿õ™…¡xZfV¦ž_éô½ëíèñ_¬BvŠþO_~ny]*ó‘/t‹«FžjŸSKÏz^ÏºÑýŽÇ;TbZ˜˜æ¾éÜ‡+ð“ÁhÍ7Bzm%)Í¿§Ò÷¯´nÞ\'þ™ÄfÜÇ¶£š4ÏåÝõJ·TRÜÀKMŠg”–3U`R0VÂ¡˜Éòˆ—¯¸Œ5<ÁÝy¯N}ž¼ÂÑš„À HeBbcî‡Ë¥ï_hóÅÏ÷±â¸{%nâß5Qò„×‚eÍr;µ6²Íe>Z°¡Ê°dÚ²¡ÏçOÿ' . "\0" . '­¡æ¿Ffè^…º Hbb,¯õi{×Ú7oþQ2±Çr;ëÓm¾nËª9õæ„Ç•RÈ¼W¦½‹3ó<Æ³#ë7¦¾æhy«Ãÿ' . "\0" . 'õúf…áyº' . "\0" . '`H›`…‰Ûõ^õö5í¿UùSÂAßÄ¢1FðÝ`±Uæéºn›ã\\¢6 eK4Æ%ù¯«±VµÝ{jUj­›%lš{=ìÁ¦yc<9§‡Ÿa0¼/ôEHbcÔ;§ßˆM/zûM[l©ùr=À{{À×óÑé¼VÊâxÅSÿ' . "\0" . '1Tþa3Î±ÊÐÆWR‰ÂŠÇ˜îê›ù6j“ÊšAykp2AWÁ[ 0Í%˜:GÄ7Mùƒ&-qk XÂ;¯oÔi{×Úxåû*T,;@2ƒ¹<k¾ŸþÄ@«7O3îšUþ½K5¶2
+«¸Ä*q“°Å÷FL
+ÁÊ×x¨{©ÎäBbU¨˜øÇqÛõX¶Õ×Úu:š¨òÒÿ' . "\0" . 'õSˆq£Ÿj€QªËyp¨—mˆžv¶ùæF°ãIS]k®Ô¢ °×™p·–±éÒyz{´ž^´ŽŠ8Tœš L>šœ²Uˆ©‰”AÜ~§Kx½Þ]>§ú™hË0›±7æ}S°Ï,ÒŸª¥hë^¬À“ËÌÓiÿ' . "\0" . 'M§&¯¢çãÄmc</C½¼D	}ÊtúD­¨[%šf® ÄÁÚÕƒ4k' . "\0" . 'ô{ÔéesÆÔ‘áÅ«8R2Ì#	Øïbv˜©˜S&Ë)¨ªx­~V©ÚxmAß9Œ=¶îUÕê’š´ã/§ÂQ¨µz<…¡EE6Ô¬5j)º»7-G¦\\°NãîÇ |ZY\\×.í.š£PÖ’¯l¢ƒdÔV0Üi]ÏlEÅb²O…iBV@ž:j(¯uV‚lÒT)¦72Õöj)6ZÕr·jüºµ·	^µšVÛ¦ 9]vjQÐÖî=ºK³ìôCàÒÄŽ»«£
+šÀ^êt¡žâ´-çríÁ­5ã ÏÓ5š„PªÓS_¨ÓXµé¼%¼íX\\taÍ»¶7›+ÐÖÓ@' . "\0" . 'R\'·"ÌO0à7&xŽŸÎª°q[m±NGÎŸ¢²õHum<ç3y›ŒG1,ÄÓ35¿Û¬],£L1®§r2såŒžH¯úèÓy§E§U.>ÕQ‹Õ­š-0ÓU3	Û°kO\'1kYå‰åÂ&&â§†ší.×oª›
+JíWù„OÐ	©¿lÌPÐ<Ójv5VŒYªTžMºð‘WhòÄÖhÚîÓ=Piö¢T×Ù¤£Ê#éš×ÚÖ]±<>¸c79$ö„…™kgµ\'/lôn„fvœ8ñ=!A]¬¦–Wc§? ‰úE¾Zg=G¯C`ÆÊÕ¼\'ÝâÔËTY<•p•%q;þxŽ£ÿ' . "\0" . '±ÓÔuVŠŠX‡Ì*' . "\0" . '±w3X®¼ÃÄÝÑ›¡ê;°.®Ÿ*Ý1â°' . "\0" . 'V˜>!ïómžcŽ£ é˜ÌÝ7J®z›Iâò«RÅ\'' . "\0" . 'rOfá\\àV=’ÃÃ¹Ôx®ž°¡gšÚ‹ª¨T–6b®eÇjS_7	ÞcOÂ÷ÌñŠ<Úéb¯NàPäñˆŸ{™™©³
+ ‚¥¦z:ˆƒ)zŽšñrö„Î#òã§ˆÜ(ÒÇ¨GFàk5<ŠžÌ¸;B©$±sNLÄÉì;þH›zÚë€|‚\'ÞæŽÛ˜ALÁÐAÔJûÐ"‚¦‡#A' . "\0" . 'w3Ç«Ôê¬ð×EÓ\\¯E¤ò—]«(ÔWåÕô…ç¦ãÓq™‡Ž¿–è;Í~˜[ek…ùO»ÌÌÌ¹½¢¹„ÁÐAD¯êÓö…&·#¿BÁU9®k`hÔhîµþ&@ð½;d¼ö07	˜\\çAOÏý~e‹Ûï	–žƒ©=DtuNúh#	§³l·X¢T.±ÊfµÍu¥+]µ¯òôÚmFë«Yaf¹@PÖ<ã$p°äÀ½&~\' íå{}Ù0˜Ýàé™ù€@ ê ƒ¢wÓD†X²ëAš[<Ê›…Ž¡¥¬*MUÆæ¢Nˆ­+Äs‰åˆ`ân™è ˜†,0öüCò¬º¸0Ãx:A¤tNúnËÑ£§»Ã?ÎãÓ´ñ‰ž<íqšŸ ¾"ß’¸mÄ#Ž£¿Dü˜`‡åH:Ÿ¸1Œ&~zžâ,¤A¾“²õq4$‹®?ÚçÍÛ5åãõâ¹¨ÿ' . "\0" . 'Ry–JÈ›€˜ègôX`î{Ôöè~Tô1û–‡Ò;ˆ>Y¤‰ÐÆ”–êíÛªó2uÖ”ÓßßÀÿ' . "\0" . 'ôŠâZ¤²×0f' . "\0" . '€ˆ§3‘337vYž?£Ž~4ô9ûƒA‚:ˆ:ƒX³G+èa–ŒÍM˜Õn÷ø±>MÎ	ð…ÆŠÖµ‚âg–ª' . "\0" . 'b¶\'Õ6u^‡º÷üæ41`îßfb™º–¿Ü}& ê é˜³G+ô4ÔU¹Ôxã…¥0NŒmÒj2úŽÁËNñ¸€Ë
+ÀÂç§ã=?±îcÄ<t=33333MÐ¼/“ÏÞ!ÔK-ÏÜ}B:F}Êb˜¦h¥~ƒ-\\Š,&â„æÊ†ÚjÍ]Ž©­ƒ	{„UN' . "\0" . '„LúÌñë\'“î*`nMÐ´Ý7MÐ¼/Íð¼/ÌÞai™Ÿ·0úÄÜh¦)š•°ÆèXMâoœM¸»þHq4gv¯_©Ãù€/ójX5ü®¡#j˜Ãbn®Á‘`Ý¼ÿ' . "\0" . 'mÀ~Æ³Ý¾=¨ü¿o3ùdó\'™“|/7ÍÐ´ÏSõ0ý¹‡Ö õ–­f•\\V&°‰üæ‡XÆ)§òZ! Ôµvxî¤^Ú[6j(Ýs]vÆþBE±[7½®Ø3¹ µ¥z‚\'òsÓÎöyÓÍäÝÊY˜lÚ|âføoã´ó yºffffffðucÇÛ}B=C­ƒkƒ3™™›£4±¦›/r²ª½A‹íq™ÌT›FÌäçtÌ©™‡˜ ä´RL$àvíZÜ«ÀÓtÌÏ ÆôX}¿laõ=c­â!‹ÏLÌÌÌÂeÓÃßË€æï`ñ+#ÊÞyû¬>åæ~Gêg\\@øŒrj<ÙÜ4-ÆfeÖò¶EiºfffffÑyö}±õˆ>ÒÞÉ¹™™™™–ó4ÔM#~#' . "\0" . 'fÅÀVUÂ‘E¹Ë!ì‡+Úf4Ì¨d8ç9XÌ-‰l)€Àfzç¡™ë©?×ö¦XõE–/¯0ž4€½Ø˜÷ZåfüÌ6r
+ÁR!Îj„{‚{Y!±ç£t§éf‹aŠséu›¦Ï1ÌCÀfffffaôjÏ³ïDvX=dÎY´Ôì †áœ„ÿ' . "\0" . 'im³;†2µðF!°ÌÆïÐsÐäÐvÎ
+¼n×‘¸ôCÀffff}9šß§ïGÆÝ„£¦‘6ªdO5I_tÚ!£<GÜ7*Alf›¦`0÷ˆyí3Ç›íÌÌNaØvÖÍ¹âÀ`=333êÖŸ¸Ç‘ñ´AèÌå¥4±ÃVÌ×QgkZ³çœçržÎ¼Q˜Ø&× è«¸lÏB¦ÇJßß¹f«$Ã´@ff~g¶UÄ°ú‡Æ`ôf(f>Vø¦T›O–Lä@@rh\\#a{ÇLæDÄHªfq	è>©ž8X€ÀAæ¦5ö$^ ôs3è3Uõýª,1¾Àôt®§²yU×Ø•±/ªRî¥Ä™Èôˆq6æs;“ÇFlÅ„f‡ØÛËzWö›ÚZSÁÔ>àZOQÓ33>½O×öŠ3ÔúÇÆ æU^bbª‹=Óé â…ÉŠ ByçæX÷D#yÁ›z!›€g9Ü;tU…yeWÚ©É!c’ÌìDÀ#Ð>;¿Óí3ºgìÕs' . "\0" . 'Ä®#Ú¸£pÃWk!­‹Â¦~\\‘‘Ž™ÚåcˆRqiŸoJùŽØ\'µG*£Ë7³]	ç>ŒúD‡ÿ' . "\0" . 'OÔ"æ*ÆâQ`á…‡$ýo‚®ÃÌ#2Þ%F0Ü7²³ý*q+iÈmÐÁ' . "\0" . '' . "\0" . 'mÌ#€&îåcýVM¬zf;ˆzéúu\\Åâiþ½GÖ’—Žœß²°ÁÁ¨ÀrƒAÄ[p­µçývE€ÂÄ"dÁ¶)°ž‚"óª·*¨[:ž¨z¡»\'×úeR`ŸŠD´Êæì;’·òÙýÊaMÞ6è„“¶`Cßñƒ‘ò“féËtã	5Nvì9 ŠÙÚˆÐ÷ø—Ðýªúÿ' . "\0" . 'J‰' . "\0" . 'â	QÄ¸D>Ñâ8C†q´æ+`†ßcifÛƒ.ú‘²B}ÕÆ<ç3VðòÊ' . "\0" . 'Œë\\îl!`¹ ±siF¶OÆ¾‹>š;þŒ.`‚`àŒÌÑÁÀ€D˜ÛÜ90A‰_"nÌïv›}Ì8ˆÜ#ªqr>§·dú¦H&ó	èß"ú-úhý^¢+tW"3ìo©L[pÇ\'*k“&¡´gûèOµ[ÝÄ9€˜x! ç¦yËF\'p|JÛËž†‘}}4~„@1éNïÄìLŒÁÒ³‚[óx—,Ü\'|ñˆÂ•³¼n³8Š`–Ý´+`›F<…ß—®o•z™wÓGÙ™}BØ=”{~üÁ²' . "\0" . 'lî pbÀ#} ˆO[¬ÛÞ¥pÅ‘<ó´œœÃò¯¢éWoÐ\'¨6 x{’V,ÌÌÌÌÏLôå—ËiZbfYôî•3˜£˜N&ÿ' . "\0" . 'kM;sxŒàÍ¥có,á£|«ÔËe]¿@¾¾#LÄÄÛ111Óm\\)ä™™˜ÜÌ	˜¦ùŒø€3NpÒ³‚Xa‰‘7ðeƒ˜~QÔË"}?g˜^\'iØž†f ð ‚/lòZEI1ò	^:$ã§]þmÛåL~ëÛô#Õ™ºGx±¦&=yŠx33Ä
+0 àZû”ž¹Ý1ÖÎß0êcw^ß¢µâ0˜é™Ÿ_3<,=¦zvDŽŠ±¸ê#óó¯SÔ½¾÷C®}!gha11×t=3' . "\0" . 'Ì¨bm3nBÇ|Ä8—,Sˆ^&g©‡æLüÑŽ¸ëÇ@aºfffg¦fzæ,Ì¬œË-ƒ;’ ŒüEŽsÐü¢­?#âÏÝgÖ!3¼>Œz33Ðž1í û˜ðÖOsÎg0‡Olüg Y˜zÇ¬~“3=8 ü"‡ŒàÏ8žƒ¢œ«!ïÐü«ß©ƒ¸ýŽ= ÌLt' . "\0" . 'Ì™ëŽ˜å¸ŸRúBŒ0~1è0wýÆféž AˆLÎf`‚èÌa]·Œwê`™ýàhOM°ö‚f‹ÈÝ‰ßçœ~Ðü g¦&üE^80ŽpDÁëˆ~Aû\\| ã¡3wŒr{ÀÌäÍØ„ç¦q,mß ýî&&&:ænœdóÔpw	ºc#ò`\\Ë>AûÇ¨B=b7Q8ôz“ÑGGùìOÃ‰ŽAé>“ÁÏ£ò1ŒKÈ?`=C¦z,3ñ©œúÀ˜èLÀòß~äu ƒ¡™õñž™ëˆÿ' . "\0" . ' ÿ' . "\0" . 'ú?ÿÄ' . "\0" . '$' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . ' !@01PAQB`ÿÚ' . "\0" . '?ÿ' . "\0" . 'ˆ¾â½h®â½]†Èî,´W™ñ^„¬ºônÎÆv²™LV{+Èø¯1V?â:}/éI™(”±Cò>+ÌU"ßX¦=ô1øßáb8d˜ˆ1­ø4En2Þ\\S;ª"/øQÅ‘{îIÖ/Dvemð¢,=Æ‹gsÂÄÖÂÃçØˆ‹Þ-bXBHžîB%ÎyGú"¬ŸOø(´<ÝÇ±­ÄKœð±=·!/ÑÌî/2"„‰,Kœð±?GJ_ƒ+-Ñv&&2ÉsÐž¡ªQ¢o3Ýá²&åž°˜ñØˆìÄNt±ÑbvPý|Åa“¶&!¬ÂvK×*ŽÓ°íx³¸‹(º%+:h›¥›,¼\'Dehqä$-ˆð™Þ9am»ðEÐqÖo4K¢Ÿ¢«(“üñt™\'ÇX½SWæN†ïŒ±bÕgSo2ã/*Õl/‚°µ±EûñV–,?eiB;lì;N¤D<Ùe–Ye–_x/|Þ&!á¾jÂÕû¦O~;jbËe–l?jýÅÃ–(~8ñ–›Å’“#„9ø×kc/È¹¯Kò%©|…©pì¿šüOÄ¹OÏïBÂ­kBù)YZ¹õ­»ž´¡|å5à¯*ù¬ÎK±ÿÄ' . "\0" . ')' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . ' !@01AP"Q2`ap€ÿÚ' . "\0" . '?á¯½Qâ.eé¬/¥oJEerÜÙÚQL½¦¹ÍÑVlŽäZ,•XôQZ—eº>¯èîfâm
+E½isVdì”¶(í?Œ[:Ò…ã¼I=™z#ÏE–IíŽÔ|ÑÑÞKr,CXÐØÞR¶N;
+8¢ˆè^YˆîŠ;F<EîV#ÎJÎÑûÇÆ)”Ð˜ØØÙdg´2>âÇ÷ŠüqC–YVvþð½Ž»,K‹?xéþ‡³Ía‘,±<GE—Š(\\Xáã§ìêGä²Ë,þ¡ÔpÖV/	rbKÖbÏcé¦u ¢³HdPÍ´v‰râIÞÃÂ;É;X„mŒ“Ë,Esb=™\'›ãUˆ*D–;—¢4R%#³åÙÜYGe“ØîÄ#GTé«Í"ŽÜ5d£LŒ¹±yq³øHÂ±;r¥à’±ìE‹Œõ®­{åë,ŠÞËðõVöAqõ´Aöå‘—ÁÂÕìUsèŒ„Uv‘Uõ"$CÖ.Øùë/S¡‘—Á/D=pŸ•eêbô1¢Oñ:bòYeÅ–>Ð††wPæ9	ÑeÇqeâñe—¡y–‡§ÚÑDVã+KbCW¥q×­1_:¨õŠ>²°ô.Ô‡”ðvÑ¾Yyo8zV’ü!â±ëEáˆ±”V˜áyŸ´H¢„?"Âã¿°¼èx®uø=j¡e¿ö-ÿ' . "\0" . 'Ä¿ÿÄ' . "\0" . '4' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '! 1"A`a0PQ2q@B#b‘3Rpr€±ÿÚ' . "\0" . '' . "\0" . '?ÿ' . "\0" . '­×n/ýKšëGôÓcÊ‘÷i‰qiƒ–¥ÚrÈáóÔYä^ÔÙ}6gÜs©9\\UñÙüÏ›àÞ)õ,ÅGü’»1ÑÂsXÝn}	Ö¸\\Wø}–ø\\\'ÍÕ·¯c58:*ÛNdXÉ[ì—M™™ªÂúà®–IMˆe·2U¹(”)ìwSÂ}ù-ŒY™2;%.ì’”º‹Ñ’ªp¶ü‘PàU!>ÇÊº&öE½)þ:n:z=‹ö3+~I3|Š¥±çÒ‡‚«DuB}EØ°·emüà”¢%35:.}Ä§:ª¡‘Œà»âÊŸË)¦“7þøTÇàŽ"°éÑk¬º”JÃ6tC»~‡Pê¢þjh\'\\Ë[ÊüŠÿ' . "\0" . 'ÉriÛã°LbÑ=‹˜Zg	63P§ðMRèø<h~HÒ¼a¼>4M66"¥§Ê$‘¹¹b¡a—«-é²H­©váÏÑ’™¿¤Ö\\œ+°ÁaP°çW,ÛFnN–s?K*/²2­DvŒZ„\'¼ú»5°ÝW}Uo®¥ê/sbÃÈêgä‚äðžVEHð^Æþ‡-¤pÖ_#®¶Û×K¦½Òø¥‚’êQÔØûKk²QºJb÷ä†´"¢™ôü–Ü‡Óq$FNøN/°*\'Nj>¥{ôFn¬œøCÆ´/â=(”+ójÜ±±,Ï_Ú¶,DÙN/†¾¿UW²qLXM.óM’ØMoGö£â‚xN iïè×ù÷ìXÞÉnš’«¡mP¸tmÔ°Û!ï„žqx¸÷ÖØãn…ÇŒ½ŒírhþÕƒ«vf¬ú•tÙåÖ¹˜ªÊkkø/ŽÄ?~Ê·fzºxÓ$Œh2â’Ý‘ÔVå*!ndB®¥Ê…•l}·)ú–\'…Zg58_ßÓ["äuè¶ˆ8oäX>+ÙYaqµ±ÉzÙŸˆåŠ”‡Ln)V>Ãaª•˜èkðed?~¬§þ†æF_c-;|¶D`¼™¢øp([ˆúTnÅF>ºn%- ÿ' . "\0" . 'lØ“ÉñZÙ‘ÄQRD|ûëC\\MÝ;
+n4~Kþöy¾
+¸Ÿñ°ê¯¡ÄâÇàœ,eGÁ.Z.‘ËI±Ë…÷\'©4ýèÿ' . "\0" . 'ê÷?%ÍðßWÓ£mÙ|9vÁ<31[ìyë‹)àQÕŠ•¢äô#†‰¬ØÛWÕ¢Ç6Å®>á–ýmÏ\'ª´N˜g2%‰%d>µF)GÅ{áS„ÕþŠpñèECtý¤2öeî½»Ï§—ˆà\\\\ê§ð¨©+=7EÕ‘ÈŠ±Tü"_Ú$BÜª™"œ3TE$Õ¢Ú5u*¦­É&m‘¿VxuC#Ž¿”f¡ÊÑm5¿0e[!Ôdá,ËOù2Ó„"p¿¥OÑKöÈ_ šñWÁ8©Û\'¯ñëSUL…Ôú<ÏîfJ’ØMFÞ’U,Š—Q?mŸÐ§Nú/q5‡Óá/èÓ¹M4ïNç.ïc7õ±p¸7âÔ$ïWW„áIcEi\\Sïò¶,X»\'ä©tWi.:xù>¿îd³Æ2[]–é¨Še™¸¶§¢ˆ[™™V_¸ÏRäB2­»Mp¨YP¼c{’Ì«÷:PÙ›«,_§³äbÆÛá*~H]öKö”,*©•ña(–ÍäžÐ¾Ìá/&Ã¶ø~K	›Ið]Éeõ¥Ùéçäå•2jØÍU©-°é-¢ýŸKøe„‹œ5àáðÿ' . "\0" . '–A4”Ô[:ç²ä¥½ÙOä¥x*â~Ý‹Ÿm±¶äÔï®;?O#êpÑÃ^Jx4ÿ' . "\0" . '$ÔâŸ„r¢è‹r£›‹sîL^Š&Ka‰MáeÚ
+jø+ãUÔ¾ÇØLjˆá©ü—,ý°»Â{šQMô3TZøX¹l-ë_±sŠ®Œñ¢Ø­]ôÇa@•B§¡bYfDÁÊyÔ–½´ß~Âžˆµ°²9……½HÁ–Á	öZHÛG’èOÂät×µ´_ô+Üç©v@þ4Æ<¾Œbð¹#~²÷)dpÉx:K‹	Dô\'Ó¶••rû<Õú‹!*þ
+h¥o†äcf/Y.\\pK79=–Oec›™–±™îQUKÕ„—ÑýIÂGï¶Â±,¶åÜrXßEðs¦p¾‹q¸êV§¦}òÅð¾fØ¬¸Ü•¦õ[EöD\'Þ£àÏ>„U±ãaÎ‹cs\'~xAšI¤¿£—a8Ætå¤ÌÉ]aÒ2ØÆ¡a+\\èŠK‹)ýâçëòC/®Âõs+œ×6±q>¥½ãÆ‹éó£cÉr§l<“Vâ¦ÎgÍúWìð?Jå‹é¹bÞ…®Éxf{vM½v©$¹c*fä?{±Ð_ê…„cbûûíÏœ,/¢ú­„„3À»65ËØ¾‰Â;RYãMñòSÙ·-…8­Ó°å~¢å»Má}	ö¤½7ÕvýHÆÊK-Œö­‰ôoÙ·Ó{ë„_VÝ¹ÿ' . "\0" . 'YÛµ#¸-Û7î{víÅÚ±ªÄwÿÄ' . "\0" . ')' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '!1 A0Qaq@P‘¡±`ÁÑáÿÚ' . "\0" . '' . "\0" . '?!â…•Åe+BÊØ„!\\p¦‚b	“%„²Y"BrxN"Bó2x7DãÚòˆÁ61Ÿ)k’à¸.+Šâ°…„ 0D…+Ì~3Ð—ñ1¾B÷ÃsÅ	Ñixˆó,­XX!Bð+¡" ‚#˜È‘B#ƒæÞ#‘õÂ|¦¢Gb–ˆ:Â¡"*ä¸¬!aX!X!^mãC\\Xù1åÐ«’yHK5Ñ‚65x‰r\\HA.JÔ\\W‡—‡–21>ã]Ï(/‘HaB–%8.k‚â²¸–`œO_=ú%¶:Ù)ñ|œ¢³Xyx|“¡>X8ê5æ¸,¡qYXBÂ…à¼ÆÆ¤‘Ñiú2EWáxÕ
+©?	ñ=¢göhšxHø<	 ÛÀðÈìƒ¬eNz<+‚ä°°°¸H\\Å^&–Â%(=hË&Ü{fÑ8¼.‚DäÅw6¼$!HŸ`iýËÅ`ìòÆ¡gÀ‹¢A#,‘ˆYCOà…Á(YYm„,…^ö–)?BCMŒkÂÐ«¸@ÄÅõX´‚UbcxàCô#èèZëÉeçðÖiã\\W…r,!p>¢ç­‰¡ÿ' . "\0" . 'ˆì¬ÉlkRÏBÑÓ	•‡ }º%èLô‡)ht^Æ$ŠtÁÉS=#N`ð{G¤Aqyï,Zs^$.kB„/' . "\0" . 'EÉ¸ÙbfŽ‰é61¨è:"}
+M	ªÄ(hsÈÐ[¿D-¦†kýrÔNˆ··èb¢žÑK±Þ]"[ï‹Cxß1K¬qÁâyokŠÂâ°²²¸!aX,\\;â¹zt?í–Ç@‡YÂ„\'dz]‘(—º4ÂˆÄšoÁîì¶Aéè\\a
+;~£wà
+†¶{ÐÕ`¢aîº!“Ågs°µÁa’æ¸¡aB°Yf¢ãÐ¢%4©!T†AÐ„• ˜#áuC%}åÚØ-ô%¥[é­
+Ûgi‘!sß¶O#µÿ' . "\0" . 'EhÕ2P5#Û²­®o1ÇlKÄ°…Íq\\VBÁda¨h.?$dl÷ØC ‰	b	˜ˆ.P"‰a})=‘{ØÖ&ƒl®‰zh:ªhWøÁð#þwB¹¬¯B(\'‹a Ó‰¥bÐ±J9Id!4ð!"1 ô%’‰ö1,¾`ÄšÝ?c¾Ž–G«Ú.íØ—Ÿp«yé4ö±$F_—³³Njð,®Ä…„-ñcàiÂEòG4Û.{ô6KN…™®èdõ’ÙPÇ±tO?fçj«¢ú¦\'ù	á%¡ÐŸD÷rPÚ–‡÷¨J¿…Ø¶t4ïÊ²²²°¸!a[Ã	Ž,
+JqX¡—Ô²9Î;;&5v)¥šKfÞÎ”¿Hp“àé‚e|\'!2—¶{L¶Ñ:.Ðä¾¡‰êÐÖz/>Ê$Wäc³uøW…ÁpXBà°…„&\'Œûˆ‚R¥š@Ï`	rfÆY’L§%E•ªs¡*:7HiÀ$‡¿ÒH		àDŸd*ˆž}<ˆj·ëXèûeáœ¾hØª(Y\\PŽ¸®‚rÀ^Ãì15ˆû\'+Ò’œÏl!ÿ' . "\0" . 'Ú*mNh•Æ¤˜££O„¬ƒD9è$X²\'½ö©B ®±ju’?Ù´=3èD1JGà[ðéžÇ•³cQá‚ÍpXX\\V„!e1bf§cdÂËÜ‹T:ÄC6Ø­8”£@@ÄÆÁîVjeÓÈ5ù@ð}…2×¡a£GÓCbVv*Jïb¡>WxXØÙ+Šñ®šç9l€xõˆÁ÷Ñ¨Ðì¡è2J—FÂÍÇÅE„B¢J#-$¾AI7èQ:2MYý7êÐtº¤œöFáø^{á±º5%ã\\…•ÉrXcÂ,Ò ’„NGcÏã‚™(67&$\\að>ØÙ¨¸¿ØŒdJ%aRdèNÎÄH4|d~\'ŽŒ4!ŠÂà„!a+P¦„å¡ú
+Â¶Hÿ' . "\0" . 'ôH¿D_ÂBý_hŸ£NÁ-=…l†&"A`&#GØŠ
+D”Š?F²šGØðd{îÄùØ…¨AýesX\\²……•âD¯Œ-öâf?ò*ÓÒ%í¢‰§ÙšŸìO‘ES´,É9Fò1³F¡)º~¡I–Ê<èGù6-œöåO•¦B¤*lýyVP¸!XY\\Ö²FÇ¡[mˆnnCÑJ@=^„ê$²ŒAìtA´’(jç±†5ÞRôLë£G£G£j?°ÖÒ=¹.aÿ' . "\0" . '°m8*ÂÙŽ‚\\WÁ‚ä„!+(Y…!»õ6+µè“_±}“DKcÅò"y3>ÐúÓEHHÄ®´%Ä™·¤5¤?¡Zˆ{5S–Éi!H“õ"}DßáVý?¦H™[à³%âŒ.Xm‰Ù]•è¤Íaašç·CÞu·/ô¥PÃwë	¸wêƒÕÐxÎøuôÑ¼X!i ¢^M˜„]þ¥[cHt	–}”ë¢bJ²HÏú"oÌBã#ÄôâcøÍÂ¹À°„,¬¡q,.h[Ì"ÿ' . "\0" . 'AŠ5">Ä¶ËL{5•¶-…-%$BÆ$Ö=ò$ýl—ÿ' . "\0" . 'ðˆ7ÙPúÉMžËÒ-ôdEÿ' . "\0" . 'ì³½1 qaß„òÛÜ³Þ(@—¹.+++(YBÂ5ÁˆÒSz$lEsJ-Ô%š_B%Ü&-$Eqj»F¤t¥ZÒUdÁ=b¼`kcÉ\'ýŽß	.ˆø« P{…¹sÑoÓ:ðA³cçÌHAÃeü9epB°„!Šq/Ã÷HR„RýŸì‰;ÐŽd-¢"#AM ô-ˆù£ôúÇef‡ïQ³Bfg÷!Èå=l.ƒu‹R=¦Eœ7ØM±îó‰B8#Q§•rX\\°¹4-ý›+.»DJH+öƒÜ1„v„ÀiYE”¡@)ÉüÒ&S(ýøC5\'gk¿è„05Èš$é‡9,þÇ}’K±hƒì7ÐC{ÙYæ¼@…•ÁeapB……ÁqY„-héÎˆmðeBeKtHŸâ‚pØÔeldøÔKD&C¹gô"j£*ŸKØÕô±·ÌrCB¨.†ð„CV…bF7²v{ˆˆ0
+áKŠâ²…ÅpXXB²¸,nj+RHiZPÌ©c^µ$ëÑôBçø…ndÐôènQ9¯ß&[êîc+üEm)=·ñQ@»Ü>oÆéz0ôÈwU”(5DÒN™+€ç¢,S1¤À„A±kãYBÊÊà°°„,¡oŠ65Ct=¦Á«N´„Ëö@‡\\ÙVÈ¨‰"#£ëf¯¥Õ„“{ŒfHÚ]	
+GèÆ]Ju¦=A·ü"=8);¾Øóo§ÑrE¡96ô(l¾ kQØÝhø…ÛbüþBâ¹®Š…„!pXØÔNÞâØRCý‚˜ÙïL}/ú)j"›ëÑcÒZ]å½ˆí‘AšäÐ”ú©èHk/¢u&Ü;/ÑtE«]—±4hD‰n)¶~ÈpB‰	CN+Â¸,®+.!qFÅÎÓ3è„Õ	;z-Ppô6="µD-:?lXÅ±!XFJ´ŸÐ…Û
+QKC„TÔÝ\'è$U|IA¶P½#V’c–þÉHÝ_±«´©9*Ø‚±“H6[”H8P¼hÙ\\—‚y®B°„ðLL•í½£ûÂÙ°´+Ù¢Y%EN´‘p˜JZªè€Þ$vR^„,ÙÈ¶¢2*–ýHPÄ/è1A23Bw±+´2ú²\'éI¤×¶»>}IŽ‰/èª—ôUDAÑ$ ‰\\„!Êô¿b”×ôQ
+ÖP¼hØZþ
+ÂÌñBbbbÊyŸD8úyÑ?aI¶!Øl[ìBP"Î„_ØT¶wV$¢¶@ît7Ç—7¾ÕJ&¾A´’ßa±û-·,Êžþ“Y%ì…¨…¨4ÿ' . "\0" . '`SL91_dZ	Q	 pNÑª)’ŸGIÒC	îjiþ„¼›p|%Ír‘qKžÛd›—±¬œ˜ñƒ”šÿ' . "\0" . 'ði^‚-¶ÒEðÛ.‰½®Ñ0BY\'©õT‰bûÒþŠ ÙiÛöFÐ´P9ÅHhõ{6…lA¿ÐNÄi„-šÒ Þ„ëEAXÔ“‘D7ÿ' . "\0" . '‚g_è‰ô’°±ü«Â„HžP‰¦ßCf—¶,(±è›øM‰1ÿ' . "\0" . '0*º¦Ð©!‘C¥Èd¦‘¤Á‹hM›Ï¡5“O¤Î„ö&¨Ðˆ3ûCGKÙaÿ' . "\0" . '¯£ÜÒ…Ù3hÈlRGHRÕà´E16BÎ¤©PŽQU”¥´KHøkéÆÛÌ^.(L‘«èsMu‚„&  JˆŠ»d‡“|å.$¾JÁ‹û)[½‰$)~,POè2)1èwÿ' . "\0" . '¾,nñd¢#¼†Ed¾¶?lA¡Ê‰vË¡à¨6F	Ü$¦ƒÏV‡)í†2ùíç.+‚Ì’NKŠß' . "\0" . '‚ Cv&?‰ËëçE’„¤êÍ¥ì¢ ZÝbäÛ-bzEDŽþzm²½Çq5mè‘¤”4©Yÿ' . "\0" . 'š‘7D8šØÐÏÑ±Û=qTv4¨lQA›s\\×pœNJÆ=°Ó$ð…ž²äB­ö?¡ ƒƒ]%QÜ+‚\\ˆD[m(†}' . "\0" . 'X½õÁŒR[;bÞÉ´”±ª!€ü#à&{Y,uÅœìˆTíŽKeÍñfæže‰Âà‰$’Fbû•
+…L-ìX ˜,HP²„ámßHBž†Î†ªü–‘VUazX$\'[H¶.ƒ3›×" JVþW±èCvDÉH\'
+…½“(Øè»±¬hÐJDJ#Ë·Ž‘p’I$’I$’IÃdâ{i2˜<ð‘¨ÕE"_EiˆkªUþÊè­P‘#Ò;' . "\0" . '±"’Ù·ƒgQB>ælF®Æí",ÄÑ
+Ù”aÀ‰ÀýáN—#âÇþHÞIä,Ür3ÍY6ZV	"ZµD:¦Øº¾„.”è_T…hK¡±6Ð…–ªØò•ÊÁ‹”ÛË"/géÅ‹ç;\'„;d&„³x(]´j>,|^¿ˆ’I$j|(bxZ	‚ÂÐjÍ$_Õ÷IJ}š|•šGöï4Ý¸¤ín‚˜Í´IÉ§Ùx³¡ŒÓK8ðù3cOãä’FÆàE‰x!dÔ51¬PÄÙ»cuVECjÓtAÅnåŒÔºSŒÈ•¤¤ßÍŽ ‚dÀt°Ö>ŒÂÔàé“ÅñfÂÖhþ;cs±11¼Å111a{Ãqéf‚º­­†Í5úÇ²}
+ßiÅ))r	ò”/Ã½þõ"' . "\0" . 'Á¬¯Hc¸”aßø={FÇ\'Å›‹Dÿ' . "\0" . '#cm•†Ü5Ì‡^†ô
+rd°½‰þ¤I®ß³ô
+G‡PÜÂÒ%¸Uv¶D‹èFe¥âdît]‘.ÆÑDh$…äòÞÚj5„¯4ñ’rÆ|ßŒÃ1nêh°Æ$¬$F´$Ÿz!
+6mˆ†7B5J¾É4‰¶…vI\'g`ž„ BŒˆ³œZ°Õ‚¦%ÎÄ¾3­1Á³ÜìéåxŽ?ŸL,ÃÐ¢é’àÔ6†¤,<%`Xmªía4hH—ERSñ&—Di(~ˆ«=©Ò%ÜF²PÚ‘:fÄ­Ž¡8CIˆXKÔŒD<h0ëÌbt™+¶3ØÛøiàØÃ|_aH´$3Y4ÑÞ	 ö‡î¸´%Œ­?Hß°î¼-®Ä_DõìT}ŒvJa[(õbÊlS”Š¢ô= ‰Ùö=ÁUB}h!ºi‚ltAª©2hoÈ‘±Š„è‘†¯,ñ’pò~KyÐ…‰Á2m"¡ØÜÓ
+#²>£d“—¸|<ƒ—°¬j(š}è\'ÑcÒèîˆÿ' . "\0" . 'dB”ëøvÊ-–>çû›Ç²V¾›$wûF°é23d)4Ï¦}KbÃ0Ã56YðO•Œaùm™e2FÍ‚Ñ22<pÉ†ô/¶,ùÃÆ‘Pü‘=}w°‘ØÄ¥H¥F6h$Ú‘¼lyTvWbŒz&Ë6ºkGà”/a^z ’Èþ¸M’5d’6Dþy\'HØØØþ$²‰B&I”0‚bâsÅ‰“-Ñ1oº„oþÝCpú98¿ƒv$Ç%	?¢k´-8Hµ“?@Îéš¡4¼Óf¾ŒGè·TS±ÎM6Ïvq¬’FÈŸ÷+Í$áŒcÁ!bIËmÐa11p5&ÍÍ;bº¢!¤›¥`“gF$›GT@AU¡
+ ÕÍ’f•&æ¾“’Œ\\¿Hôw,9ìb4ìF¦0ìd•ðÔ“ƒcÞ6Ñ‰þ’61†ðP‰\'‘¥ña12I$‘ÐŒ-2 œÔYAP¡„¯Hj’Šô4&”1ÄØt±t×d!oCr”iµ¢EdÕ›n-Êtit!•Èè­ìFµö4åVS=’HÊ§ÈÆ6?¸¡2q¸Øq12I$l q­lrAÚY<æÄ[–=:R-ÐÆ¤1ðq½å‚G4&4
+ÃÅfÁ.äuÂÜcS!]A[BCiìo†¬É²IÁ¼Ä“ÅŒ|ÖYbÂ$p÷ŠÄ’HÇRKö3%_ƒyØO‚ö%Ü	¨²êè\\„?Ð!¿‚“åÞC	$	Å¡&Ûª,þ
+JžÈ H=NÔ0ù‰à$’pÊË$å²IÄ­Å`²É\'	FØ1$‰át8UÍ•%#`±‘èõ±87+áî~È” D›ŠÙ7BÉØÚö<œ­r7hê$fäöLƒ™ÈóƒÓHóƒ`’I$’FÆ©>å8dŒyÄÉ%Å`³$’Ndsa	’ €žÇ´N‚9vèÜéÔNY·&¼äµÕls‰Y¦ÎÁ$Ç_ƒÚf+;6ô…bOt[Ð-X“Ÿ±+#FË*J¢"J§Øô6\'x’rI$p.âxxžÅÑ¿!bFó$“ƒÉ#ÂV[â>uO„ ‘f,R4(nø=éÊ`BÔÁI¢…„BˆNÇt§è‚…PD¡ôJD?À·$ÐÐ…$oÂÅá Ë&”Ðäö8"pÂbÀ„’,±§ø6ÆÉ:^‘5Z_,Ÿ$o€K]±}eìˆÀ2hX“B!PÕ‘”Ù‹vÿ' . "\0" . 'AèNQnÈ„L	¨x@ƒ[f‰mkŽL6m‡±±"Z’%qÌ	,MòB­;%[þ²q1±a[àÂbd‰‰‰Ø™$–o<’<«gPmÑ>HBÃæðæ¤ãØPOCRÈb%{:ñè[e:AÃ½ŒL(ICW0Obf†%Ñ2žÑ;Ÿaü%C¡lªµÙ0°ÕÚ$[Õÿ' . "\0" . 'ìýèì2øE®x$A2DÄÆl‘²Ïü<¯
+¼Lr‘Yl1ÅÒ#àŒy%Nt¼$Øð‰{4)²W»(tÅH]NÃÜ¡[;I˜ŠFkð‘´ÇD»ØûôISB$BóhC#%{ŽÄØâ«göœ©‰‰‰‰b™fþ‘xÜÿ' . "\0" . 'Z–›  Ãcz?pÿ' . "\0" . 'ü%Á‘C™v0º6çbOÜ™ª”tÂÚÑ´#,¤ªCÒ\'nÎ„Ä‘›]-Âz‘¶†‰"l{^ÜYhcoð_ðÞÔ>ÍtLÛ,ŽÀ÷' . "\0" . 'Åž˜îK$n0ga7èI1' . "\0" . '¬KBŽé-2"ÆÑBÊžÉ‘=!-!2/Q©Ó‚6-”Ÿé*h¾–	¤B‡d†¤›©Bä™"Ä1±®Y¿š¼	HˆQÀt˜zí>Å&ãDA¥“å#5IÖ%ÁI[ CØ÷
+ÙP‰ †LªøOª;#3Ù×U²%¢	Lê‰Ý²õ=„—D*¨³5±®ÄwD X\\Q"xÜCÆßð±8qU\'c#™£N“A¸µwRS£a¥£¢’-J¤%ì)Ió3ú(iQ=Æô9±±ìJFÐ´Æ™¡RJÃ³³Ðï`T4EuŽG…Å„ñ’p÷7ÿ' . "\0" . 'JO`¾	Ÿà?Ñô,r“± H49ì«{BMœH´4Å&ÒP›h`7©£Ðl¢¤D…O‘edäU,TÉ*BùGY3°Bzš[xÛib¹¬Ñ#cßÃ^d‘HoC5Qvû¡ð¶9g—Ô\'¨r„¨c®6ýžÁ+Ó%T_L…v[	"]ˆZì~„è1Ì‹rmDÐûÅ’YÑ"‡²¨Ï³D~5\\oá°÷æ±<"IHOˆI¯DìÙ2ðÄÉ&8Øz2mIh´;' . "\0" . '¡­’r19þÄˆC—é-Šœ+> TºýCç$^†²¨þ†±½’Ã9LÓcWø<ð°‡¥oÐN¡C1¯,T‰ I( _‰ÜƒkD"%T™+²Ôçú{Èß,”û²¤3dB¦$HØ^$iÀúÿ' . "\0" . '¼<¡oSBÒ”Ê¦$i´Èö4é›lB¤`Ø[#¡õ5„JT1»·ÑbÝ‘ÐÐ·Dé¸É¯ƒØMÍ£¨ûkÊñkÁº5y`ŽVóMŽ„É&DJFáxdôK[N†’I,šØÒ…°¦Ò9v5±Ý½cÖ¤1NõÑ>ÂPðÔáCr?¤#^È[¾Çy9×Íb K’p?+@ŸD”ÉÖBHì£bÍàÂ¢q"„È¿ø3¸…ùä_ìX6iè‹èLM¡-á@šƒDéçHß›^/W5ÆFÿ' . "\0" . 'ŒÙ’I$d’Ä?üÎÐÛ‹bIÉ½a@ÐnL#j$)Ÿé)ì²ÎôKb4Ó-v9~U³N+Gª4\'àÿ' . "\0" . '”o	$’[ì†ÒI±¨†H“;f‡²ÌœaíÏDÑ¿HŽ1”?`†‘¯H±)ˆiyÅ³QáÆu\\ÐÄ¨ÿ' . "\0" . '%¤4º†p.ŒtÇ•"pBFðT6št9Q‘-ˆ›Ñ7 Üè´®Ê7¤kfæ‘k±nôN0µåÛ0ÓŠÂÄàÿ' . "\0" . '’‚dábF¼J*M¡ÑkÐ„eÃänp#po@ê,¿dšÇ,ÎÈE~‰Ä\\Kã×š°õ™§\'”áÿ' . "\0" . ')q‘`DX¦\'DFÄÉÎô4ðø!²b~t©c^,ÉŠhÚÈì4ÑA,mèhCò‹F¸´ÿ' . "\0" . '¼¡ð\'4¨›¡Èðª\\:Bá„ SŸC¦ÿ' . "\0" . '`¿R"¯|ºU@ü›åç/ñrNd’k\\S…ŽÄ›(³Ý¡sLnÊDë²ÎIºë$?Cp$›EÏ–xxî?ÿ' . "\0" . '„Xj°¨‚3ŸDD‚cEdWÖ7.Ét2’Ü{ðü[aá© GøõÃBIœ(DðzPÓ\'Xo¿x‘˜—@°`N!¥x°°ïÉ·ùD¤Uò%$A¢U­	È¥Š-–	ÐÉ¤5\\ ‘1~M‰ÿ' . "\0" . 'Œ¡8œ.	1	fÆ°8“‰¡{Aþ‚(˜j‹ ‘t†Ÿa¨;m„y7ÿ' . "\0" . '­‘’œaKÂlL[šD2I…1Ä‰ÄŠe)šfß£¥I¯¡^´oäßür&ÄùÆûXV)nI-1ìÑ°˜É\'ØÔLŸƒÔ›t50ðEþh¸>	F‡$th?Dt#6å“’0²M,dIC´{-c_óBÌaðÙ8Ø™Q#A‰a<ÍX£$Ð\'J7‹0Îe×ÿ' . "\0" . '/ÿÚ' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . 'Ùìy®O­®1±%¿óP¤û.«]ÌdmDm,pÂ…üT“!¤EäÑ1“1ü¸T^ÉòCŽë5(`n®ˆ §.ˆròDn@ä6þÐ¯Æ‘\\£çÖï¦ŠRI ¥¤áæº©¢@òâË±`ÿ' . "\0" . 'ÊyÞz’Å–rÙ+‡%5f¥žè XªIÙý»Oÿ' . "\0" . 'Ù±!¸\\–GÌ?ÖYÈ;,¨KÁÆ·º3iˆñ«"½ :©²~¤¸¢' . "\0" . 'ìªx?UëH©ÛË|ïÒEË)cžÂU¯öžJ*p-í»ò3oV[ÃqFn.bÃ:û§¬Tå¤ÿ' . "\0" . 'Y–”ØÙGÄÉ\\ü>ªBW' . "\0" . 'ÒÎ¯¡òcyîº»6ÞÚ¯€d™‡nª?D\\Û¹>¸Cœÿ' . "\0" . 'y_-¶ªÖ4³Š?æ$b;¯{ßÝû¿„¯=[íŽ®¼h@,®¹Øô˜§ñ\'\\”¡ÛèH~€åmý¿ûBþçÜøù3jª0j‡' . "\0" . 'ÆyÄÄÅg$F9/©a_)¢˜Ûi‹4ÖÃ–™ö{P<OJµ’0“ãÒ›ˆ”:-B™›2díëË×¶µèICÚ%Rp®fžã:H¿&”¦Î	)Z¾àÉÕH¨lˆîÐVwÆ¤Â7OP»ÙƒÞ!1Œº§ƒ\'ç$Æ9šRóW8ÁS	)VçÎ—…ØKL?å1ˆÂkÐ,oò”õsl°§s‰?@¹§½v˜·' . "\0" . 'çÍÜÚ×E”ÍÓaš@:Êƒî¡.`Fb‡’Jd9]¯­í–£­_Uû¦tó8tá{K•nƒY’ª*Ò¿ï8hXéàrC¬ ¼È;~' . "\0" . '[ƒ²Á¦–ƒ.ÿ' . "\0" . '»\'Ò‡´šÊ@`&h“ªH:ýô ¿~ýÿ' . "\0" . 'ÃO…9<E¦×›ˆÀ_ï^©w˜D…Ø`~ùã¼ß›ÁkåÃ“' . "\0" . 'HñÝhk†¥æÎ¾v@ëªv‘U.üž”¤>; !£oövæ‹V¯oEñƒ’r»G7“Q€L=ŽNócº¦†>çŸ `b.°²}Îµv‰ÅhÔÝ¤—y4S}/Æbg²©õëâN³,¡~¼‰Mœ ej"KµeñWuô~;oñÔZŽzàG„õí<êÕ5Ê(˜±mëY@/}*;²ÎŸý•oƒi°;þ uWÑlÅx,À)zvž"Ç¨Ñ·~WõÖÀ¢‡’qDWLRJBÎìíëÌ«q• ¼¦°ô—Yî»F”+e£)^`Óÿ' . "\0" . 'ÕS(«' . "\0" . '/ZX"»œjÝ–ÐW è#¡ªzÎ‚Ìi°Œg™¶\'lÎÙrz	sáUv¼î÷¥{®²7Äˆ¼šE%ÀI£[Êß5IùìºyçŸÁñÿ' . "\0" . 'ìRP^kd‡4>GŒ®¦ƒyâUhÿ' . "\0" . '÷ f³D„x/Û¨"áÁŒîY«Âv‰XJëÙè%ÓD!fysÉñOÈ[’LÂ¢àŠ¹AA¬Î…>7ëº/æïúVäE/9¾Có÷+Râ=#|1½\'NQäë?“Z À)ÿ' . "\0" . '†û|2ÃEï!hq¨Óg§54Ì“Êî˜¬áýÍ(0Ê\'>s\\ãÏ<ñP4‡¦?­ëŸ[kû=E‡a÷' . "\0" . 'š2HÄ×8Ã0Ì5ÓÏëé¢ù$1ž\\Œ×ÈCÐ«÷#YäëÂ<óÏ<·<ñ“ù«eè¼¡PÕ‘uu÷è±%ø¿~|× ¿<ó0ãÏ' . "\0" . 'ÓÏ(õJ{Ý ‚gK*êÞ]oæ‰GÌ‘ž³	<óÏ.STñM<òÅ·mD¦â½ÂÂÞþPêÐø§ÇÌE¾€Ê<&š¤£Ï<óÏ<óËÖË¯Ã!¨¹ž)’ËYr(ÇX*ÑðKD Ð<óÏ<óÏ<ñ‚K¨µË­²ÞyQ7ñzæf‹7Œ…çwl0Sß(Ï<óÏ<óÏ(u¾Iúÿ' . "\0" . 'öÆ‡€7î(ó	×‘YÃ<÷Ï<óÏ<óÏ<óÂ!žü·ŽµLÕï×Ô½.<ñ=Ýìü$óŒTóÏ<óÏ<óÏ<°e¿\'ð9“ë.È' . "\0" . 'ôÑóÏÊþÿ' . "\0" . 'óÏ<áO<óÏ<óÏ<óË™íÿ' . "\0" . 'üå›–¬‡Y;O<óÉ\'þï<óÏ<óÏ<óÏ<óÏ<¢›–Î9kÝøË9ªÁðrHóÌ<c5ºóÏ<óÏ<óÏ<óÏ<óÏ<óÏ<óÏ<óÏ<óÏ<óÏ<óÏ<óÏÿÄ' . "\0" . '!' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '! 01@AQaPqÿÚ' . "\0" . '?èK+)KÃCï˜|‹Æóz++)K‚eì}HN+¥¹ú?ÑÌ|VWÞnoHQ¶7æ7bþÄÁÞÑ>ø}p÷¨kÐ0HäÓâ.åÄ™ÒO¡)¬Zx"?„º/$zÃXÄ:csÂ‡"i®¡å*4îL¬ÒçÒrXA+ðh°Ä–:¡¸#ðI‰Îaû•Êp\\ÐÕ(¨Gt-JÁmìX=¢ÀÝTk²…]4l~á|Œ]ŠuáÂ<Áº$%«‚jBÊE‡èéC¸\\z%öMŠ´C¤‘øg*ö\'d5Œõ	¼¼<,¼¼.û2 ËB	c&ô#H!Aà¡àMõNk·Æª)YÒm	I‡
+Æ¶¡6Ú%BèN¦ˆ¼_z-‚6›qÖ]%2Ø/8ŸÆó…•×à^Š1hW¬˜BÖ?SF…pÛƒâØú/cx½°Æ«Ö<%PÞb{ˆbðfôÆê(šÅ\'ó&…è„†£I­ŒCSD\'ú ÕTRlz‹0|ŸJÂãx¡ˆB¥˜Š¤7cEGP‘²èÓ^‰´ê<ŒØ5Íåfô\\!;²Æ¡Ž
+7ÐPllD—¯4_ôtZYD½o”^^ð˜¶F‹íñÌ(5Y6/£)xµê—SKy\\®V`¢ÑpB%Š(nñ”£l®‡‹¦‰§Š—…ËÁb—ÇB¢bbgá9?¸Dƒ{-è{Tz³x>¤1a¼ô,¢èaÙoâ>Ä\\9Dëž˜ž†ØÒÁGè]K›ô«/XO?£ðô1Uº‰›ˆNªRˆEÂåOôN£ÐÆš‚H‰è£Å)KÎ—7…¼ÐÕ¡ Ký!t]dÞ+a
+ÊV"õÞFÊ!2ˆBebe³Á¢Ææ¹£Íh^|‡À„&=ÄËÀzC&ÆïËŠlÆøÐø¨™èb”ŠnÇlÎá³Ù ²±ù›Ð¸xÍ)FÂcF¨¶„¯…š“…(ÙàBb|.¸BpY\\Op„ö9?ÏÒº4gðý)Fù± ……—Ææfq\\¶6Q°qha¶ÊR‹‹e¼,Q1a÷¬¶61 CBÐ¹YFñûtÄØØÙx¶(Ðò‹ÆË„&¸,¯\\åG—“,/"	’øoæòe.ª”BB“/+ãL¶!©‰0ÖˆyèÝh^ƒfø®n›êcË¢DÂba´5¬&/\\ÞcYl®ˆ£&6=2‰G&Ö_T —kD£l·)!¨xÓ^F<$7úZ!10–vQ±‘ŸúRˆvç)õN£X’"X:ÿ' . "\0" . '€ßËDÄ<?ôHDŸÚÆØ‡Š\\<\\N‡ßÚÑ2ú!#eÿ' . "\0" . 'cÿÄ' . "\0" . '!' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . ' !10A@QPaqÿÚ' . "\0" . '?}áåü÷£,²Ë8öÕñgä–ï@‡/Û98Ùxe–Yg	°sœí¼a*Þr&^\'»øå±ó»m¼½0¾ôÒ1Ø¼?›,DG]Ï¶ ôlOüØýŒý·x\\šûÈló¡ù=Øˆû>Qm	bKåãŠÞrcüèÏtdÛß­—‘Omž¤ëiÆôË;Ñë½7–b"øçdæO¶cSâïl>Ø±±ö>[,\'Ùñda}7£c“øïé¼¶Ï+ØÅ˜aòSû>bÉ$Âl÷7Æ÷c2÷!ËzoC»ùçMmM*eòô-´E›?òu8e–f^ÛÓzŸ‹ÈúßÒy\'êF[Æú¾Oáœ¹-9c©oø^?Þdû¶ä}AÌ+!„_H{?;å°!ÿ' . "\0" . 'sñÂõÀ™“/cHr×€–ó"’<G^\']š¦ÞÌ¾~×e¶Þ6S}­–Šƒ„l›öñ—»mœ·”ýàp¹&uòõŠ\\Mœ=÷£ÂrfZìÞ" 2$qa' . "\0" . 'Â%Øð“ûÇle07…‡îÏFRÉðã$„àZ‚l½7ììY‡¤M6øùê„O)Ùïœ¼vA–BBPMédôŠ56Ø¤ež°#¹ù=Þ[ñ„	©YÔšùx–ÿ' . "\0" . '-ß²Äþ}ÒÀàèYÀuz½Öó72ÿ' . "\0" . '—ýBPÜkä
+áaÖZa*×äMÿ' . "\0" . 'ÂJüŒY' . "\0" . 'ÆJ7Æ;œgãœçÍ’Ly¾Ç‘lýËÂ,ã²8x·.Kc©Ñ?¾ðl²xÔù:ÈÁ±¶øÒôáoWŸ‰9ÿ' . "\0" . 'äyØêñ™‡œ2É²K/Ißÿ' . "\0" . '#fÒy
+kíˆï‘Fw:?‹Ày0I6I$žÎÉ6ÂNGäûfö?¹=3«Ã0MšÉ„ôdƒÈc¤¼ÏÍ‰¯%‘ÙáìDöÎ^Áï[ß²õ,¦ifwl“±óñxl‡>£7KIõ¶þ¿šûbÅžíI³‚9å“}Y0ØùdòGË]$^<Œýà.>­ˆ¶íJ6í·¾ñy¼²NK$™ðG%¤ùÃÙ%îpxÊ/ ™±?ƒÎAË<d“žð’XCWl‚/\\YÕ™5áá:ûúCÆI$|‡¶YiåƒêMDH•™öÂ_ìL„’YÓõ×{šó—œ“€Âñ¯°\'„ÿ' . "\0" . 'Ô¤{>1?°†š_ñsŸç’N¾Ùeœ¿!œ¶AepžÙ}2ÉÈÇÛ=6äÉ™ì»l’l‡»d„¹·ˆ/,ƒ,ËxÍô¾¼Sì°ö]‰á&Ïó‹ÆtØã,²|äûxö8Éã$ààùß?G»6õC¾ð[&Î}}·®v>…mƒ—’,3œüÛ#çùŒçOäGéüÿ' . "\0" . 'gå¶Û×x;å“ÿ' . "\0" . '‚ÏWœ³—üIúm¿ùDMàý_õ½Þ|ÿ' . "\0" . 'Ê9Èÿ' . "\0" . 'ÅÎOüÜ¶Ûz?îÉüóÿ' . "\0" . 'ÙÿÄ' . "\0" . '+' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '' . "\0" . '!1AQaq ‘¡0@±ÁP`ÑáðñÿÚ' . "\0" . '' . "\0" . '?4>[ñzðÈòlvíïÀŽ¢Ë¤D<¨x„n‘Ôw	ÃÀç$x1äŽqêÁÞ<q"¹ƒ˜õ_j3î>x˜Ãîü°~Ø/l»PáÒì«—©£„Ëm¶Ë>‰™™á>tÃ:Ã®»¿;"TœÙÌ#V®tI°îu:úÏ¦õ#= æÃÑà ãÀˆ»Y{‚A‚ „ùŽ<Oaˆ¬5{1æÙÔE,H³àœ±$ó%³ûâR0±²I™™fÙ™[Y¾ÍgmÎBr6Å™kdœÁ&z6c«Lu¶"Ê²Ígaóà‚Î9ŒõàƒˆÃà ˆ‚ ‚,‚æÙEŒƒH,x½aÄ°ùºÄØó…Ñ‘ã<o?qò³fÅ‹?¸yŠÌüf$’BI™ðÜÒÚÉò6GX7¬Š‡+V¼ØI,³˜ õml¡‹\'gyY›–ÎH8Ë"#¨#<DGG€Ds_K¤ðâÈò]êëÇ1Ü·¹l<Adr,³l²È’I!à’I38sdðD/Sž,3øY¼¯†K,¶NY«Å˜p–@gâ0Ï<ÄG^‡v‘AGƒÀÒˆoP{ŽÃ<ÇcÔ.×KµÕ,‰ºyË#ô§©É\'¿azðeãÀs+gŽìO1¦¸pNHg©íŸ)kÔ°u:·8ú‡¦È€udXGž}ÞûÕÿ' . "\0" . ',æDG~¢ÄA ‚!ÄBØq øÂ!ãð°>áÄp‚,l`âÏð~jÉØú†ë¬“Œ<ý\\MgIžn3îdæ.×|ÀW‚D‡¹y!e–J°%5á›Êàqë™°qxþù?' . "\0" . 'ˆˆ„AàEÓÀ#ˆbéà/âðésëÃãÁÛÃ¥Ö1ØC‚íú2,²Ë,‹â”::ÿ' . "\0" . 'S=íåÿ' . "\0" . 'W©‚Òß€.ØfyÜûÞûmÄ70%ÚçÆÙN ¾S%ÂóïdÛÃn…nþl”ë˜O[Ìzø‡Œ´áûƒÇEê\\‡\\†þKŒí æ"#Ã"à‚!8„‚ æ/¤wºGŸ—YããÞèBË ²<èwsåWÔUfrwésýÉ@û9»wòõÜ>ÝFmÀé}±¡“Ã3–y;Ã»±ÇÍ+õcø“2ÂÌ€<’k-EdÍVåt²Nl`°ðÆÁ&à5Íƒ<l¼·CûËzx;Žyˆ‘ˆŽ¼]<ðGP×Ç\'K×æáu‡ÝÜºÝ§Átòx<g‚‰ú,K‚êÃ?$¹Ò½ó,S­°™ZÊ\'”°Ã1#ÁÌç‘Ñ1-òw‡8õ²PD÷qY¦9!Ë‰™qà!ÄŽq|Îa|^¼6^%:¶é¢¿ŠüY‘qäõîéC˜ˆ":ˆ8Ž¼M†7Œ‹µÚ.–8µt.­Öï>¢x<(5`{lz¼Qâ;pÞYns¡ÿ' . "\0" . 'Åõ¿ÅÒrüGn¿‹$óƒòd6}>!ºœ\\MßÎÜ¬§@‰bò“§â1t²lE>õÓ»›§O¨“ÚY¼Ï`L•Ã®,y|9x·’xšÆéëÁž ÎbÔ@ìAqÄÇ":ˆ³Køøw»Ü§…Áß§w^lq>	rWèŽ y´vXá.Gj¯-˜Øn¦_ÅÏ$¼Ñ\'8W+ïˆrØ^é?äHÏRö´‘ôHŽaÀ~.0¯ý…AÚDâ<¶ØŸ‰ðÀ8ŽÏe“Cî\\ŸP×Xäôvi1:d\'¨Ç^%ðy[œƒ™=Ç€êüx‡æ"¶^üˆð„D#Èˆƒ?@Ý‹‚Ï›·†Ší¿D¸Ý­–Gƒ¨rÒ<‰L(ªº°ÐÕ•ÉR†MÏHç!ÎØ‰«î#†¼>M°‘‰É÷£<àîØ¤8þÑz´üÝ÷àOÌÕx§‹H…§­wfN>g5ÞeìÆ:O6g^ÙÁ)™î=ÇWk¾ ïú¸/ÄS^ŸD2½ùâ".±DG‘áÒ/ƒÕÚïsn×gÍÚÁù·³žá>‰Ão–' . "\0" . '4©Ð¶}Þó0?‹ßwøúŒ3’Èêpu&/’ý5mx;#É9SN€~ð,×Žâ077nö^¤<œž£q8aÍ–L†Géc¡ôZÖËÌ·Gˆq¥ƒm¶Ye–^ží[<2›ÝÝøñtˆ ‚"”yƒ#ÁäAhb#»µÁð[qg­òÎc' . "\0" . '¸N¶<#ÒÞ²=¡sÌ¡4éýïm' . "\0" . '.3‹=‘Ý‘½BÓƒRŠ†6ÊDèúœ1Æ8äçãâp"ë—²d~ÔôÅÐvü ²3á:Ðëë·æd×ÈF8{GQ8¢ÀbgV]K,¼Ûá“{î`çÆY1Ú|\\õ†n:ŽãÁ¼„DDyDD\\›·+%¬µâ^(\\ep»ø{ÆOÚ€ý¸y®qqQ6¾Û¤o©N[ŸvÐr=YºæÏm‘šèÛwªq#$Í{ô¸¸åŽôøŽö|¾œb
+0ñ~~¬|3¶tü36Bþ³Úè€Â»Å²â_ð¯Ôõzòˆpíîê\'‚÷Á¼x¨ˆˆð=O¯¸"";Žã¨ÑáÑÍß©Ol‡6Ÿº|.‹".Pé~ât•þ[D7;Œ“aÌbyÉ52—„ôÆêÒéWæì¡Ã‹€ÇÈ@!Ó—áÚAÓËÅ¨ÜHûñ·®Ùkž]s|Èú”|6]¤oƒø}À0ñ“ùˆ?vO—|}üYúfÞ\'«\\—úËÞ¯ÔdqÇƒ¨ˆˆêACíˆõà]£¸ê!vŽ<:K„<ø6È8—<XˆSÄöñ2?Jn›à`™3È¨‹Ðyl¯#âÁƒøŸ	Ê' . "\0" . '{Ásê8Ÿ(Úµy8\'¸RŒãMQÿ' . "\0" . 'Äc’’\\©õ7Ô·7Ñå©*øˆH{ñêX¼‚ßì-–[gÏÔøöÞž+›|g©Ýò—Àî"9Žâ „DuàÁàyŸÍÞ;ðQ/vW?p¾áÃ&!±ó_(¸x÷Ÿž"÷JüómÁÈA0Gï!Bžþò9ôÝ:úº„\\m‘„WâIŠö\'ŸTY:óÕëkÙðÆ—µ™™rà¾ÙPâ¡·IHÉù;{œ¨ò³xîÏŽÝŒQár=KÏ¶Ùy‘m¾#Ï6ìs.Càsáñ@÷—h2üBsÌgqrƒèˆ' . "\0" . '²<.ž<Ê:ð9‰ÉãàºF›p©UÇÖÈŸÈäY&\\ð76yÿ' . "\0" . 'ø–‡?¸@ð8›GŸ›#Z¾­Iq›Ö=aE†¢ª‘¢ñ9ÍºmÛW™âA{,PtËn	gVÞ=Œ¼½Áø	\'2ì]ÇæcôäÝCñ1ào/¸qíîÞ%¸%¶ÙzŸREè”Þ¯_¼q9A{ð7GâÏ#Àî#ôßPxóGQtˆò<=Ý Ø æ.–}ø)s)CÄ7ÏaÃ8÷ ]÷' . "\0" . 'ö4¨R}õ' . "\0" . 'êåF7·(óðLGœ—mÔ­xòC7ßÄŒ\\ÅÆHì{O¹2ÁhãÉbg©X}ÌàAûžÚOÉ¾»Ÿ(%Ù?™õ±9û-Sÿ' . "\0" . 'Ùd=.msá±å™ñèºGEÿ' . "\0" . 'ÍœæO~ü—\\¹ºã¸àð;ˆ »x#¨â":ˆñÒ"<	AÌDw$wÇpÃÄM»ðdî\'fo)$÷-¾ruàôÆG‘Ù·DBZR2‰ÔäkÏ-»‡ÉîhLöDâëg³Üñzã£9Œ?–9ÓI¸æ}\\œlöÎËödþÃt³_l¸Ù±Œ³ý²Û"É7©.°ž¡NþHdí}Ý";ˆŽ|b"#c¨Ž¢é' . "\0" . '÷c¸ðîëÇ{ÜD<GP`~»j}^³ÜLsÏ7¸´æGc}­ÁÀ‰q<ŸPÎ' . "\0" . '5,c‘AÇÔ‡¹V@œ†PäÆ¤êîgÉ¹Ãw%Hp¸dhÅèßL(s›(^G›	>c«˜vëvö™¶Û‡-±ïÃÔLLö]®Ësü²âW¬ˆŽâ.k¯—v!ãˆê<èDEÒÂ;sˆ÷¾GQÔ2÷{ˆ—ÄmKPò–÷þ.¢{%/7aó‹.4å„j˜Ûã³gÁ¡òÉÐó]r”Cy#r…{Æps`ãÝÈ,œ\\À65ãƒÃóÂÚæ–òø¹*3Tîá@÷ÊœòrG:Vc˜°ô0˜Æèóp+ŽYaž|	Û<a7äýEoOtŽâ";ÀŽ£¢"ítˆòø\\"ÈŽ â#¯bçŒ0LbØƒyG/0~T¢5â*\'Ézt[-3êÖaþô(Bb‘e‘:òÃ®&æm˜üBÄ{›Úû ;´êaýÞ¼Ü!.èåx…×ˆ“ËûZt_ðBéë;˜fdP;NÇ’9Øú#‡=Ü¹-·Á×Œ²È,Ã}[lG˜C†.y…¼ÇÙ!|‡ˆî"#¿7xŽ¼îítˆˆ~€sÌ#¸ïöð:Ž ðGWr>þàÇ èÍ¸×áv‘¨äé<J=Ü\\âùWl—ñ4n[' . "\0" . 'žÒ€sr<c÷på°ˆY˜õzÎK^×fØc-D¼›î²;°oïJ¯ÜÆ' . "\0" . 'À/Rú·™¾ÈžCò¾ˆmPèìÓ1ö–Åè‚?ç–Y<«†½€nÇíÅÃ›mÆg¦(Î‰!æt¶"<">nPGÕÓÀŽáË¤DGp]<8xc¸.žä1º?7MÖãƒêc|Ç_î9âe€I ·‹ñî\\ÛøâmìMZX¦Ùoº3' . "\0" . 'vùÉ×¤' . "\0" . 'h¶á±ë`åÉspYdœ\\6œZÇ0¸rÖi«ØmŒòî0¼ß‚ Zç3ëÁsÀ7{JÆøž5Œ:§ˆÕdAp³Æ æ4ž1c ñsµ•xnrm¹u»HgKèðDƒ¨î;Ž®WWX[´ùbéQÜGWXƒæcÀmÃÜqu{ñå:¿7]Öâ×SèJ±ÃÛmGŽîpÄs|¤˜BÄíÆ3ðOg×í3pÑ9ŸQ™ùÌœß¯¸àOœ‰.#°ŒoÈZ‡ÿ' . "\0" . 'Œ–Úäêés÷' . "\0" . 'ÿ' . "\0" . 'N5éýK‘ÒË¡¿´8}6SÐö¶\'L9]òxI^£:eÌ\\²{y8É^.ÎÕäæ-æ#²$ê?·ôqàDGÜ/®¢X\\¼ºG—hŽ¡Ä>~Y>3Õð#ÃÃ×u¸‡ò8ê´Y§Èà†‰t@"&æ¸ý£í\\9vƒ…>\'Ž‹Ë/ÙÃ!½ò\\dõfû¸y½œÍÈ;õÏÝßë>¡¸s˜v¾`GË³î4&ø°8ö“ŒÞë?ìšÂíký|XzƒÆ„' . "\0" . '‹³é‘ŽÃÃÂ,ýD:‰êÄ:~.q\'‚8ïÀˆQ/#¸ºGpøvˆêéâ]®Ñ÷ÔQ{¾Wo\\ø—ñÚ—Ÿþ’-É¹(½“vßh$uÏs9vDÑßû‰hñrl‚ñÅœËÏ2‡¸Ž’ºH9¾¤5?Þ¯€t|ÜÜ’ßzÜ[Og0:a‰Ò#Pó«ÉùX1ã‹­áÄÝw„×ì‹ƒdã$\\êFh2<Üi°£çÜŽMž)°{Åð¡A„2¸“/^F"ÛmˆˆïÀúŽ¡—0óáÄ1t‡>aâ[t»y=Þ£Éóáq.ùY»§AzìÁ=¾âåÅ\\aêÈÝÂm1ôŽæ' . "\0" . 'G„›Ìdb0¤]’\'mØ§ÅÊ^‰ýÐYóê*1úhIœ¾§|L^z=q1L?6Âë˜Q:é.ÑïnFôD,½5£=[#öAóD_Ú-Iwrwq³v¿É·[ç!3ˆÇ‡«Pd3‹ nÖM:º3©ð^ø…b!Øˆ#¸ˆ—1âDwà¡Ÿñ(ê#Àêéäråáèðv×+³éÕî~-F}“h‡' . "\0" . '\\e¡äíÄPº“âãÂq¾äZÞå;UÎìdhÑn}•õ~PìWå·ð¢"å<¯P]ÐØ#Eâ8ØVÏ»Çå	ôT|o/vAsa{îW‡2eÊÇY¿xA¸ž‘©Ç—õp™nÓýñsƒvÉÔ@H¨ÇŒ²ß=†<#‚_ÃûÃÄ¥2æx‰C(x†eÌ¹ºK.‘8ˆêô½ù	çp—±d:¹ßómöw‘‰”³Dl>ƒÐ{•Ç—' . "\0" . 'Ì±9›_™¾ÜÉ—FBA›†Û¼„MŽçÛïæ>½N’\'—¡t<?¿™à…Ïbš“\'¯«Ë®Y`ô¸E§Ÿ˜–§fæ«êÜ<þo‘ã`!¼7cxî„6À1Û†e“5»ÌYaá²Ë!ÉWGŽž¢:‡qDsßPþ<ð:?Ü[à1ÝâqÔ¸‡ÜFG^ƒÀîázç¤5;"bniud7Å·§Dð?‰—âÅõ—iNå§yÆÔ8¼°Ë!y~.5CÛDøû“¬ÇBú€pó ÓgUk§Ëê*hØD’?‰Êzáê(Ð¹{~[çòÛ®!„ä!á¨>}ÍOØ±Fÿ' . "\0" . '\'1b-ÓÔ$1üÛ‡CÓc|p~­#®P¢$:‹ BÇÊ8IÅžrÉð8øÔ¶ê:‡ˆb<!Ä]£¸—îïø]Ç¨v:ºYÆõq¼y.ÅÓ.ˆC:é
+#„>®® 9nH’¥Ø>®hióòûc½ÜX…ñâW±z ¹û\'H}9bíñ á°¸v»Ë‘~þ-ûÊ|ØÈ~xŒã\\ÐJ)' . "\0" . '—Qwµ»˜¹LŽätõÕä+©:Û•?8ùµì9¢YOT¸±Ëï' . "\0" . '@|YC¸ðÉe–Y$y¶ð?^<ˆˆ—1>à:Ç^|ó(ðá×€þ€\\|¶xzº|1ìÁ™æ6´æE:ú°:äÕwñ2·þÉ¨òx£šìÅº.ËRÕµ¡ÎþÌ8y®{æÕÇßÚ7ÀÍm´.·½¶ñã×+4vY\\†k?vÔ`æÝY«ÈÖþäB7»ùƒ,Þ®‘@N' . "\0" . '2(|cNFUZÌp—@áÅî!M&\\¢~€æú3êK,‘ð9ý@Ç‚ˆC2‡˜—Ã.eÌ¸—Ëžcë©y%Ü‡°´zçù\'ˆ;¹h[ôJ‹Ò+ºáäC¬ÇÝùû¸Á;Îb7úG?£z²OÓ}u`™Üs/ñ¬ƒ€W\'+ô{±`Ÿw d34œì]°3„–ËÝbër	ÿ' . "\0" . 'dOPI¾òp}-nX×ˆŽ[\\lyÀ2q¿e·Ùš{û»€4/¨Ïê ²o~¬‡¸W-†qÃ0ó1à0Ã0Êx‡©K™K‰Ä®IqÏ‡Gž?-‡Éáü—Óùøâ<#Æ&¥MÚë_;V|ÃÐûš0>z‹§¡Ã™±N;lƒq2ràM‹MDôÐ~z„ˆ.t@c¬o§p' . "\0" . 'æû~,Êž‰¶¬þ-5m’3@×ãjQ|va' . "\0" . 'ötØ)ãêýÊ 1¾ *p÷5ß™0­qðÇ«‹²âV/°{}êÅ{DYÍÓ=B[D=Û¾;Â ²Ë$æH$õtÈx«£Ão0ÃáÌC10Ã>]¡Ž"ÃÌ2¸.‹i|ÍW‡««ÿ' . "\0" . 'Œ›døÎïá#ž§ï?OóK@¿›#HýÏ!]²"Íôñ84{ÖLQ0=Ì€ä/M¤' . "\0" . 'y›#4ë>8²K¶Ñ÷(pÈâôc£åý®TÏíXá»Í¤8s!ê|¾Ó™‹IèÞØÂ;#Ú{' . "\0" . 'ûµ_Vä0}MýÕ>fNì½ípÎŸ½ÄœG_+6æIqæÁÄé¾­`åïÝ®Ž‡?w^)ƒ©é)S¯ÚüµOeËÙ@\\DYe’Iu<ÍÓs£l¼]¡†.‘ó<Ë˜mŽá‡|(b‡˜‹ˆaâ8êJë˜}Û=}JH«Ûd6ÜIdÀcÌžl¼È±Nà”+‘Øk„®Î¶°Åë¨ð‹">}\\hWWÝ˜Ls­±@ö€—£Nþ¢NuJ¨n9Çn,‹…ò$ž.t:øŸEÎÅøÉŸÛ9ÛípüÞúµ8¿u‡Œ ÷`ÑOw½{bcÅWI¡ü@v8sÔA\'$]q@b%¡3º<Â)Á•Ñ>ž‚-p%®tˆAá™œÉa=ËuÃ“=ùÞbc¯$x9â-‰x`´¶KˆÄô‹\\1ï"²‹[+gÄ!f¤\'6|ËkƒóaÀ ë8¸g	Ô½ï3€‰÷’ç°…~·S»0Cuœdäw:ë' . "\0" . 'oÜ¹sZcH?L5×«ÿ' . "\0" . '7ëîâ.A»`úû€d,Ííl:Þ‚!ÓH‡dô=L`uÑiÎhÆ§' . "\0" . '±ù.C´5KžIÎ³á9!„öØ…}&é+î%î)§˜îmy¿ƒb9Ä4‚Î\'Ã?¤<Ûç|×ƒ¸ða¶aˆòz„¶Xw,' . "\0" . '×ñup}O[•ï²ƒ¯+ãfD—Vÿ' . "\0" . 'P½/­¾E’{œ7ò—÷õzy?6 Ý0¶¯ä€\\å œEUœpýÙaÕê÷5§£ßaøƒ”6OÂÄææf»Ââô[„Ÿâ.sÜmCBÒ”ÇPãl\'=Än{	Ñâ?
+‡_¹nÙå)' . "\0" . ']€[\'ðÜ²åæ>$«§ÙØr‘RŠž®O“åëÂ_Ð1ß‚a´†%?pÃÄˆ†:•¥±3C–º‰pG1mˆ âîö²ä“UÛâø#6Yju‰/' . "\0" . 'cÒµÝv6uÌ~;ÄrüX)¯y¾­`œÁƒ…õÊ9h¸·Ù»÷Ü@úÉ¹\'š~½ìûxñuôºØvüÆÍ¢ã½|#3ˆŸˆü”ïeÑ\'Õ8›xê|ÇÅ–E.T?vu`}äÆG±ó/ÑC`ÇAñe’IÄ’s\'‡üØYC°ó2†;†aâó2ç†ó\'\'í—C™„Þx‡\'ƒ¿ˆOpá-Ï˜ñj/¸šCqœôÌÉÔ/wæ@ 9˜pn>ãAÉå}DøY£¹Þz·ÎGàS“~}ØÍî™sˆÉ' . "\0" . 'd‡^œÄ¯¦òkû_ažÐxãR†t¾¤áÈüÃD?µ¿þ‹ü_X†¸½\\º«õ<cºß?¬‡Ž}E¬Às§¸' . "\0" . 'ìÏqòa–e–Y$žå—ÇHl7,²ß<[l0Ã(b†a—? qƒËåŽøKßÌ<V¬{OêÑu2x€.mÐ¹õhÎîê‚“€ß1b†ÍF<ËÀšïS­†~y³¬ÃÕƒ4Å=ÉïÉ¡Òm¡Ž} ~íroK¿ÚÓØ#jàà†ÕËÿ' . "\0" . '‘h‡›W6|ÎÐ·+î_FwÇŽp.ö›r‡zM±*,ªPl÷³„ÍÎ­2d–Y$’IÌ–Y=>–a†mâ"†|zD!Ê!ËÅñ®ÄH`Ñß;¬Œ”¦2ã^ýÂÛ¹óêä[wÔgW¹ÈÑpú‰fMN£„šï…Mÿ' . "\0" . 'IÚ©ýæÎŒoóGÀFÉé0–¾º¸npÔ·Åôœ.Ù£ŒôZOüCoü¸Õ¨ŸT—|cŸ±£êoLm3<ó\'àŸDÀÉk³Ã!ÇÇ.f0Ž“Ã,,²¶ËÄ®yË-¶Ä0ÛÌ0Ãû[0øm†‡›a–gÍ`pÏ3ÏR]C`g²½®à‰‡q‰s?ÙðÆ†Â,;äù†>4Ö#é?‡&£€ä9<ç“Yðq(\'‘´`Äå^bíp?¸ÒØ8…²AÉ¼uLËzûLx1Û1Ç	Ù.Ø³›.„vU£nn©œ?_ÁrÛË,¥3ú.x\\DøYl1Ãß¼>a†Øa†eäLÌU‰h¼ÌUÖÆ8ÜI#Õ eœ8òSä–´¿½>–èM¹¹ÇÄ±¢oÃùnhò€>yƒ×I4zk°*›"ýËƒÙñÇqÃ_™j˜PýŒp†rpä	Ë:ßÁecpîó¯Y Ó™w‘ÍI©zÛ¢xàÅÄ¾2™q+31t„éò±ðCÍ¶ÃlChBC°ÃÃàðžW-± Ll<™ñW	Ä>cžrEÁo’|Ï™o+ º\'‰µÛ½É¢éÇ;ÿ' . "\0" . 'ÄŠ"ºâÙWú‡Œ~ó®uÁ.û²/4ÁûJo{µåþ„¾1½m¼¾' . "\0" . '\\)ûC¥AÄ>"°aÎd]™iå+$<_vòýGœìKC\'Á3e™òf.ž¹–És¾6!¶eæ!†Øa¶eâYl§¾àÆ7bq\\ÖEíe®?F²–ñ.gÅø“–˜	ZAr[ü{ß‡Ô
+Ö#†r,Máýø—1XY“pÃø¶jáyŒÝ+ÐêÄÇLüÏ	éq~wÜ	®¬“O˜=9÷z8-#Ñë-:u\'»–™oÈft#?‚·+,°ëÆøgÁ™ð®W' . "\0" . '‘6°ó¶ñ6Ûl0ÃÛ¾‰eŸ6 Éð\',	äºGRÉñ."Ü¹±•Ã“çe¥èDx´$ÇØéù€t¥‹9@å|zƒ_ÍÄ*aÿ' . "\0" . 'V+>ScÁ´´	Ç—Üi*ç~lN·â%£³˜›¼°öH7ü' . "\0" . 'ç«Ó«‘¾=nNËAûîgsÎóMÆ¯.BñžÎ¶è$ÇIòõ2””†HÁ	CÏm7¶·ÀÛ¶ÃÍ¬0ÛŒ†mžP—mßwÏXˆm!ºWXa²ð"L7s—1ÌÜñÌºÛ>NþåÅŽ€·<˜x¸h\\†|¹€Ïÿ' . "\0" . '™jIrôƒ³ÚgÇà™1z}2¹ñàDÌóÌàÁàMz"•ô›òrf®u÷AÔ€Ë"/S€N[{ŸæÞw²V4üµÔ„`›Œ‡.>ï²!Ü—ÜÃcî0¯OXkÆÂ“r.-\'•Å¾x†e–Y_Ç7$ÄEßÀòx6\\Îû!¹(zÃ×‹ö\\ŠÕ6T´˜ì8“ž>¡@Oóà"þ7BpâÚÃbûã¥¼ë¹¸ï°cŒ’|±X@=@Ç§ŸeÉW“¸·äÍÕõbÍ÷8”}ÂcIü×wÓvÎ–šó?b\'·¨;8´TË“ËdvLÌî?…ÇÜ™Ý¸ó=ù›{Ÿ{‚s$üÉ{ÿ' . "\0" . '2»Yù¾FØa¶;ó¶Û°Ãà²¶ç»ã³.)ïãeÌzŒ8q(îY„øU›‹pGˆ7¨p$¡ÁâÒ(˜‚r-\\OÞ™éŠûÆ/îcƒ–pÀ^ÁÖBx!ØÞ=Ìãß”¬ìè‰¤Ž3ñ•Íò0aÖ¥¹íûçžå£s÷{Ý=á-dÇ~w˜yv;@Ö	ë
+t²äAòÝ¢È0P	Í·¹ORê|˜óÅ¡Üã¹ûÜðPÚ–QïVøa†mñ¶Äa‡Á‹,–~5†Ûm¹AÉp%Ä¹”7IñÍÉf{¹žÞÄ)Ÿì»ù‡Ó½ò¿æá7üÝg‡æ\'&|ÇÞ¿OmñJ·8gã§Å`r7Ô0EÞ×ÿ' . "\0" . 'äheÉRçP›®7.Æoÿ' . "\0" . 'Ä=íºþc“1×_ù09‡9ß0ç˜°õù¹àî9uPVž–¼%uå7¸aÈBºŽ’VÞJ}X½6K¾O~"×$ÏÒ2î~×Ûgr÷wøxap°ÃgçÇ’~-¶Ø†bm¶Ûl0Ão†e>¸ ž`ž%†å;"\\CÝÉp\'Þz‹tÆù‘bcn2üÈ{¶÷a
+s;³\'{e!:}FŠï\'Á»‰§ÐÚNŽ Lýƒâq™>nG²÷p>±Vìb¯cÔ›XíÌ“‡(µ›ÊÙ5ŸPïVµÑÑ(vZPGD5ì-Ž8q°?µlñËÄË}G~9Æì÷kîØî#ò¹{—îß©™Îºuf^ý[\\™øÿ' . "\0" . '¶Ú}Cm¶Û°ÃÅ¶Ãšx?oÁâÂ|ÃlËo‹#¹q,O,>¾«@íöø¸¼)–íKø¸6^éøÈö Çi–î:Äèï#¼ÛÑEÚ5•“.ëwLÌÜ„üDag#‰<ÏEÈ‹ØËŒïÅˆ>8Ÿ…®á×…º9§&àiÁPzÛÍéø¹5Óówgr å¦pæÛÜuçÂÔlÂLÝÒ|= ïû·Â->m¶y¶Øa¶m†ÄÅ”²|ÄÏ_,±ú‹AƒÁÆ~@Øñý·½ñ]ÇÌžå¸0‘®ðu¶Î»´âÒZs5ìê*1ãˆ§–?D^â{!zcFŒÆü-ÖC:ÆsÜÆk®E9gm=žìsÈ=–*¦XùY·s>9P	²;p§qö¹ûšÎ7Æ0K™÷cÇÜßcÀÃãm¶a¶Ûg…ÛÀÌ°.Ó±ßèG)á,2æ{î?ëß€,n0²ð½äåÌµží¦*NƒêwÛ*·¹I' . "\0" . 'ôà‘Çìf_Œ}Ÿâ\'DÞ›¬gã²ÁÜôøô›nõ›(×ÝÀ‚Lñ0õœ9;z±]ŽvÝ"uÔdq5å‡çkFÀô‹ãæ×wí+­—°Ô ÏÒÎ´e÷¾ËšÖ>ÖKW‹ÕátJÄN9·ÀËo€ÊÛm¶Ø¶Ùe–|ËÄµðx|çÃ§†Xy•ñ»l›rÀ´cÜø§­p€ÓÀsÔü¬‰X8æ5à]¬Ã~4µÖþ¡äù÷6îa„ êx·$Ì:&' . "\0" . '×âx0}ÛE=%Ç+ùx’÷Ùk££vVµÆãx²ORöygñ“ïaã%³:þ­Œñ¿Áêy¸=öy=fíÊtx=®ïÀÛoð[kÍ¶ù6Ye”øŸùÙñÚîx§!âYq.Xy•Ñ3aW2ÄKt»wjcÝ‰ìx€\'“£¨P›òæ¼=[FìãîÇ®öÙéÙik;h@gF6$Ì†ssÂD¸y|^¥=²{v}Aœ²m‡ßÅ£œíŠ<±QØñzŒÜ¹aøHÇŸ™ÒæCÃÇëkË¼Ï‚Ü—»+¢Ž{îÏÏ•åÝØ–VžÐÛ°øÛm¶Ûmò¾>·„ƒ0zýNçˆÛÄ¼0cL<w}—¾g\\„cÝ«3ä\'!AÞ\\59;êà \\d|œÝÌ…ûÄÃN‹Ü×}\\å‰Óî.}©_UÐºÐö³1ù®<Ý	7žˆçO2Aä>fÕåºƒ?–pÔ6œÙXƒr¼i‹sè·#«¢z‹CÝ–ÃÖß|nWïðhÚŸïà>m¶é¶Û‚ìðºN|G.£ÑLÔí+m˜ö±à6Ëç›C¿Ë‹›óƒÚoÝ¨Øq!ü.§æCƒ8w¯Ì ñ—e:rÞåœ¾Ù°CÂåUçZft}3ÓléŸIqëz2Ã§ÝÌœwŒÝÕ§/' . "\0" . 'Åçx•aÔví€½·ÖÝ~	ÁÏ)ÐõñÙkòå‘ºÃkêì{¸#ëË¸»ðrwŠxsàÅýÓ$}ÃÍ¬¾m¶ÿ' . "\0" . 'ó‹vâÛm–ÛeŸÊy“CÁÔœ‹£õNÛÍ·Vóàða;¼¬„aob„çz À‘—i¢ÂFQ]é2Õ+Ó—¢â~NF™µäË' . "\0" . '†›T9bl¹œ_a	„s”õòM¾o»[-ù‡=˜xžs›M[D×‚XäeÄZfäÆ)ð)vNðEÌâz–^Ÿ‹`7<s#ÓÃÌWz=ñ²±4†ó4êÔ8ÜW™ò@buîÖYkø;ð>6a¶Ûm¶Ù|Ì\\ß˜?b<¿iý‚”²—ÆÛ	îíg&A&¿ÅÕÐ{%.Tê/³!õÄ¨MËž¹‘/•ø³c§oE™Ó8È3s‡p@é_LŽI‰hV#ü{Xá	Mß½#Ê½\\IãÆë6yAêÒ÷lŽ—ué²¡Ë«-Öì¼†%˜yü"àJú“ÕÏrÕùôã1Ïm¡d\\Ö·À¿6‚â•’²ànçÁàý#m¶Å·	Ô¥–p	Z¼²ª¯³¶VÜM¼Û,·À?GÍÕù}ÇMg¤ÐõÇ2»7Ž2_pzÃÑP~1÷q\\p‡‡ù’.Gœ„–ç˜C}CW!Àú´¦¼~..¹›”#ží°‡&Èg!åHÂ˜ÚW\\\\¿q§)nû róÙ:3ž?NN¬‰á-ŸƒÎÈ†sgËÕÆ¡é' . "\0" . '1ˆ›rgx6ØÅÅs—Ëjx7ø—žüøÛm¶Ømñ¾6%)fX9n¿¥ýÒ–÷åžå›O¢|$¨òBÎW¼¹£‹V8.ÞàøCÅ·00“O‰ÐGÆØ£ÊÁ\'ƒh;q¢×­‹.áÂNùFkË’(y›°¦du‚óFR5ä¶æK7”Û—Ñb\\Gœ”Ã^É¢L&óÄgÑîÚê«l%‡ç¸’õÇÚFÕËŸenõ8	ˆa‡ˆnhtý' . "\0" . 'i™ú”ßÅ°Ôu­¶Ûm¾vßo“.e¶ðøÛm·Èîm·Âó/ž\'Àí„ÌñîÊóód"à‘¾–¤è\\Ž(r;Š\\u±åñŠÓ4-£—.ÀÓ…f/˜…ÉÞvç' . "\0" . 'ù|Ezõ¤ò<KÍsy†û@±ÐüÎ×Ì/’y\';ÓÑ(íÑ%<ww' . "\0" . '>`W£3Ü»7óD"­ùŽ¼/«O.¢Hè—Ì6øâVÊ]x×üËh_†bŸ›|í¶Ûm¶Ãm¶Ë,¹Ÿñ6Ûa—>P8Ï“8ÇÜöÇï8)Ñ2=ÃêXüÛ3ó>â-8–v£½<Ã”NCg/y8hhãK…4Ø;f¸±Êô£îlô@1qó%È|cËÓÔ>»‰õø‹˜o»Œrî\\™ÆÛ¡PâÄæR~L=]X7‘Üs;s¼\'3Û!î£0Üä…>i#C¶MÚ^ªâV‹ý\\Ñð¿¡âÛm¶ÛaâÖÖÙmŸñGèm™:¾\\â:œ:aj^4‡åh\'Å½¬€Ü“üÀÿ' . "\0" . 'sv°™åóXÉ‰a@=Ÿ6¡î®l9ú!ŽG÷ wø’£‘*ƒžlì\'-KÉ%Ž}§Ù®=üÀq>S4â8ón¢1ø¹¬ GWÑ`Nf[B&³RB' . "\0" . 'Ó×‹‹7ùBQ˜açÈaà†\\Î‚EÄ™c?ˆsýxßñm³m¿ã<Õ²Û/†FðGaCæ÷<ÄÀÌù§$8ÆZõÅË½ÅÐ÷Í¬"û·SâCÀr¯Ì½Ëö­4 ÜN0zK8Ë°ÄH±ÉÏ¦h¼z‡³!}@~Óâ®\')ÙãæˆØ¦&xZ4è…_¾#±¯D6K³-Ÿ!êj¤7VàQ_vÔWƒÔ[ŸrÙNÛa†^àQÂbÊagãüûþCÁãmð‹Ìj¸#!!OéÏo)äôsU0}ÆØhËFèl<ŽAÀÿ' . "\0" . 'Ú+âpâ~râÛB}ù%ïÎÉ€óã`‚œ¯«Ù{!UË!/#y·tÍî#¥ø¸' . "\0" . '»îÍÊì†ÜÃn›H¬Íln%¼rÉÁÙnâ¶Ì0àúnÆM sÕ¿‚' . "\0" . 'I—Ás(m†m”>+‰åžGæøÿ' . "\0" . 'NÛm¶Ûm¶þ ²~³ÁúÀ4Ö@A—haq÷›\'Ÿí6óÝ¥\\Ÿ¹7(IXYuÁâ.ô±ˆ}G9[pè‹)oI¾ï¹¾T
+â[•ý‰ì¸|mØÀéÄÃŠ	Ã÷´p6’N€rø¹­»·ŽA—©îÃšÿ' . "\0" . 'BäsŽ&ïÞY:pA†a†-·‚–Å÷)tµô?å&ÌKýGƒô52\\;dî|Lü’XÁô=Á™Óúúõ76' . "\0" . 'ŸŒh_vÓ‹.<­yÛ!^bS¤No+‰šÃ[Ë± õ?M7¢^Üz@	ÍŠÁ¼›1‰OÅ³»ßê0fÄ#^¡ê\\àô·&t68pqV-]Ü
+õ2kÓ{†m¶b¾PxæSâá—ýÛm¿æß/ømóÞéæeÀ†¶ïLÈ¹³Û#V£ÔºÙ¶a½À@¶âÂ{“¦7 YÝ³ü™éóY ŒžåÜ•' . "\0" . '.ú’ræS¬3ø‹&Æ‹ËcN÷-1=¨¨­;ë—©›ž‹…:ÖlG™ƒ’é.³–Ï\'F=Z!èð¡†Ø†y’|m¶@DÎé÷ü\'éÅ>eÞ=Yp½0kX=t‰÷É\'êá,:¨Gt³4ÅÛ›†óóÔo\'vP{ÈÜÔïÜ ô[Ý`ÂÎ9gÄ#WÍ•Äe†ë¬«¯ß±®ôÜåé‘	£«¸û“C’§ÒZ±;8\\`sý‹[éÌÝZx‹b<<[%×/Ë™×ð9e–Y	¸vÏéÒëõŸ¤qÒqvË:vïbmâÜ‡<\\ çq”Ã8aÊá\\™=> yXºæØËå4‰SÆ' . "\0" . '€hnÜÁ¼ÉvËPjÙr^âá5çÔ\'»yå¶ºˆÝÜP6Ù½=Âà@_Jï¸÷ƒ$ä)Ì|6,v@àþç¤x|¯eÔ—>°ÿ' . "\0" . 'é1¯eòN¶Nd–þ³õn¶6Þ<°Í€êx\',}ÆzÉwÑÔ²/$:råêì„l¤ôLîø‡\'W‹“–†tu«àNÌ} ò—9ÂœÙvÍ0†lœï=ÌM°%dæ¯Ïè/W¨ˆìº¦ÙÜ¨ÿ' . "\0" . '÷œ[Í }Ú´ñ¿éŒ`ÆI—	³À¯õrN/sØÙp“(sˆßp>d2æ15Â²˜B.lW>ãºÝ$~S(=…žqõÆüÎ½Å#Ûè˜¦±gpóñð™1ãâJ®N]á† <Âå9ŸQÆ÷áˆëÇ¨ý=–|ÏTÃð~°„ƒv‘gÔ¼xÔ&9i“ÊÔBôN#¦ðù”ø#ïæ>$£â‹ÇÔW¨=£yÛ…' . "\0" . '>¥©eÁñÔ#ÜþL°¸>à¡é.âŽkq™~g' . "\0" . 'x—ŠŒ€ô9~íÔ@ œ¨FyœÜ*ÎŠq-28Þü6ÃÅ²ñ°ÛmÌK¤¥Û"{©géƒ›¨ë31îèÝ6_õW=ÚNåŒxŽ/6NKÐaÍ_ä¯<&\\\\êÞ&)8’=áe§sñ.YGpãrcU=Xnj]Mu‹­‹WOv@·.âe¾ôlŠÎÀ¯&Ã­Ä§Æ7hÇwÆ	]æÓW¿Õ±g‘º\'„¥ãd*9½~K!ÏrKˆ~{¸Ï¤¶[gýQÇ‰‡–ÇÌ§ÌˆCÜ˜¨¢?öœœü$s¥Çà|“ˆr qÉ&= r=w‹¸fûYÞ‚#Ž=Ì€SŸ	àPr=þÒÇì	ôÙi0rÙ^m”8å=ø|lGƒÆÚÜ“;ºó,âáñ®O~Ì—ÙúOúÛàOŽam”êzä(?²#Ÿ^™pÝ¶Dræö ½D¹˜02]—#Ã#¦A÷-³Ž¢ Žl=s››†g29ËâÓ‡æÉì>QÁñ%í³:sââ.ÞÐwl[o™K8¹_õýAàâNËà³ýb%Ä2þ‚•óÄ‚	ñqƒógÉÔ™à‘q C¸ž\\C‡0O\\Ëàå¢sÕÅâ†4ëHx/l”#Í¼s_ÂË6Â$^ˆs,@=²aÏè;¶?Gì<K>.—Dø²Ë,³Îù|þ±à†[mˆGÁ™ÔºrÀtXÁ§LOwN?‚SËÇâçäÝ!a©‡+>ûßw0ë@ÌO-ÈNì,}\'´œapX' . "\0" . '™žÔ0üÚxè½e—K†›ñoûÍ¶õm°³<a¨9¸õ(õrwÂzöAhÈ¹G­—QHiø¸üLŽUðf|>!â8÷m' . "\0" . 'eÂÁœ\\"âïø^WW6SÌ=¼F:¶ÛÀÿ' . "\0" . '¶xÛmãÉá%¸Êì€2õx°;æï¾eÐ_Hw^#ˆN#²ôÆ:ŽGŒsŠ|3 çÄ! GbHŽGˆ}Ç%ç¥šÚâËDìÂum²ãRÛ-±úÖÿ' . "\0" . '¶OéN"L•æ{o{êÝŽK ƒÆä<OwÈËSY¾åVw÷ &HA»ž¨@/pà.YÁá„Àúždüz³Þt;ÙhÈwáýgèÈ¶øÖÛ,ÿ' . "\0" . 'þë€²Õ“Ô9ñQ1Ós$Æ<#Õ§ÕÃg-«¦™X÷;·0b\\“}¹‚\'©±¼}ÊŒ^\'ûBXqKm×Ú,´sâWâSxÌ3Õïügw*x{·Æÿ' . "\0" . 'ƒ÷¿û¹“ž\\ºs}=øaù¹ù‹W$1°ònÃÕÊöÐŽ´´Dpx‡ûÍó±EÆ#‘a©Çïo×«G1Ö|@sôJö@Õû²u÷"ß&zsüÿ' . "\0" . '–^-—îýïÞ¿ñ¿îXÇ‚ÇæÍˆ|,êÖO	8ZÒ:z¾k`qIÚ@R9µ²ì0\'¼Ã?p=½ÊÜ÷soY$=?1ìýÀÊÃ}1i¼ÈÏK€ü¿äâËám´´ÿ' . "\0" . 'Ò©9—<ËÌ}Ýqä—½Â«(‡8xß‘~ê=^äœ=éréÜœ9Ûî8õ“½Û™`*jJ\'%hq`*C2CV¹oÞñ#«—Ùó##Û»gøúx|oþxí Îz´ÇJø·¸qÒ3´ü$®r^øËö†wTÞ
+G’póÔ;ÃhÃœ–ïÌ¹ó%\\\\±.jX††á oÍ±ÄK' . "\0" . 'köðÿ' . "\0" . '‹¥¼Ï2å¶Ûÿ' . "\0" . '·ÿÙ')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 09:34:22 --> file_put_contents(public/uploads/laufey.jpg): Failed to open stream: No such file or directory
+in APPPATH\Controllers\MainController.php on line 930.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(public/uploads/laufey.jpg): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 930)
+ 2 APPPATH\Controllers\MainController.php(930): file_put_contents('public/uploads/laufey.jpg', 'ºw^~)ÞwúnnXœþêe¡§lþV®}ì£¦')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 09:35:01 --> file_put_contents(public/uploads/laufey.jpg): Failed to open stream: No such file or directory
+in APPPATH\Controllers\MainController.php on line 930.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(public/uploads/laufey.jpg): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 930)
+ 2 APPPATH\Controllers\MainController.php(930): file_put_contents('public/uploads/laufey.jpg', 'ºw^~)ÞwúnnXœþêe¡§lþV®}ì£¦')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 09:37:32 --> file_put_contents(public/uploads/ganda.jpg): Failed to open stream: No such file or directory
+in APPPATH\Controllers\MainController.php on line 930.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_put_contents(public/uploads/ganda.jpg): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 930)
+ 2 APPPATH\Controllers\MainController.php(930): file_put_contents('public/uploads/ganda.jpg', '©Ýj:`')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 09:42:48 --> Call to a member function isValid() on null
+in APPPATH\Controllers\MainController.php on line 929.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 09:48:09 --> Call to a member function isValid() on null
+in APPPATH\Controllers\MainController.php on line 929.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 09:49:33 --> Call to a member function isValid() on null
+in APPPATH\Controllers\MainController.php on line 929.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 09:50:36 --> Undefined variable $baseUrl
+in APPPATH\Controllers\MainController.php on line 923.
+ 1 APPPATH\Controllers\MainController.php(923): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $baseUrl', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 923)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 09:50:51 --> Undefined variable $baseUrl
+in APPPATH\Controllers\MainController.php on line 923.
+ 1 APPPATH\Controllers\MainController.php(923): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $baseUrl', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 923)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 10:12:36 --> imagecreatefromstring(): Data is not in a recognized format
+in APPPATH\Controllers\MainController.php on line 962.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'imagecreatefromstring(): Data is not in a recognized format', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 962)
+ 2 APPPATH\Controllers\MainController.php(962): imagecreatefromstring('©Ýj:`')
+ 3 APPPATH\Controllers\MainController.php(927): App\Controllers\MainController->saveUploadedFile('ganda.jpg')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 10:16:09 --> Attempt to read property "prod_name" on null
+in APPPATH\Controllers\MainController.php on line 916.
+ 1 APPPATH\Controllers\MainController.php(916): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "prod_name" on null', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 916)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-01-21 10:17:38 --> imagecreatefromstring(): Data is not in a recognized format
+in APPPATH\Controllers\MainController.php on line 962.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'imagecreatefromstring(): Data is not in a recognized format', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 962)
+ 2 APPPATH\Controllers\MainController.php(962): imagecreatefromstring('•«Ÿ{(é')
+ 3 APPPATH\Controllers\MainController.php(927): App\Controllers\MainController->saveUploadedFile('laufey.jpg')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->submitReview()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')

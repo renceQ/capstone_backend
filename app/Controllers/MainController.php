@@ -788,6 +788,122 @@ public function chatbot()
       return $this->respond($data, 200);
     }
  
+    
+    // public function submitReview()
+    // {
+    //     try {
+    //         $json = $this->request->getJSON();
+    
+    //         $requestData = [
+    //             'prod_name' => $json->prod_name,
+    //             'product_id' => $json->product_id,
+    //             'comment' => $json->comment,
+    //             'rate' => $json->rate,
+    //             'isAnonymous' => $json->isAnonymous,
+    //             'profile_picture' => $json->profile_picture,
+    //             'username' => $json->username,
+    //         ];
+    
+    //         // Optional fields
+    //         if (!empty($json->first_image)) {
+    //             $requestData['first_image'] = $json->first_image;
+    //         }
+    
+    //         if (!empty($json->second_image)) {
+    //             $requestData['second_image'] = $json->second_image;
+    //         }
+    
+    //         if (!empty($json->third_image)) {
+    //             $requestData['third_image'] = $json->third_image;
+    //         }
+    
+    //         $reviewModel = new ReviewModel();
+    //         $inserted = $reviewModel->insert($requestData);
+    
+    //         if ($inserted) {
+    //             return $this->response->setJSON(['message' => 'Review submitted successfully']);
+    //         } else {
+    //             throw new Exception('Error submitting review');
+    //         }
+    //     } catch (Exception $e) {
+    //         return $this->response->setStatusCode(500)->setJSON(['error' => $e->getMessage()]);
+    //     }
+    // }
+    
+    // public function submitReview()
+    // {
+    //     try {
+    //         $json = $this->request->getJSON();
+    
+    //         $requestData = [
+    //             'prod_name' => $json->prod_name,
+    //             'product_id' => $json->product_id,
+    //             'comment' => $json->comment,
+    //             'rate' => $json->rate,
+    //             'isAnonymous' => $json->isAnonymous,
+    //             'profile_picture' => $json->profile_picture,
+    //             'username' => $json->username,
+    //         ];
+    
+    //         // Optional fields
+    //         if (!empty($json->first_image)) {
+    //             $requestData['first_image'] = $this->saveAndGenerateFileName($json->first_image);
+    //         }
+    
+    //         if (!empty($json->second_image)) {
+    //             $requestData['second_image'] = $this->saveAndGenerateFileName($json->second_image);
+    //         }
+    
+    //         if (!empty($json->third_image)) {
+    //             $requestData['third_image'] = $this->saveAndGenerateFileName($json->third_image);
+    //         }
+    
+    //         $reviewModel = new ReviewModel();
+    //         $inserted = $reviewModel->insert($requestData);
+    
+    //         if ($inserted) {
+    //             return $this->response->setJSON(['message' => 'Review submitted successfully']);
+    //         } else {
+    //             throw new Exception('Error submitting review');
+    //         }
+    //     } catch (Exception $e) {
+    //         return $this->response->setStatusCode(500)->setJSON(['error' => $e->getMessage()]);
+    //     }
+    // }
+    // private function saveAndGenerateFileName($base64Image)
+    // {
+    //     try {
+    //         // Extract the base64-encoded part from the data URI
+    //         $base64Data = substr($base64Image, strpos($base64Image, ',') + 1);
+    
+    //         // Decode base64 image data
+    //         $decodedImage = base64_decode($base64Data);
+    
+    //         if ($decodedImage === false) {
+    //             throw new Exception('Failed to decode base64 image data');
+    //         }
+    
+    //         // Generate unique image name
+    //         $imageName = 'image_' . time() . '_' . uniqid() . '.jpg';
+    
+    //         // Define the path to save the image
+    //         $imagePath = 'public/uploads/' . $imageName;
+    
+    //         // Save the image to the server using fopen and fwrite
+    //         $file = fopen(ROOTPATH . $imagePath, 'wb');
+    
+    //         if ($file === false || fwrite($file, $decodedImage) === false || fclose($file) === false) {
+    //             throw new Exception('Failed to save the image');
+    //         }
+    
+    //         // Return the full URL (base URL + path + name) of the saved image
+    //         return base_url($imagePath);
+    //     } catch (Exception $e) {
+    //         // Log the error and return null
+    //         error_log('Error saving image: ' . $e->getMessage());
+    //         return null;
+    //     }
+    // }
     public function submitReview()
     {
         try {
@@ -803,17 +919,15 @@ public function chatbot()
                 'username' => $json->username,
             ];
     
-            // Optional fields
-            if (!empty($json->first_image)) {
-                $requestData['first_image'] = $json->first_image;
-            }
+            $imagePaths = [];
     
-            if (!empty($json->second_image)) {
-                $requestData['second_image'] = $json->second_image;
-            }
-    
-            if (!empty($json->third_image)) {
-                $requestData['third_image'] = $json->third_image;
+            foreach (['first_image', 'second_image', 'third_image'] as $imageField) {
+                if (!empty($json->$imageField)) {
+                    $decodedImageData = base64_decode($json->$imageField);
+                    $imagePath = $this->saveImage($decodedImageData);
+                    $requestData[$imageField] = $imagePath;
+                    $imagePaths[] = $imagePath;
+                }
             }
     
             $reviewModel = new ReviewModel();
@@ -822,6 +936,9 @@ public function chatbot()
             if ($inserted) {
                 return $this->response->setJSON(['message' => 'Review submitted successfully']);
             } else {
+                foreach ($imagePaths as $imagePath) {
+                    unlink($imagePath);
+                }
                 throw new Exception('Error submitting review');
             }
         } catch (Exception $e) {
@@ -829,74 +946,19 @@ public function chatbot()
         }
     }
     
+    private function saveImage($imageData)
+    {
+        $uploadsPath = 'uploads' . DIRECTORY_SEPARATOR;
+        $fileName = uniqid() . '.png';
+        $filePath = $uploadsPath . $fileName;
     
-    // ...
-// public function submitReview()
-// {
-//     try {
-//         $json = $this->request->getJSON();
-
-//         $requestData = [
-//             'prod_name' => $json->prod_name,
-//             'product_id' => $json->product_id,
-//             'comment' => $json->comment,
-//             'rate' => $json->rate,
-//             'isAnonymous' => $json->isAnonymous,
-//             'profile_picture' => $json->profile_picture,
-//             'username' => $json->username,
-//         ];
-
-//         // Optional fields
-//         if (!empty($json->first_image)) {
-//             $fileInfo = $this->saveFile($json->first_image);
-//             $requestData['first_image'] = $fileInfo['fileUrl'];
-//         }
-
-//         if (!empty($json->second_image)) {
-//             $fileInfo = $this->saveFile($json->second_image);
-//             $requestData['second_image'] = $fileInfo['fileUrl'];
-//         }
-
-//         if (!empty($json->third_image)) {
-//             $fileInfo = $this->saveFile($json->third_image);
-//             $requestData['third_image'] = $fileInfo['fileUrl'];
-//         }
-
-//         $reviewModel = new ReviewModel();
-//         $inserted = $reviewModel->insert($requestData);
-
-//         if ($inserted) {
-//             return $this->response->setJSON(['message' => 'Review submitted successfully']);
-//         } else {
-//             throw new Exception('Error submitting review');
-//         }
-//     } catch (Exception $e) {
-//         return $this->response->setStatusCode(500)->setJSON(['error' => $e->getMessage()]);
-//     }
-// }
-
-// private function saveFile($fileUrl)
-// {
-//     // Get the file contents
-//     $fileContents = file_get_contents($fileUrl);
-
-//     // Generate a unique filename
-//     $uniqueFilename = uniqid() . '_' . basename($fileUrl);
-
-//     // Set the path to save the file in the public/uploads directory
-//     $savePath = WRITEPATH . 'uploads/' . $uniqueFilename;
-
-//     // Save the file
-//     file_put_contents($savePath, $fileContents);
-
-//     // Return information about the saved file
-//     return [
-//         'fileName' => $uniqueFilename,
-//         'fileUrl' => base_url('public/uploads/' . $uniqueFilename),
-//     ];
-// }
-
-
+        file_put_contents($filePath, $imageData);
+    
+        return base_url($uploadsPath . $fileName);
+    }
+    
+    
+    
 }
 
 
