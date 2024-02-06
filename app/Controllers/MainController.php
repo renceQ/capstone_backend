@@ -18,6 +18,7 @@ use App\Models\OrderModel;
 use App\Models\SalesModel;
 use App\Models\NotifModel;
 use App\Models\ReviewModel;
+use App\Models\ServicesModel;
 
 
 
@@ -234,7 +235,12 @@ public function handleImageUpload($image, $prods)
       $datas = $produ->findAll();
       return $this->respond($datas, 200);
     }
-
+    public function getservice()
+    {
+      $service = new ServicesModel();
+      $data = $service->findAll();
+      return $this->respond($data, 200);
+    }
 
     public function getsize(){
     $siz = new SizeModel();
