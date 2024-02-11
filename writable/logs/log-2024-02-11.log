@@ -1,0 +1,48 @@
+CRITICAL - 2024-02-11 17:28:02 --> Undefined property: stdClass::$image
+in APPPATH\Controllers\MainController.php on line 858.
+ 1 APPPATH\Controllers\MainController.php(858): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$image', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 858)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-11 17:28:32 --> Undefined property: stdClass::$image
+in APPPATH\Controllers\MainController.php on line 858.
+ 1 APPPATH\Controllers\MainController.php(858): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$image', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 858)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-11 18:16:39 --> Undefined variable $image
+in APPPATH\Controllers\MainController.php on line 858.
+ 1 APPPATH\Controllers\MainController.php(858): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $image', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 858)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-11 18:17:22 --> Undefined variable $image
+in APPPATH\Controllers\MainController.php on line 858.
+ 1 APPPATH\Controllers\MainController.php(858): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $image', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 858)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-11 18:18:58 --> Undefined variable $image
+in APPPATH\Controllers\MainController.php on line 858.
+ 1 APPPATH\Controllers\MainController.php(858): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $image', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 858)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-11 18:19:39 --> Undefined variable $image
+in APPPATH\Controllers\MainController.php on line 858.
+ 1 APPPATH\Controllers\MainController.php(858): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $image', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 858)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
