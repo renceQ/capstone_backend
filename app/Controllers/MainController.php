@@ -846,34 +846,67 @@ public function chatbot()
     
         return base_url($uploadsPath . $fileName);
     }
+    public function saveService()
+    {
+        $baseUrl = base_url(); // Add this line to get the base URL
     
-     public function saveService()
-  {
-    $json = $this->request->getJSON();
-    $data = [
-      'service' => $json->service,
-      'information' => $json->information,
-      'low_pricing' => $json->low_pricing,
-      'high_pricing' => $json->high_pricing,
-      'image' => $json->image,
-      'first_req' => $json->first_req,
-      'second_req' => $json->second_req,
-      'third_req' => $json->third_req,
-      'fourth_req' => $json->fourth_req,
-      'fifth_req' => $json->fifth_req,
-      'sixth_req' => $json->sixth_req,
-      'first_price' => $json->first_price,
-      'second_price' => $json->second_price,
-      'third_price' => $json->third_price,
-      'fourth_price' => $json->fourth_price,
-      'fifth_price' => $json->first_price,
-      'sixth_price' => $json->first_price,
-    ];
-      $service = new ServicesModel();
-      $datas = $service->save($data);
-      return $this->respond($datas, 200);
-  }
-
+        // Get form data
+        $service = $this->request->getPost('service');
+        $information = $this->request->getPost('information');
+        $lowPricing = $this->request->getPost('low_pricing');
+        $highPricing = $this->request->getPost('high_pricing');
+        $firstReq = $this->request->getPost('first_req');
+        $secondReq = $this->request->getPost('second_req');
+        $thirdReq = $this->request->getPost('third_req');
+        $fourthReq = $this->request->getPost('fourth_req');
+        $fifthReq = $this->request->getPost('fifth_req');
+        $sixthReq = $this->request->getPost('sixth_req');
+        $firstPrice = $this->request->getPost('first_price');
+        $secondPrice = $this->request->getPost('second_price');
+        $thirdPrice = $this->request->getPost('third_price');
+        $fourthPrice = $this->request->getPost('fourth_price');
+        $fifthPrice = $this->request->getPost('fifth_price');
+        $sixthPrice = $this->request->getPost('sixth_price');
+    
+        // Handle image upload
+        $image = $this->request->getFile('image');
+        $imageExtension = $image->getExtension();
+        $generatedFolderName = uniqid();
+        $generatedImageName = $generatedFolderName . '.' . $imageExtension;
+    
+        // Move the image to the folder
+        $imagePath = FCPATH . 'uploads/' . $generatedFolderName . '/';
+        $image->move($imagePath, $generatedImageName);
+    
+        // Save other data to the database
+        $data = [
+            'service' => $service,
+            'information' => $information,
+            'low_pricing' => $lowPricing,
+            'high_pricing' => $highPricing,
+            'image' => $baseUrl . 'uploads/' . $generatedFolderName . '/' . $generatedImageName, // Set the full image URL with base URL
+            'first_req' => $firstReq,
+            'second_req' => $secondReq,
+            'third_req' => $thirdReq,
+            'fourth_req' => $fourthReq,
+            'fifth_req' => $fifthReq,
+            'sixth_req' => $sixthReq,
+            'first_price' => $firstPrice,
+            'second_price' => $secondPrice,
+            'third_price' => $thirdPrice,
+            'fourth_price' => $fourthPrice,
+            'fifth_price' => $fifthPrice,
+            'sixth_price' => $sixthPrice,
+        ];
+    
+        $serviceModel = new ServicesModel();
+        $datas = $serviceModel->save($data);
+    
+        return $this->respond($datas, 200);
+    }
+    
+    
+    
     
 }
 
