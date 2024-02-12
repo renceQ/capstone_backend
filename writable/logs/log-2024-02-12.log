@@ -1,0 +1,281 @@
+CRITICAL - 2024-02-12 03:59:18 --> Attempt to read property "service" on null
+in APPPATH\Controllers\MainController.php on line 854.
+ 1 APPPATH\Controllers\MainController.php(854): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "service" on null', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 854)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 03:59:42 --> Attempt to read property "service" on null
+in APPPATH\Controllers\MainController.php on line 854.
+ 1 APPPATH\Controllers\MainController.php(854): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "service" on null', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 854)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 03:59:57 --> Attempt to read property "service" on null
+in APPPATH\Controllers\MainController.php on line 854.
+ 1 APPPATH\Controllers\MainController.php(854): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "service" on null', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 854)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:03:36 --> Class "App\Controllers\ResponseInterface" not found
+in APPPATH\Controllers\MainController.php on line 904.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:03:46 --> Class "App\Controllers\ResponseInterface" not found
+in APPPATH\Controllers\MainController.php on line 904.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:06:52 --> Class "App\Controllers\ResponseInterface" not found
+in APPPATH\Controllers\MainController.php on line 904.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:09:35 --> Class "App\Controllers\ResponseInterface" not found
+in APPPATH\Controllers\MainController.php on line 907.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:14:43 --> Class "App\Controllers\ResponseInterface" not found
+in APPPATH\Controllers\MainController.php on line 906.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:17:20 --> Object of class stdClass could not be converted to string
+in SYSTEMPATH\Database\Query.php on line 333.
+ 1 SYSTEMPATH\Database\Query.php(333): strtr('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...])
+ 2 SYSTEMPATH\Database\Query.php(308): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...])
+ 3 SYSTEMPATH\Database\Query.php(159): CodeIgniter\Database\Query->compileBinds()
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\Query->getQuery()
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...], false)
+ 6 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 7 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 8 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 9 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+10 APPPATH\Controllers\MainController.php(873): CodeIgniter\BaseModel->save([...])
+11 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:17:35 --> Object of class stdClass could not be converted to string
+in SYSTEMPATH\Database\Query.php on line 333.
+ 1 SYSTEMPATH\Database\Query.php(333): strtr('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...])
+ 2 SYSTEMPATH\Database\Query.php(308): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...])
+ 3 SYSTEMPATH\Database\Query.php(159): CodeIgniter\Database\Query->compileBinds()
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\Query->getQuery()
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...], false)
+ 6 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 7 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 8 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 9 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+10 APPPATH\Controllers\MainController.php(873): CodeIgniter\BaseModel->save([...])
+11 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:20:05 --> Undefined property: stdClass::$imageUrl
+in APPPATH\Controllers\MainController.php on line 858.
+ 1 APPPATH\Controllers\MainController.php(858): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$imageUrl', 'C:\\laragon\\www\\capstone_backend\\app\\Controllers\\MainController.php', 858)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:23:27 --> Class "App\Controllers\Response" not found
+in APPPATH\Controllers\MainController.php on line 884.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:23:28 --> Class "App\Controllers\Response" not found
+in APPPATH\Controllers\MainController.php on line 884.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:23:29 --> Class "App\Controllers\Response" not found
+in APPPATH\Controllers\MainController.php on line 884.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:23:29 --> Class "App\Controllers\Response" not found
+in APPPATH\Controllers\MainController.php on line 884.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:23:29 --> Class "App\Controllers\Response" not found
+in APPPATH\Controllers\MainController.php on line 884.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:23:29 --> Class "App\Controllers\Response" not found
+in APPPATH\Controllers\MainController.php on line 884.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:23:29 --> Class "App\Controllers\Response" not found
+in APPPATH\Controllers\MainController.php on line 884.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:23:30 --> Class "App\Controllers\Response" not found
+in APPPATH\Controllers\MainController.php on line 884.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:23:30 --> Class "App\Controllers\Response" not found
+in APPPATH\Controllers\MainController.php on line 884.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:23:30 --> Class "App\Controllers\Response" not found
+in APPPATH\Controllers\MainController.php on line 884.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:23:30 --> Class "App\Controllers\Response" not found
+in APPPATH\Controllers\MainController.php on line 884.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:23:31 --> Class "App\Controllers\Response" not found
+in APPPATH\Controllers\MainController.php on line 884.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:23:32 --> Class "App\Controllers\Response" not found
+in APPPATH\Controllers\MainController.php on line 884.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:23:32 --> Class "App\Controllers\Response" not found
+in APPPATH\Controllers\MainController.php on line 884.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:23:32 --> Class "App\Controllers\Response" not found
+in APPPATH\Controllers\MainController.php on line 884.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:24:33 --> Object of class stdClass could not be converted to string
+in SYSTEMPATH\Database\Query.php on line 333.
+ 1 SYSTEMPATH\Database\Query.php(333): strtr('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...])
+ 2 SYSTEMPATH\Database\Query.php(308): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...])
+ 3 SYSTEMPATH\Database\Query.php(159): CodeIgniter\Database\Query->compileBinds()
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\Query->getQuery()
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...], false)
+ 6 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 7 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 8 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 9 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+10 APPPATH\Controllers\MainController.php(873): CodeIgniter\BaseModel->save([...])
+11 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:24:58 --> Object of class stdClass could not be converted to string
+in SYSTEMPATH\Database\Query.php on line 333.
+ 1 SYSTEMPATH\Database\Query.php(333): strtr('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...])
+ 2 SYSTEMPATH\Database\Query.php(308): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...])
+ 3 SYSTEMPATH\Database\Query.php(159): CodeIgniter\Database\Query->compileBinds()
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\Query->getQuery()
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...], false)
+ 6 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 7 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 8 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 9 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+10 APPPATH\Controllers\MainController.php(873): CodeIgniter\BaseModel->save([...])
+11 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:26:17 --> Object of class stdClass could not be converted to string
+in SYSTEMPATH\Database\Query.php on line 333.
+ 1 SYSTEMPATH\Database\Query.php(333): strtr('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...])
+ 2 SYSTEMPATH\Database\Query.php(308): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...])
+ 3 SYSTEMPATH\Database\Query.php(159): CodeIgniter\Database\Query->compileBinds()
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\Query->getQuery()
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...], false)
+ 6 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 7 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 8 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 9 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+10 APPPATH\Controllers\MainController.php(873): CodeIgniter\BaseModel->save([...])
+11 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:28:32 --> Object of class stdClass could not be converted to string
+in SYSTEMPATH\Database\Query.php on line 333.
+ 1 SYSTEMPATH\Database\Query.php(333): strtr('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...])
+ 2 SYSTEMPATH\Database\Query.php(308): CodeIgniter\Database\Query->matchNamedBinds('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...])
+ 3 SYSTEMPATH\Database\Query.php(159): CodeIgniter\Database\Query->compileBinds()
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\Query->getQuery()
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `services` (`service`, `information`, `low_pricing`, `high_pricing`, `image`, `first_req`, `second_req`, `third_req`, `fourth_req`, `fifth_req`, `sixth_req`, `first_price`, `third_price`, `fourth_price`, `fifth_price`, `sixth_price`) VALUES (:service:, :information:, :low_pricing:, :high_pricing:, :image:, :first_req:, :second_req:, :third_req:, :fourth_req:, :fifth_req:, :sixth_req:, :first_price:, :third_price:, :fourth_price:, :fifth_price:, :sixth_price:)', [...], false)
+ 6 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 7 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 8 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 9 SYSTEMPATH\BaseModel.php(698): CodeIgniter\Model->insert([...], false)
+10 APPPATH\Controllers\MainController.php(873): CodeIgniter\BaseModel->save([...])
+11 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+CRITICAL - 2024-02-12 04:29:57 --> Class "App\Controllers\Response" not found
+in APPPATH\Controllers\MainController.php on line 884.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->saveService()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
