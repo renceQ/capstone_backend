@@ -854,7 +854,6 @@ public function chatbot()
         $service = $this->request->getPost('service');
         $information = $this->request->getPost('information');
         $lowPricing = $this->request->getPost('low_pricing');
-        $highPricing = $this->request->getPost('high_pricing');
         $firstReq = $this->request->getPost('first_req');
         $secondReq = $this->request->getPost('second_req');
         $thirdReq = $this->request->getPost('third_req');
@@ -883,7 +882,6 @@ public function chatbot()
             'service' => $service,
             'information' => $information,
             'low_pricing' => $lowPricing,
-            'high_pricing' => $highPricing,
             'image' => $baseUrl . 'uploads/' . $generatedFolderName . '/' . $generatedImageName, // Set the full image URL with base URL
             'first_req' => $firstReq,
             'second_req' => $secondReq,
