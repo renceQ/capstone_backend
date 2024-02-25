@@ -318,6 +318,12 @@ public function handleImageUpload($image, $prods)
     $data = $event->findAll();
     return $this->respond($data, 200);
   }
+  public function getitemsales()
+  {
+    $sale = new SalesModel();
+    $data = $sale->findAll();
+    return $this->respond($data, 200);
+  }
   public function saveBooking()
   {
     $json = $this->request->getJSON();
