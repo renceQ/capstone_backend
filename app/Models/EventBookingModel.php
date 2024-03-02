@@ -12,7 +12,7 @@ class EventBookingModel extends Model
     protected $returnType       = 'array';
     protected $useSoftDeletes   = false;
     protected $protectFields    = true;
-    protected $allowedFields    = ['event_title', 'start_date', 'end_date', 'location', 'event_description', 'name', 'email', 'phone', 'service', 'status', 'reason'];
+    protected $allowedFields    = ['event_title', 'start_date', 'end_date', 'location', 'event_description', 'name', 'email', 'phone', 'service', 'status', 'reason', 'computedTotal', 'meeting_date', 'meeting_time', 'start_time', 'end_time','first_req', 'second_req', 'third_req', 'fourth_req', 'fifth_req', 'sixth_req','inputValue', 'secondInputValue', 'thirdInputValue', 'fourthInputValue', 'fifthInputValue',  'sixthInputValue'];
 
     // Dates
     protected $useTimestamps = false;

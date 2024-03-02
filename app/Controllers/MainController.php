@@ -324,25 +324,67 @@ public function handleImageUpload($image, $prods)
     $data = $sale->findAll();
     return $this->respond($data, 200);
   }
-  public function saveBooking()
-  {
+//   public function saveBooking()
+//   {
+//     $json = $this->request->getJSON();
+//     $data = [
+//       'event_title' => $json->event_title,
+//       'start_date' => $json->start_date,
+//       'end_date' => $json->end_date,
+//       'location' => $json->location,
+//       'event_description' => $json->event_description,
+//       'name' => $json->name,
+//       'email' => $json->email,
+//       'phone' => $json->phone,
+//       'service' => $json->service,
+//       'computedTotal' => $json->computedTotal,
+//       'meeting_date' => $json->meeting_date,
+//       'meeting_time' => $json->meeting_time,
+//       'start_time' => $json->start_time,
+//       'end_time' => $json->end_time,
+//     ];
+//       $event = new EventBookingModel();
+//       $eve = $event->save($data);
+//       return $this->respond($eve, 200);
+//   }
+
+public function saveBooking()
+{
     $json = $this->request->getJSON();
     $data = [
-      'event_title' => $json->event_title,
-      'start_date' => $json->start_date,
-      'end_date' => $json->end_date,
-      'location' => $json->location,
-      'event_description' => $json->event_description,
-      'name' => $json->name,
-      'email' => $json->email,
-      'phone' => $json->phone,
-      'service' => $json->service,
+        'event_title' => $json->event_title,
+        'start_date' => $json->start_date,
+        'end_date' => $json->end_date,
+        'location' => $json->location,
+        'event_description' => $json->event_description,
+        'name' => $json->name,
+        'email' => $json->email,
+        'phone' => $json->phone,
+        'service' => $json->service,
+        'computedTotal' => $json->computedTotal,
+        'meeting_date' => $json->meeting_date,
+        'meeting_time' => $json->meeting_time,
+        'start_time' => $json->start_time,
+        'end_time' => $json->end_time,
+        'first_req' => $json->additionalData->first_req,
+        'second_req' => $json->additionalData->second_req,
+        'third_req' => $json->additionalData->third_req,
+        'fourth_req' => $json->additionalData->fourth_req,
+        'fifth_req' => $json->additionalData->fifth_req,
+        'sixth_req' => $json->additionalData->sixth_req,
+        'inputValue' => $json->additionalData->inputValue,
+        'secondInputValue' => $json->additionalData->secondInputValue,
+        'thirdInputValue' => $json->additionalData->thirdInputValue,
+        'fourthInputValue' => $json->additionalData->fourthInputValue,
+        'fifthInputValue' => $json->additionalData->fifthInputValue,
+        'sixthInputValue' => $json->additionalData->sixthInputValue,
     ];
-      $event = new EventBookingModel();
-      $eve = $event->save($data);
-      return $this->respond($eve, 200);
-  }
 
+    $event = new EventBookingModel();
+    $eve = $event->save($data);
+    
+    return $this->respond($eve, 200);
+}
 
 //login sign up
 
