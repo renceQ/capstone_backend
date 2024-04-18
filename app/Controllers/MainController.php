@@ -914,7 +914,15 @@ public function chatbot()
         $fourthPrice = $this->request->getPost('fourth_price');
         $fifthPrice = $this->request->getPost('fifth_price');
         $sixthPrice = $this->request->getPost('sixth_price');
+        $firststock = $this->request->getPost('first_stock');
+        $secondstock = $this->request->getPost('second_stock');
+        $thirdstock = $this->request->getPost('third_stock');
+        $fourthstock = $this->request->getPost('fourth_stock');
+        $fifthstock = $this->request->getPost('fifth_stock');
+        $sixthstock = $this->request->getPost('sixth_stock');
     
+    
+
         // Handle image upload
         $image = $this->request->getFile('image');
         $imageExtension = $image->getExtension();
@@ -943,6 +951,12 @@ public function chatbot()
             'fourth_price' => $fourthPrice,
             'fifth_price' => $fifthPrice,
             'sixth_price' => $sixthPrice,
+            'first_stock' => $firststock,
+            'second_stock' => $secondstock,
+            'third_stock' => $thirdstock,
+            'fourth_stock' => $fourthstock,
+            'fifth_stock' => $fifthstock,
+            'sixth_stock' => $sixthstock,
         ];
     
         $serviceModel = new ServicesModel();
