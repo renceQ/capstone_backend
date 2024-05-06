@@ -324,6 +324,12 @@ public function handleImageUpload($image, $prods)
     $data = $event->findAll();
     return $this->respond($data, 200);
   }
+  public function geteventfullrecord()
+  {
+    $event = new EventBookingModel();
+    $data = $event->findAll();
+    return $this->respond($data, 200);
+  }
   public function getitemsales()
   {
     $sale = new SalesModel();
