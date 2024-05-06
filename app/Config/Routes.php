@@ -9,6 +9,8 @@ $routes->get('/', 'Home::index');
 $routes->get('/getData', 'MainController::getData');
 $routes->get('/getDatas', 'MainController::getDatas');
 $routes->get('/getevent', 'MainController::getevent');
+$routes->get('/geteventforslot', 'MainController::geteventforslot');
+
 $routes->get('/getcat', 'MainController::getcat');
 $routes->post('/save', 'MainController::save');
 $routes->get('/getUserData/(:any)', 'MainController::getUserData/$1');
