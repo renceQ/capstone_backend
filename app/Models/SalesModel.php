@@ -12,7 +12,7 @@ class SalesModel extends Model
     protected $returnType       = 'array';
     protected $useSoftDeletes   = false;
     protected $protectFields    = true;
-    protected $allowedFields    = ['image', 'prod_name', 'unit_price', 'size_id', 'quantity', 'address', 'contact', 'other_info', 'customerName', 'updated_at', 'created_at','status', 'product_id', 'transaction_code', 'type', 'total'];
+    protected $allowedFields    = ['image', 'prod_name', 'unit_price', 'size_id', 'quantity', 'address', 'contact', 'other_info', 'customerName', 'updated_at', 'created_at','status', 'product_id', 'transaction_code', 'type', 'total', 'totalplusshipping', 'shippingFee'];
 
     // Dates
     protected $useTimestamps = false;

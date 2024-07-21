@@ -1,0 +1,56 @@
+ERROR - 2024-07-21 06:59:39 --> mysqli_sql_exception: Unknown column 'shippingFee' in 'field list' in C:\laragon\www\capstone_backend\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\capstone_backend\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `sa...', 0)
+#1 C:\laragon\www\capstone_backend\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `sa...')
+#2 C:\laragon\www\capstone_backend\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `sa...')
+#3 C:\laragon\www\capstone_backend\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `sa...', Array, false)
+#4 C:\laragon\www\capstone_backend\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\capstone_backend\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\capstone_backend\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\laragon\www\capstone_backend\app\Controllers\MainController.php(663): CodeIgniter\Model->insert(Array)
+#8 C:\laragon\www\capstone_backend\system\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('306')
+#9 C:\laragon\www\capstone_backend\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#10 C:\laragon\www\capstone_backend\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\capstone_backend\public\index.php(85): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\capstone_backend\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-07-21 06:59:39 --> Unknown column 'shippingFee' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `sales` (`image`, `prod_name`, `unit_price`, `size_id`, `quantity`, `address`, `contact`, `other_info`, `customerName`, `updated_at`, `created_at`, `status`, `product_id`, `transaction_code`, `total`, `totalplusshipping`, `shippingFee`) VALUES (:image:, :prod_name:, :unit_price:, :size_id:, :quantity:, :address:, :contact:, :other_info:, :customerName:, :updated_at:, :created_at:, :status:, :product_id:, :transaction_code:, :total:, :totalplusshipping:, :shippingFee:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\MainController.php(663): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('306')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')
+ERROR - 2024-07-21 07:00:16 --> mysqli_sql_exception: Unknown column 'shippingFee' in 'field list' in C:\laragon\www\capstone_backend\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\capstone_backend\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `sa...', 0)
+#1 C:\laragon\www\capstone_backend\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `sa...')
+#2 C:\laragon\www\capstone_backend\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `sa...')
+#3 C:\laragon\www\capstone_backend\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `sa...', Array, false)
+#4 C:\laragon\www\capstone_backend\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\capstone_backend\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\capstone_backend\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\laragon\www\capstone_backend\app\Controllers\MainController.php(663): CodeIgniter\Model->insert(Array)
+#8 C:\laragon\www\capstone_backend\system\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('306')
+#9 C:\laragon\www\capstone_backend\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#10 C:\laragon\www\capstone_backend\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\capstone_backend\public\index.php(85): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\capstone_backend\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-07-21 07:00:16 --> Unknown column 'shippingFee' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `sales` (`image`, `prod_name`, `unit_price`, `size_id`, `quantity`, `address`, `contact`, `other_info`, `customerName`, `updated_at`, `created_at`, `status`, `product_id`, `transaction_code`, `total`, `totalplusshipping`, `shippingFee`) VALUES (:image:, :prod_name:, :unit_price:, :size_id:, :quantity:, :address:, :contact:, :other_info:, :customerName:, :updated_at:, :created_at:, :status:, :product_id:, :transaction_code:, :total:, :totalplusshipping:, :shippingFee:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\MainController.php(663): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->updateOrderStatus('306')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(85): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\capstone_backend\\public\\index.php')

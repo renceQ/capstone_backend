@@ -496,6 +496,8 @@ public function getsales($productId)
       'product_id' => $json->id,
       'transaction_code' => $json->transaction_code,
       'total' => $json->total,
+      'totalplusshipping' => $json->totalplusshipping,
+      'shippingFee' => $json->shippingFee,
       'token' => $json->token,
       'status' => $json->status,
       'category_id' => $json->category_id,
@@ -650,6 +652,10 @@ public function updateOrderStatus($id)
         'transaction_code' => $existingOrder['transaction_code'],
         'total' => $existingOrder['total'],
         'token' => $existingOrder['token'],
+        'totalplusshipping' => $existingOrder['totalplusshipping'],
+        'shippingFee' => $existingOrder['shippingFee'],
+        
+        
     ];
 
     // Save data to the SalesModel
@@ -674,6 +680,9 @@ public function updateOrderStatus($id)
         'transaction_code' => $existingOrder['transaction_code'],
         'total' => $existingOrder['total'],
         'token' => $existingOrder['token'],
+        'totalplusshipping' => $existingOrder['totalplusshipping'],
+        'shippingFee' => $existingOrder['shippingFee'],
+        
     ];
 
     
